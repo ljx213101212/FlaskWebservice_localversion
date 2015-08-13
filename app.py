@@ -17,12 +17,6 @@ def hello_world():
     print "andyafter"
     return "andyafter"
 
-@app.route('/initdb')
-def initdb():
-    print "start"
-    
-    return "success"
-
     
 @app.route('/testdb')
 def testdb():
@@ -38,6 +32,22 @@ def testinsert():
     db.commit()
     
     return "success!"
+
+@app.route('/queryById/<iden>')
+def queryById(iden):
+    print iden
+    #r = Clinic.
+    r = session.query(Clinic).filter_by(id=iden).first()
+    result = {}
+    print r.__dict__
+    for i in r.__dict__:
+        print i
+        if i[0] == '_':
+            continue
+        else:
+            result[i] = r.__dict__[i]
+            
+    return flask.jsonify(**result)
 
 @app.route('/testquery')
 def testQuery():

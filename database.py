@@ -7,6 +7,7 @@ import sqlite3
 
 
 Base = declarative_base()
+#Base.metadata.create_all(bine=engine)
 
 engine = create_engine(config.DATABASEURI)
 metadata = MetaData(bind=engine)
@@ -47,14 +48,32 @@ class Clinic(Base):
     weekday =  Column(String(256))
     saturday =  Column(String(256))
     sunday =  Column(String(256))
+    public_holiday = Column(String(256))
     remarks =  Column(String(256))
 
 
     def __init__(self, id,name=None, aviva_code=None,\
-                 ):
+                 zone=None, estate=None,address1=None,address2=None,\
+                 postal=None,telephone=None,fax=None,weekday=None,\
+                 saturday=None,sunday=None,public_holiday=None,remarks=None):
         self.id = id
         self.name = name
         self.aviva_code = aviva_code
+        self.zone = zone
+        self.estate = estate
+        self.address1 = address1
+        self.address2 = address2
+        self.postal = postal
+        self.telephone = telephone
+        self.fax = fax
+        self.weekday = weekday
+        self.saturday = saturday
+        self.sunday = sunday
+        self.public_holiday = public_holiday
+        self.remarks = remarks
+        
+    def __repr__(self):
+        return '<Clinic %r>' % (self.name)
     
 
 
