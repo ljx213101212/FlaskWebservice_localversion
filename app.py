@@ -23,16 +23,25 @@ def hello_world():
 def testdb():
     print "testdb"
 
-@app.route('/insert')
+@app.route('/insert/<iden>')
 def testinsert():
-    viewer = database.User(id=1,name="andy",email="andyafter@gmail.com")
+    viewer = User(id=iden,name="andy",email="andyafter@gmail.com")
     db = session
-
     db.add(viewer)
-
     db.commit()
     
     return "success!"
+
+@app.route('/deleteById/<iden>')
+def deleteById(iden):
+    user1 = session.query(User).filter_by(id=iden).first()
+    if user1 == None:
+        return "no user with id " + iden
+    session.delete(user1)
+    session.commit()
+    return "success"
+    
+    
 
 @app.route('/queryById/<iden>')
 def queryById(iden):
@@ -54,6 +63,8 @@ def queryById(iden):
 def testQuery():
 
     a = session.query(User).all()
+    if len(a)==0:
+        return "nothing"
     print a[0].__dict__
     print a[0].name
     res = {}
