@@ -15,7 +15,8 @@ app = make_app()
 @app.route('/')
 def hello_world():
     print "andyafter"
-    return "andyafter"
+    
+    return render_template("index.html")
 
     
 @app.route('/testdb')
