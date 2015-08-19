@@ -1,8 +1,11 @@
 from flask import Flask
 from flask import render_template
+from flask import request
 from database import *
 import flask
 import json
+from sqlalchemy import update
+
 
 def make_app():
     app = Flask(__name__)
@@ -15,7 +18,6 @@ app = make_app()
 @app.route('/')
 def hello_world():
     print "andyafter"
-    
     return render_template("index.html")
 
     
@@ -23,14 +25,40 @@ def hello_world():
 def testdb():
     print "testdb"
 
+
+@app.route('/testpost',methods=["POST"])
+def testPost():
+    data = request.form
+    print data
+    print "param2" in data
+    return "SUCCESS"
+
+
 @app.route('/insert/<iden>')
-def testinsert():
-    viewer = User(id=iden,name="andy",email="andyafter@gmail.com")
+def testinsert(iden):
+    viewer = User(id=iden,name="andy",email=None)
     db = session
-    db.add(viewer)
+    try:
+        db.add(viewer)
+    except:
+        db.rollback()
+        return "failed"
     db.commit()
     
     return "success!"
+
+
+
+@app.route('/update/<iden>')
+def updateById(iden):
+    # this one should be post
+    a = session.query(User).filter_by(id=iden).first()
+    if a == None:
+        return "Invalid ID!"
+    a.name=u"andypan"
+    session.commit()
+    return "SUCCESS"
+
 
 @app.route('/deleteById/<iden>')
 def deleteById(iden):

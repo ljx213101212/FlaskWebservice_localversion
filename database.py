@@ -17,10 +17,10 @@ session = Session()
 
 
 class User(Base):
-    __tablename__ = 'users'
+    __tablename__ = 'user'
     id = Column(Integer, primary_key=True)
-    name = Column(String(50), unique=True)
-    email = Column(String(120), unique=True)
+    name = Column(String(50))
+    email = Column(String(120))
 
     def __init__(self, id,name=None, email=None):
         self.id = id
