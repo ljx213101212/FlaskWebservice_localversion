@@ -88,10 +88,20 @@ class Clinic(Base):
         return '<Clinic %r>' % (self.name)
     
 
+class DClinic(Base):                      # detailed clinic, from id to clinic geocode
+    __tablename__ = 'clinicgeo'
+    id = Column(Integer, primary_key=True)
+    latitude = Column(String(256))
+    longtitude = Column(String(256))
 
-def connect_db(app):
-    print "connect_db: %s" % app.config['DATABASE']
-    db = sqlite3.connect(app.config['DATABASE'])
-    db.cursor().executescript("PRAGMA foreign_keys = ON;") # should implement delete-cascade but doesn't
-    return db
-    
+
+    def __init__(self,id,latitude = None, longitude = None):
+        self.id = id
+        self.latitude = latitude
+        self.longtitude = longitude
+
+
+
+
+    def __repr__(self):
+        return '<Clinic %r>' % (self.id)

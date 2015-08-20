@@ -47,23 +47,75 @@ def testinsert(iden):
 
 
 
-@app.route('/update/<iden>')
-def updateById(iden):
+@app.route('/testpost',methods=["POST"])
+def testPost():
+    data = request.form
+    print data
+    print "param2" in data
+    return "SUCCESS"
+
+
+@app.route('/createClinic',methods=["POST"])
+def createClinic():
+    ## this one is dangerous, cause there should at least be some management part for the id management
+    ## this one assume that you already have an exclusive ID
+    data = request.form
+    if not data:
+        return "No data!"
+    if 'id' not in data:
+        return "at least tell me the id!!!!"
+    a = session.query(Clinic).filter_by(id=data['id']).first()
+    if a:
+        return "ID Already Exist"
+    params = ['id','name', 'aviva_code',\
+                 'zone', 'estate','address1','address2',\
+                 'postal','telephone','fax','weekday',\
+                 'saturday','sunday','public_holiday','remarks']
+    clinic = Clinic(id = data['id'])
+    if 'name' in data:
+        clinic.name = data['name']
+    if 'address1' in data:
+        clinic.address1 = data['address1']
+    if 'address2' in data:
+        clinic.address2 = data['address2']
+    session.commit()
+
+    return "SUCCESS"
+
+
+@app.route('/update',methods=["POST"])
+def updateById():
     # this one should be post
-    a = session.query(User).filter_by(id=iden).first()
-    if a == None:
+    # first this function is gonna support address 1 and address 2 and name update
+    if not request.form:
+        return "No Data!"
+    data = request.form
+    if 'id' not in data:
+        return "Specify ID!"
+
+    a = session.query(Clinic).filter_by(id=data['id']).first()
+    if a is not None:
         return "Invalid ID!"
-    a.name=u"andypan"
+
+    if 'name' in data:
+        a.name= data['name']
+    if 'address1' in data:
+        a.address1 = data['address1']
+    if 'address2' in data:
+        a.address2 = data['address2']
+    ## if you want to add more simply add here
+    session.add(a)
+
     session.commit()
     return "SUCCESS"
 
 
 @app.route('/deleteById/<iden>')
 def deleteById(iden):
-    user1 = session.query(User).filter_by(id=iden).first()
-    if user1 == None:
-        return "no user with id " + iden
-    session.delete(user1)
+    c = session.query(Clinic).filter_by(id=iden).first()
+    if c == None:
+        return "No Clinic with Id Found!"
+    session.delete(c)
     session.commit()
     return "success"
     
@@ -135,12 +187,7 @@ def queue():
     return flask.jsonify(**result)
 
 
-@app.route('/testpost',methods=["POST"])
-def testPost():
-    data = request.form
-    print data
-    print "param2" in data
-    return "SUCCESS"
+
 
 @app.route('/QNAuth',methods=["POST"])
 def qnauth():
