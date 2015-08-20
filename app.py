@@ -3,10 +3,13 @@ from flask import render_template
 from flask import request
 from database import *
 import flask
+import time
 import json
 from sqlalchemy import update
 
 
+
+current_milli_time = lambda: int(round(time.time() * 1000))
 def make_app():
     app = Flask(__name__)
     app.config.from_object('config')
@@ -107,8 +110,44 @@ def testQuery():
     print a.email
     """
     return flask.jsonify(**res)
-    
 
+
+@app.route('/queue')
+def queue():
+    a = session.query(Queue).filter_by(id="000000").first()
+    nstr = ""
+
+    qnum = str(int(a.key)+1)
+
+    a.key = qnum
+    nstr = qnum
+    for i in range(6-len(nstr)):
+        nstr = '0'+nstr
+    k = str(current_milli_time())
+
+    que = session.query(Queue).filter_by(id=nstr).first()
+    if que == None:
+        q = Queue(id = nstr, key = k)
+        session.add(q)
+    else:
+        que.key = k
+    session.commit()
+    result = {}
+    result['id'] = nstr
+    result['key'] = k
+
+
+    return flask.jsonify(**result)
+
+
+
+    
+@app.route('/refreshqueue')
+def refresh():
+    a = session.query(Queue).filter_by(id="000000").first()
+    a.key = u'0'
+    session.commit()
+    return "success"
 
     
 if __name__ == '__main__':

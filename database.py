@@ -16,6 +16,18 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 
+class Queue(Base):
+    __tablename__ = 'queue'
+    id = Column(String(10), primary_key=True) # maximum 10,
+    key = Column(String(50))
+
+    def __init__(self, id,key=None):
+        self.id = id
+        self.key = key
+
+    def __repr__(self):
+        return '<Queue Number %r>' % (self.id)
+
 class User(Base):
     __tablename__ = 'user'
     id = Column(Integer, primary_key=True)
