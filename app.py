@@ -29,12 +29,7 @@ def testdb():
     print "testdb"
 
 
-@app.route('/testpost',methods=["POST"])
-def testPost():
-    data = request.form
-    print data
-    print "param2" in data
-    return "SUCCESS"
+
 
 
 @app.route('/insert/<iden>')
@@ -140,6 +135,23 @@ def queue():
     return flask.jsonify(**result)
 
 
+@app.route('/testpost',methods=["POST"])
+def testPost():
+    data = request.form
+    print data
+    print "param2" in data
+    return "SUCCESS"
+
+@app.route('/QNAuth',methods=["POST"])
+def qnauth():
+    data = request.form
+    a = session.query(Queue).filter_by(id=data['id']).first()
+    if not a:
+        return "ID Does Not Exist!"
+    elif a.key == data['key']:
+        return "success"
+
+    return "Auth Failed"
 
     
 @app.route('/refreshqueue')
