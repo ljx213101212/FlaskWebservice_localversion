@@ -12,7 +12,6 @@ The API provided so far:
 - http://localhost:5000/createClinic
 
 The update and createClinic, these two are POST requests and the information you should provide should look like this :
-
 {
 
   "id" : blabla,
