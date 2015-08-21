@@ -15,9 +15,12 @@ The update and createClinic, these two are POST requests and the information you
 
 {
 
-"id" : blabla,
-"name": hospital name,
-"address1": first line of address,
-"address2": second line of address
+  "id" : blabla,
+  
+  "name": hospital name,
+  
+  "address1": first line of address,
+  
+  "address2": second line of address
 
 }
