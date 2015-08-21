@@ -24,9 +24,24 @@ def hello_world():
     return render_template("index.html")
 
     
-@app.route('/testdb')
-def testdb():
-    print "testdb"
+@app.route('/queryall')
+def queryall():
+    a = session.query(Clinic).all()
+    result = {}
+    print len(a)
+    res = []
+
+    for j in a:
+        print j
+        for i in j.__dict__:
+            if i[0] == '_':
+                continue
+            result[i] = j.__dict__[i]
+        res.append(result)
+    r = {}
+    r['result'] = res
+
+    return flask.jsonify(**r)
 
 
 
@@ -60,6 +75,7 @@ def createClinic():
     ## this one is dangerous, cause there should at least be some management part for the id management
     ## this one assume that you already have an exclusive ID
     data = request.form
+    print data.getlist('name')
     if not data:
         return "No data!"
     if 'id' not in data:
@@ -78,9 +94,14 @@ def createClinic():
         clinic.address1 = data['address1']
     if 'address2' in data:
         clinic.address2 = data['address2']
+    print data
+    print clinic
+    session.add(clinic)
     session.commit()
 
     return "SUCCESS"
+
+
 
 
 @app.route('/update',methods=["POST"])
