@@ -93,15 +93,17 @@ class DClinic(Base):                      # detailed clinic, from id to clinic g
     id = Column(Integer, primary_key=True)
     latitude = Column(String(256))
     longtitude = Column(String(256))
+    # this part is dangerous, and the updating part should be an atomic operation
+    current_queue_num = Column(String(10))  # to store the the latest current queue num for this
+    service_queue_num = Column(String(10))  # the queue number of the patient on servicing
 
 
-    def __init__(self,id,latitude = None, longitude = None):
+    def __init__(self,id,latitude = None, longitude = None, current_queue_num = None,service_queue_num = None):
         self.id = id
         self.latitude = latitude
         self.longtitude = longitude
-
-
-
+        self.current_queue_num = current_queue_num
+        self.service_queue_num = service_queue_num
 
     def __repr__(self):
         return '<Clinic %r>' % (self.id)

@@ -23,7 +23,22 @@ def hello_world():
     print "andyafter"
     return render_template("index.html")
 
-    
+
+@app.route('/hostest')
+def hostest():
+    a = session.query(Clinic).filter_by(id=1).first()
+    result = {}
+    print a
+    for i in a.__dict__:
+        if i[0] == '_':
+            continue
+        result[i] = a.__dict__[i]
+
+
+    return flask.jsonify(**result)
+
+
+
 @app.route('/queryall')
 def queryall():
     a = session.query(Clinic).all()
