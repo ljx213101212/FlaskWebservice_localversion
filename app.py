@@ -4,6 +4,7 @@ from flask import request
 from database import *
 import flask
 import time
+import models.queue_api as qapi
 import json
 from sqlalchemy import update
 
@@ -20,8 +21,17 @@ app = make_app()
 
 @app.route('/')
 def hello_world():
-    print "andyafter"
-    return render_template("index.html")
+    return qapi.testmodel()
+    # tested how to write functions in models lol
+    # but I'm not sure whether it is the right way
+    #return a
+
+@app.route('/refreshqueue/<iden>')
+def refresh_queue_by_id(iden):
+    # refresh queue by clinic id so that every night
+    # everything can be a fresh start
+    qapi.refresh_queue_by_clinic_id(1)
+    return "success"
 
 
 @app.route('/hostest')
@@ -103,7 +113,7 @@ def createClinic():
     params = ['name', 'aviva_code',\
                  'zone', 'estate','address1','address2',\
                  'postal','telephone','fax','weekday',\
-                 'saturday','sunday','public_holiday','remarks','']
+                 'saturday','sunday','public_holiday','remarks','latitude','longitude']
     clinic = Clinic(id = data['id'])
     if 'name' in data:
         clinic.name = data['name']

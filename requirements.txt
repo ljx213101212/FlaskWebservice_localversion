@@ -1,5 +1,4 @@
 BeautifulSoup==3.2.1
-Django==1.7.4
 ExifRead==1.4.2
 Flask==0.10.1
 Flask-Bootstrap==3.3.4.1

@@ -116,7 +116,10 @@ class Doctor(Base):
     __tablename__ = 'doctors'
     id = Column(Integer, primary_key=True)
     name = Column(String(64))
-    clinic_id = Column(String(10),ForeignKey('clinic.id'))   ## add some foreign key factor inside
+    # current queue num is used to record the current queue status of
+    # the doctor
+    current_queue_num = Column(Integer)
+    clinic_id = Column(String(10), ForeignKey('clinic.id'))   ## add some foreign key factor inside
     queue_id = relationship('Queue', backref='queue')
 
     def __init__(self, id, name=None,clinic_id=None):

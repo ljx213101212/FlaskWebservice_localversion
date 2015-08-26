@@ -16,6 +16,5 @@ doc1.name= "Andy"
 c.doctors.append(doc1)
 session.add(doc1)
 '''
-
-session.commit()
+#session.commit()
 
