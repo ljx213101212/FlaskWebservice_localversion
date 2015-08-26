@@ -89,6 +89,8 @@ def testPost():
 def createClinic():
     ## this one is dangerous, cause there should at least be some management part for the id management
     ## this one assume that you already have an exclusive ID
+    ## in the new version you don't have to care about the ID number anymore cause it
+    ## can auto increment
     data = request.form
     print data.getlist('name')
     if not data:
@@ -98,10 +100,10 @@ def createClinic():
     a = session.query(Clinic).filter_by(id=data['id']).first()
     if a:
         return "ID Already Exist"
-    params = ['id','name', 'aviva_code',\
+    params = ['name', 'aviva_code',\
                  'zone', 'estate','address1','address2',\
                  'postal','telephone','fax','weekday',\
-                 'saturday','sunday','public_holiday','remarks']
+                 'saturday','sunday','public_holiday','remarks','']
     clinic = Clinic(id = data['id'])
     if 'name' in data:
         clinic.name = data['name']
