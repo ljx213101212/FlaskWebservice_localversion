@@ -43,10 +43,7 @@ def hostest():
         if i[0] == '_':
             continue
         result[i] = a.__dict__[i]
-
-
     return flask.jsonify(**result)
-
 
 
 @app.route('/queryall')
@@ -69,9 +66,6 @@ def queryall():
     return flask.jsonify(**r)
 
 
-
-
-
 @app.route('/insert/<iden>')
 def testinsert(iden):
     viewer = User(id=iden,name="andy",email=None)
@@ -92,6 +86,7 @@ def testPost():
     data = request.form
     print data
     print "param2" in data
+    print dir(data)
     return "SUCCESS"
 
 

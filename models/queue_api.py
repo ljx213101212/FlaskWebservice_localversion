@@ -20,3 +20,6 @@ def refresh_queue_by_clinic_id(iden):
         print doc.current_queue_num
     session.commit()
     return "success"
+
+def generate_queue():
+    return "success"
