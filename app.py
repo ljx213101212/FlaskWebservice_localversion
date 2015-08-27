@@ -140,7 +140,7 @@ def updateById():
         return "Invalid ID!"
 
     if 'name' in data:
-        a.name= data['name']
+        a.name = data['name']
     if 'address1' in data:
         a.address1 = data['address1']
     if 'address2' in data:
@@ -209,37 +209,22 @@ def queue():
     if 'clinic_name' not in data:
         return "give me clinic name!"
     #print data
-    result = {}
+
     q = session.query(Queue).filter_by(uuid=data['uuid']).first()
     if q is not None:
-        return q.queue_number
+        result = {}
+        result["key"] = q.key
+        result["queue_num"] = q.queue_number
+        return flask.jsonify(**result)
         #return "uuid already exist!"
     c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
     if not c:
         return "clinic name does not exsit!"
 
-    '''
-    qnum = str(int(a.key)+1)
-
-    a.key = qnum
-    nstr = qnum
-    for i in range(6-len(nstr)):
-        nstr = '0'+nstr
-    k = str(current_milli_time())
-
-    que = session.query(Queue).filter_by(id=nstr).first()
-    if que == None:
-        q = Queue(id = nstr, key = k)
-        session.add(q)
-    else:
-        que.key = k
-    session.commit()
-    result = {}
-    result['id'] = nstr
-    result['key'] = k
-    '''
     result = qapi.generate_queue(data['clinic_name'],data['uuid'])
-    return result
+    if "key" not in result:
+        return result
+    return flask.jsonify(**result)
 
 
 @app.route('/QNAuth',methods=["POST"])
@@ -253,13 +238,11 @@ def qnauth():
 
     return "Auth Failed"
 
+@app.route('/registration',methods=['POST'])
+def registration():
     
-@app.route('/refreshqueue')
-def refresh():
-    a = session.query(Queue).filter_by(id="000000").first()
-    a.key = u'0'
-    session.commit()
-    return "success"
+    return "SUCCESS"
+
 
     
 if __name__ == '__main__':

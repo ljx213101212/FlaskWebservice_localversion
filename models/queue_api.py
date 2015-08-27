@@ -45,7 +45,8 @@ def generate_queue(clinic_name, uuid):
         queue_num = '0'+queue_num
 
     queue = Queue(id=rows+1, key=k, uuid=uuid)
-    queue.queue_number = queue_num
+    queue.queue_number = queue_num+1
+    # this one I add one to start from 1
     docs[docindex].queue_id.append(queue)
     if not docs[docindex].current_queue_num:
         docs[docindex].current_queue_num = 1
@@ -53,4 +54,7 @@ def generate_queue(clinic_name, uuid):
         docs[docindex].current_queue_num +=1
     session.add(queue)
     session.commit()
-    return queue_num
+    result = {}
+    result["queue_num"] = queue_num
+    result["key"] = k
+    return result
