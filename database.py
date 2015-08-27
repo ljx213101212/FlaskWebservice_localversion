@@ -63,13 +63,15 @@ class Queue(Base):
     id = Column(Integer, primary_key=True) # maximum 10,
     key = Column(String(50))
     uuid = Column(String(256))  ## only useful for mobile phones
+    queue_number = Column(String(10))
     doctor_id = Column(Integer, ForeignKey('doctors.id'))
     patient_id = Column(Integer, ForeignKey('patient.patient_id'))
 
 
-    def __init__(self, id,key=None):
+    def __init__(self, id,key=None,uuid=None):
         self.id = id
         self.key = key
+        self.uuid = uuid
 
     def __repr__(self):
         return '<Queue Number %r>' % (self.id)

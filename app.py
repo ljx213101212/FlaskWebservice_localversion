@@ -83,10 +83,9 @@ def testinsert(iden):
 
 @app.route('/testpost',methods=["POST"])
 def testPost():
-    data = request.form
+    data = request.get_json()
     print data
-    print "param2" in data
-    print dir(data)
+    print data["id"]
     return "SUCCESS"
 
 
@@ -202,11 +201,24 @@ def testQuery():
     return flask.jsonify(**res)
 
 
-@app.route('/queue')
+@app.route('/queue',methods=["POST"])
 def queue():
-    a = session.query(Queue).filter_by(id="000000").first()
-    nstr = ""
+    data = request.get_json()
+    if 'uuid' not in data:
+        return "give me uuid!"
+    if 'clinic_name' not in data:
+        return "give me clinic name!"
+    #print data
+    result = {}
+    q = session.query(Queue).filter_by(uuid=data['uuid']).first()
+    if q is not None:
+        return q.queue_number
+        #return "uuid already exist!"
+    c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
+    if not c:
+        return "clinic name does not exsit!"
 
+    '''
     qnum = str(int(a.key)+1)
 
     a.key = qnum
@@ -225,11 +237,9 @@ def queue():
     result = {}
     result['id'] = nstr
     result['key'] = k
-
-
-    return flask.jsonify(**result)
-
-
+    '''
+    result = qapi.generate_queue(data['clinic_name'],data['uuid'])
+    return result
 
 
 @app.route('/QNAuth',methods=["POST"])
