@@ -204,22 +204,26 @@ def testQuery():
 @app.route('/queue',methods=["POST"])
 def queue():
     data = request.get_json()
+    result = {}
     if 'uuid' not in data:
-        return "give me uuid!"
+        result["error"] = "give me uuid!"
+        return flask.jsonify(**result)
     if 'clinic_name' not in data:
-        return "give me clinic name!"
+        result["error"] = "give me clinic name!"
+        return flask.jsonify(**result)
     #print data
 
     q = session.query(Queue).filter_by(uuid=data['uuid']).first()
     if q is not None:
-        result = {}
+
         result["key"] = q.key
         result["queue_num"] = q.queue_number
         return flask.jsonify(**result)
         #return "uuid already exist!"
     c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
     if not c:
-        return "clinic name does not exsit!"
+        result["error"] =  "clinic name does not exsit!"
+        return flask.jsonify(**result)
 
     result = qapi.generate_queue(data['clinic_name'],data['uuid'])
     if "key" not in result:
@@ -240,7 +244,17 @@ def qnauth():
 
 @app.route('/registration',methods=['POST'])
 def registration():
-    
+    # this version of registration does not contain
+    #
+    data = request.get_json()
+
+    return "SUCCESS"
+
+@app.route('/registerdata',methods = ['POST'])
+def registData():
+    # modification for registration
+
+
     return "SUCCESS"
 
 
