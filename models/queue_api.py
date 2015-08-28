@@ -34,18 +34,20 @@ def generate_queue(clinic_name, uuid):
     docindex = random.randrange(0, len(docs))
     rows = session.query(Queue).count()
     cur_queue = docs[docindex].current_queue_num
-    queue_num = str(cur_queue)
+    queue_num = str(cur_queue+1)
 
     # 3 digits of queue number
     while len(queue_num) < 3:
         queue_num = '0'+queue_num
-    queue_num=str(docindex)
+
+    # doctor number in the hospital
+    queue_num=str(docindex)+queue_num
     # another 3 digits of doctor number
     while len(queue_num) < 6:
         queue_num = '0'+queue_num
 
     queue = Queue(id=rows+1, key=k, uuid=uuid)
-    queue.queue_number = queue_num+1
+    queue.queue_number = queue_num
     # this one I add one to start from 1
     docs[docindex].queue_id.append(queue)
     if not docs[docindex].current_queue_num:
@@ -57,4 +59,5 @@ def generate_queue(clinic_name, uuid):
     result = {}
     result["queue_num"] = queue_num
     result["key"] = k
+    result["doctor"] = docs[docindex].name
     return result

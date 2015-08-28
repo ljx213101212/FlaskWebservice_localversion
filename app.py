@@ -5,6 +5,7 @@ from database import *
 import flask
 import time
 import models.queue_api as qapi
+import models.registration as registration
 import json
 from sqlalchemy import update
 
@@ -85,7 +86,7 @@ def testinsert(iden):
 def testPost():
     data = request.get_json()
     print data
-    print data["id"]
+    #print data["id"]
     return "SUCCESS"
 
 
@@ -111,10 +112,10 @@ def createClinic():
     clinic = Clinic(id = data['id'])
     if 'name' in data:
         clinic.name = data['name']
-    if 'address1' in data:
-        clinic.address1 = data['address1']
-    if 'address2' in data:
-        clinic.address2 = data['address2']
+    if 'address_1' in data:
+        clinic.address_1 = data['address_1']
+    if 'address_2' in data:
+        clinic.address_2 = data['address_2']
     print data
     print clinic
     session.add(clinic)
@@ -204,6 +205,7 @@ def testQuery():
 @app.route('/queue',methods=["POST"])
 def queue():
     data = request.get_json()
+    print data
     result = {}
     if 'uuid' not in data:
         result["error"] = "give me uuid!"
@@ -218,6 +220,8 @@ def queue():
 
         result["key"] = q.key
         result["queue_num"] = q.queue_number
+        d = session.query(Doctor).filter_by(id=q.doctor_id).first()
+        result["doctor"] = d.name
         return flask.jsonify(**result)
         #return "uuid already exist!"
     c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
@@ -226,8 +230,7 @@ def queue():
         return flask.jsonify(**result)
 
     result = qapi.generate_queue(data['clinic_name'],data['uuid'])
-    if "key" not in result:
-        return result
+    print result
     return flask.jsonify(**result)
 
 
@@ -245,10 +248,23 @@ def qnauth():
 @app.route('/registration',methods=['POST'])
 def registration():
     # this version of registration does not contain
-    #
+    # shit the fucking meeting made me forget about what
+    # I want to write
     data = request.get_json()
+    result = {}
+    if "name" not in data:
+        result["error"] = "at least tell me your name!"
+        return flask.jsonify(**result)
+    if "ic_num" not in data:
+        result["error"] = "at least tell me your IC number!"
+        return flask.jsonify(**result)
+    if "queue_num" not in data:
+        result["error"] = "at least tell me your queue number!"
+        return flask.jsonify(**result)
+    result["success"] = registration.register(**data)
 
-    return "SUCCESS"
+
+    return flask.jsonify(**result)
 
 @app.route('/registerdata',methods = ['POST'])
 def registData():
