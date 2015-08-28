@@ -10,7 +10,8 @@ The API provided so far:
 - http://localhost:5000/queryById/<ID_num>
 - http://localhost:5000/update        
 - http://localhost:5000/createClinic
-- /refreshqueue/<iden>
+- /refreshqueue/\<iden\>
+- /queue   [POST]
 
 The update and createClinic, these two are POST requests and the information you should provide should look like this :
 {
@@ -28,3 +29,5 @@ The update and createClinic, these two are POST requests and the information you
 In the newer versio  I will eradicate everything that contains id in the request. Make the id generation an automatic procedure. 
 
 **/refreshqueue** is actually used to refresh all doctors' current queue number as 0. In a word, after one day work, you will want to refresh the queue number, make it 0 for the next day.
+
+**/queue** is a POST request, you send information as a JSON with the key "uuid" and "clinic\_name", you get return with a JSON that contains informatin about "ququq\_num", "key", and "doctor".
