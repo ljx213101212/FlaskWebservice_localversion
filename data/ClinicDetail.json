@@ -6,12 +6,12 @@
         "CLINIC": "ASPEN CLINIC",
         "ESTATE": "BISHAN",
         "FAX_NO": 6.4567217e+07,
-        "LATITUDE": 1.358823,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.358823,
             "longitude": 103.844368
         },
+        "LATITUDE": 1.358823,
         "LONGITUDE": 103.844368,
         "MONDAY_FRIDAY": "9.00AM-12.30PM,\n2.00PM-4.30PM,\n7.00PM-9.00PM (CLOSED TUE \u0026 FRI NIGHT)",
         "POSTAL": 570283,
@@ -21,9 +21,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4553829e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.375Z",
-        "objectId": "tyrWs3mjET",
-        "updatedAt": "2015-05-28T06:20:00.411Z"
+        "createdAt": "2015-05-15T03:35:49.459Z",
+        "objectId": "o5gnaUu1is",
+        "updatedAt": "2015-05-28T03:29:26.813Z"
     },
 	{
         "ADDRESS_1": "BLK 501 BISHAN STREET 11 ",
@@ -32,12 +32,12 @@
         "CLINIC": "LIFELINE BISHAN MEDICAL CLINIC",
         "ESTATE": "BISHAN",
         "FAX_NO": 6.358251e+07,
-        "LATITUDE": 1.348388,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.348388,
             "longitude": 103.849097
         },
+        "LATITUDE": 1.348388,
         "LONGITUDE": 103.849097,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 570501,
@@ -47,9 +47,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.2598969e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.386Z",
-        "objectId": "vVEbU3n4It",
-        "updatedAt": "2015-05-28T06:20:08.626Z"
+        "createdAt": "2015-05-15T03:35:49.471Z",
+        "objectId": "Jvx5PCMfYM",
+        "updatedAt": "2015-05-28T03:29:26.406Z"
     },
 	{
         "ADDRESS_1": "152 BEACH ROAD ",
@@ -58,12 +58,12 @@
         "CLINIC": "CITYHEALTH CLINIC \u0026 SURGERY",
         "ESTATE": "BUGIS",
         "FAX_NO": 6.2990206e+07,
-        "LATITUDE": 1.298912,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.298912,
             "longitude": 103.859319
         },
+        "LATITUDE": 1.298912,
         "LONGITUDE": 103.859319,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM",
         "POSTAL": 189721,
@@ -73,9 +73,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2995398e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.390Z",
-        "objectId": "4douTet0E0",
-        "updatedAt": "2015-05-28T06:20:04.649Z"
+        "createdAt": "2015-05-15T03:35:49.477Z",
+        "objectId": "Nn0djXdB0i",
+        "updatedAt": "2015-05-28T03:29:31.692Z"
     },
 	{
         "ADDRESS_1": "300 BEACH ROAD ",
@@ -84,12 +84,12 @@
         "CLINIC": "HALE MEDICAL CLINIC (CONCOURSE)\nPTE LTD",
         "ESTATE": "BUGIS",
         "FAX_NO": 6.2995505e+07,
-        "LATITUDE": 1.301012,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.301012,
             "longitude": 103.862214
         },
+        "LATITUDE": 1.301012,
         "LONGITUDE": 103.862214,
         "MONDAY_FRIDAY": "8.30AM-1.00PM\n2.30PM-5.30PM",
         "POSTAL": 199555,
@@ -99,9 +99,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2944877e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.396Z",
-        "objectId": "I2O9oHkQ8j",
-        "updatedAt": "2015-05-28T06:20:12.384Z"
+        "createdAt": "2015-05-15T03:35:49.483Z",
+        "objectId": "f5Sehlkl7Q",
+        "updatedAt": "2015-05-28T03:29:25.229Z"
     },
 	{
         "ADDRESS_1": "5 RIDGEWOOD CLOSE ",
@@ -110,12 +110,12 @@
         "CLINIC": "RIDGEWOOD MEDICAL CLINIC",
         "ESTATE": "BUKIT TIMAH",
         "FAX_NO": 6.4683575e+07,
-        "LATITUDE": 1.316644,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.316644,
             "longitude": 103.778973
         },
+        "LATITUDE": 1.316644,
         "LONGITUDE": 103.778973,
         "MONDAY_FRIDAY": "9.00AM-12.30PM,\n2.00PM-6.00PM (CLOSED ON WED EVENING)",
         "POSTAL": 276696,
@@ -125,9 +125,9 @@
         "SUNDAY": "10.30AM-12.30PM",
         "TELEPHONE": 6.4691666e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.400Z",
-        "objectId": "z7Aug8RyRb",
-        "updatedAt": "2015-05-28T06:20:16.277Z"
+        "createdAt": "2015-05-15T03:35:49.488Z",
+        "objectId": "5cHFTQaHkq",
+        "updatedAt": "2015-05-28T03:29:25.592Z"
     },
 	{
         "ADDRESS_1": "BLK 8 EMPRESS ROAD ",
@@ -136,12 +136,12 @@
         "CLINIC": "YAP MEDICARE CLINIC PTE LTD",
         "ESTATE": "FARRER",
         "FAX_NO": 6.4763371e+07,
-        "LATITUDE": 1.316467,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.316467,
             "longitude": 103.805865
         },
+        "LATITUDE": 1.316467,
         "LONGITUDE": 103.805865,
         "MONDAY_FRIDAY": "8.30AM-11.45AM\n2.00PM-3.45PM\n7.00PM-8.30PM",
         "POSTAL": 260008,
@@ -152,9 +152,9 @@
         "SUNDAY": "8.30AM-11.45AM",
         "TELEPHONE": 6.4712338e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.403Z",
-        "objectId": "vO13tOlZXs",
-        "updatedAt": "2015-05-28T06:20:20.971Z"
+        "createdAt": "2015-05-15T03:35:49.494Z",
+        "objectId": "f7MKSh8dvq",
+        "updatedAt": "2015-05-28T03:29:29.695Z"
     },
 	{
         "ADDRESS_1": "190 CLEMENCEAU AVENUE ",
@@ -163,12 +163,12 @@
         "CLINIC": "CHONG'S MEDICAL CENTRE",
         "ESTATE": "ORCHARD",
         "FAX_NO": 6.3325629e+07,
-        "LATITUDE": 1.298146,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.298146,
             "longitude": 103.844158
         },
+        "LATITUDE": 1.298146,
         "LONGITUDE": 103.844158,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-5.00PM",
         "POSTAL": 239924,
@@ -179,9 +179,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3383297e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.407Z",
-        "objectId": "vl0cWWLv7e",
-        "updatedAt": "2015-05-28T06:20:29.220Z"
+        "createdAt": "2015-05-15T03:35:49.500Z",
+        "objectId": "HbLvze9L3o",
+        "updatedAt": "2015-05-28T03:29:24.849Z"
     },
 	{
         "ADDRESS_1": "BLK 403 SIN MING AVENUE ",
@@ -190,12 +190,12 @@
         "CLINIC": "HEALTHCARE FAMILY CLINIC \u0026 SURGERY",
         "ESTATE": "SIN MING",
         "FAX_NO": 6.4550869e+07,
-        "LATITUDE": 1.362845,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.362845,
             "longitude": 103.833435
         },
+        "LATITUDE": 1.362845,
         "LONGITUDE": 103.833435,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n2.00PM-4.00PM\n7.00PM-9.00PM",
         "POSTAL": 570403,
@@ -205,9 +205,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.4542373e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.411Z",
-        "objectId": "DWcN3nl2R3",
-        "updatedAt": "2015-05-28T06:20:24.999Z"
+        "createdAt": "2015-05-15T03:35:49.505Z",
+        "objectId": "wZI4IEvk5o",
+        "updatedAt": "2015-05-28T03:29:32.110Z"
     },
 	{
         "ADDRESS_1": "10 SINARAN DRIVE ",
@@ -216,12 +216,12 @@
         "CLINIC": "MHC MEDICAL CENTRE (NOVENA)",
         "ESTATE": "THOMSON",
         "FAX_NO": 6.3976578e+07,
-        "LATITUDE": 1.320764,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.320764,
             "longitude": 103.844175
         },
+        "LATITUDE": 1.320764,
         "LONGITUDE": 103.844175,
         "MONDAY_FRIDAY": "8.30AM-12.30PM,\n1.30PM-4.30PM",
         "POSTAL": 307506,
@@ -231,9 +231,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3976568e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.414Z",
-        "objectId": "A9Ofi9pTxi",
-        "updatedAt": "2015-05-28T06:20:32.278Z"
+        "createdAt": "2015-05-15T03:35:49.511Z",
+        "objectId": "O40sZKvgd4",
+        "updatedAt": "2015-05-28T03:29:29.351Z"
     },
 	{
         "ADDRESS_1": "228 UPPER THOMSON ROAD ",
@@ -241,12 +241,12 @@
         "CLINIC": "BENESSERE CLINIC PTE LTD",
         "ESTATE": "THOMSON",
         "FAX_NO": 6.4571129e+07,
-        "LATITUDE": 1.352953,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.352953,
             "longitude": 103.835074
         },
+        "LATITUDE": 1.352953,
         "LONGITUDE": 103.835074,
         "MONDAY_FRIDAY": "10.00AM - 10.00PM",
         "POSTAL": 574360,
@@ -256,9 +256,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4562448e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.418Z",
-        "objectId": "YtCJRVA265",
-        "updatedAt": "2015-05-28T06:20:36.818Z"
+        "createdAt": "2015-05-15T03:35:49.516Z",
+        "objectId": "rJw4zJ344T",
+        "updatedAt": "2015-05-28T03:29:30.375Z"
     },
 	{
         "ADDRESS_1": "234 UPPER THOMSON ROAD ",
@@ -266,12 +266,12 @@
         "CLINIC": "CHONG'S CLINIC",
         "ESTATE": "THOMSON",
         "FAX_NO": 6.4536035e+07,
-        "LATITUDE": 1.353055,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.353055,
             "longitude": 103.83495
         },
+        "LATITUDE": 1.353055,
         "LONGITUDE": 103.83495,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.00PM\n6.00PM-9.00PM",
         "POSTAL": 574365,
@@ -282,9 +282,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4536492e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.422Z",
-        "objectId": "Y3Kgv90SZA",
-        "updatedAt": "2015-05-28T06:20:41.439Z"
+        "createdAt": "2015-05-15T03:35:49.522Z",
+        "objectId": "wYYXKILZKk",
+        "updatedAt": "2015-05-28T03:29:28.908Z"
     },
 	{
         "ADDRESS_1": "BLK 22 HAVELOCK ROAD ",
@@ -293,12 +293,12 @@
         "CLINIC": "ICARE MEDICAL AND WELLNESS CLINIC",
         "ESTATE": "TIONG BAHRU",
         "FAX_NO": 6.2746342e+07,
-        "LATITUDE": 1.288768,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.288768,
             "longitude": 103.8287
         },
+        "LATITUDE": 1.288768,
         "LONGITUDE": 103.8287,
         "MONDAY_FRIDAY": "8.00AM-10.00PM",
         "POSTAL": 160022,
@@ -308,9 +308,9 @@
         "SUNDAY": "10.00AM-10.00PM",
         "TELEPHONE": 6.2746858e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.425Z",
-        "objectId": "CSRcIELixU",
-        "updatedAt": "2015-05-28T06:20:46.490Z"
+        "createdAt": "2015-05-15T03:35:49.539Z",
+        "objectId": "QQVohKYFkX",
+        "updatedAt": "2015-05-28T03:29:32.467Z"
     },
 	{
         "ADDRESS_1": "126 KIM TIAN ROAD ",
@@ -319,12 +319,12 @@
         "CLINIC": "FIRSTHEALTH CLINIC \u0026 SURGERY",
         "ESTATE": "TIONG BAHRU",
         "FAX_NO": 6.6944982e+07,
-        "LATITUDE": 1.282525,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.282525,
             "longitude": 103.829501
         },
+        "LATITUDE": 1.282525,
         "LONGITUDE": 103.829501,
         "MONDAY_FRIDAY": "MON \u0026 WED:\n8.30AM-1.00PM,\n2.00PM-5.00PM,\n6.30PM-9.30PM TUE, THU \u0026 FRI:\n8.30AM-1.00PM,\n6.30PM-9.30PM",
         "POSTAL": 160126,
@@ -334,9 +334,9 @@
         "SUNDAY": "9.00AM-1.00PM,\n6.00PM-10.00PM",
         "TELEPHONE": 6.6944981e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.429Z",
-        "objectId": "ExBiMjfxM9",
-        "updatedAt": "2015-05-28T06:20:51.098Z"
+        "createdAt": "2015-05-15T03:35:49.544Z",
+        "objectId": "8n9BTqgvBc",
+        "updatedAt": "2015-05-28T03:29:25.953Z"
     },
 	{
         "ADDRESS_1": "10 KIM TIAN ROAD ",
@@ -345,12 +345,12 @@
         "CLINIC": "TIONG BAHRU MEDICAL CENTRE PTE LTD",
         "ESTATE": "TIONG BAHRU",
         "FAX_NO": 6.2787216e+07,
-        "LATITUDE": 1.285038,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.285038,
             "longitude": 103.829342
         },
+        "LATITUDE": 1.285038,
         "LONGITUDE": 103.829342,
         "MONDAY_FRIDAY": "10.00AM - 12.30PM ,\n2.00PM - 5.30PM",
         "POSTAL": 169248,
@@ -360,9 +360,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2727966e+07,
         "ZONE": "CENTRAL",
-        "createdAt": "2015-05-15T03:34:03.432Z",
-        "objectId": "R52UZ1ElRR",
-        "updatedAt": "2015-05-28T06:20:55.762Z"
+        "createdAt": "2015-05-15T03:35:49.550Z",
+        "objectId": "WMJhffgKo1",
+        "updatedAt": "2015-05-28T03:29:27.446Z"
     },
 	{
         "ADDRESS_1": "BLK 70 LORONG 4 TOA PAYOH ",
@@ -371,12 +371,12 @@
         "CLINIC": "MAKE-WELL FAMILY CLINIC \u0026 SURGERY",
         "ESTATE": "TOA PAYOH",
         "FAX_NO": 6.3545461e+07,
-        "LATITUDE": 1.334824,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.334824,
             "longitude": 103.852258
         },
+        "LATITUDE": 1.334824,
         "LONGITUDE": 103.852258,
         "MONDAY_FRIDAY": "10.00AM -12.00PM ,\n3.00PM - 4.00PM",
         "POSTAL": 310070,
@@ -386,9 +386,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2534235e+07,
         "ZONE": "CENTRAL-EAST",
-        "createdAt": "2015-05-15T03:34:03.436Z",
-        "objectId": "9mQ9X7F5UO",
-        "updatedAt": "2015-05-28T06:21:01.528Z"
+        "createdAt": "2015-05-15T03:35:49.556Z",
+        "objectId": "D9fnhzxCkG",
+        "updatedAt": "2015-05-28T03:29:31.246Z"
     },
 	{
         "ADDRESS_1": "BLK 95 LORONG 4 TOA PAYOH ",
@@ -397,12 +397,12 @@
         "CLINIC": "CAMRY MEDICAL CENTRE",
         "ESTATE": "TOA PAYOH",
         "FAX_NO": 6.2589353e+07,
-        "LATITUDE": 1.338873,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.338873,
             "longitude": 103.848997
         },
+        "LATITUDE": 1.338873,
         "LONGITUDE": 103.848997,
         "MONDAY_FRIDAY": "8.30AM - 12.00PM,\n1.00PM - 4.00PM",
         "POSTAL": 310095,
@@ -412,9 +412,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2580553e+07,
         "ZONE": "CENTRAL-EAST",
-        "createdAt": "2015-05-15T03:34:03.444Z",
-        "objectId": "EhgyIhtnaV",
-        "updatedAt": "2015-05-28T06:21:06.627Z"
+        "createdAt": "2015-05-15T03:35:49.562Z",
+        "objectId": "blcKeCyP2U",
+        "updatedAt": "2015-05-28T03:29:28.098Z"
     },
 	{
         "ADDRESS_1": "BLK 125 LORONG 1 TOA PAYOH ",
@@ -423,12 +423,12 @@
         "CLINIC": "DRS CHAN \u0026 TANG FAMILY CLINIC",
         "ESTATE": "TOA PAYOH",
         "FAX_NO": 6.2511023e+07,
-        "LATITUDE": 1.338336,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.338336,
             "longitude": 103.845529
         },
+        "LATITUDE": 1.338336,
         "LONGITUDE": 103.845529,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM\n7.00PM-9.00PM (CLOSED ON THU \u0026 FRI EVENING)",
         "POSTAL": 310125,
@@ -438,9 +438,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2511782e+07,
         "ZONE": "CENTRAL-EAST",
-        "createdAt": "2015-05-15T03:34:03.452Z",
-        "objectId": "vOdR4SGc8y",
-        "updatedAt": "2015-05-28T06:21:10.535Z"
+        "createdAt": "2015-05-15T03:35:49.567Z",
+        "objectId": "7h2rDGd7z3",
+        "updatedAt": "2015-05-28T03:29:30.019Z"
     },
 	{
         "ADDRESS_1": "BLK 150 LORONG 1 TOA PAYOH ",
@@ -449,12 +449,12 @@
         "CLINIC": "MEDIVIEW CLINIC AND SURGERY",
         "ESTATE": "TOA PAYOH",
         "FAX_NO": 6.4423715e+07,
-        "LATITUDE": 1.333959,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.333959,
             "longitude": 103.844393
         },
+        "LATITUDE": 1.333959,
         "LONGITUDE": 103.844393,
         "MONDAY_FRIDAY": "MON-TUE:\n8.30AM -12.30PM\n2.00PM - 4.00PM\n7.00PM - 9.00PM WED-FRI:\n8.30AM - 12.30PM\n2.00PM - 5.00PM",
         "POSTAL": 310150,
@@ -464,9 +464,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2532351e+07,
         "ZONE": "CENTRAL-EAST",
-        "createdAt": "2015-05-15T03:34:03.456Z",
-        "objectId": "qyzeQhTIOb",
-        "updatedAt": "2015-05-28T06:21:15.611Z"
+        "createdAt": "2015-05-15T03:35:49.573Z",
+        "objectId": "vB0upKKHeG",
+        "updatedAt": "2015-05-28T03:29:27.119Z"
     },
 	{
         "ADDRESS_1": "88 CIRCUIT ROAD ",
@@ -475,12 +475,12 @@
         "CLINIC": "ACCESS MEDICAL (CIRCUIT ROAD)",
         "ESTATE": "ALJUNIED",
         "FAX_NO": 6.5478842e+07,
-        "LATITUDE": 1.323564,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.323564,
             "longitude": 103.88585
         },
+        "LATITUDE": 1.323564,
         "LONGITUDE": 103.88585,
         "MONDAY_FRIDAY": "7.00AM-1.00PM,\n6.00PM-12.00AM",
         "POSTAL": 370088,
@@ -490,9 +490,9 @@
         "SUNDAY": "7.00AM-1.00PM,\n6.00PM-12.00AM",
         "TELEPHONE": 6.547884e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.459Z",
-        "objectId": "BWnn1OLQLu",
-        "updatedAt": "2015-05-28T06:21:21.780Z"
+        "createdAt": "2015-05-15T03:35:49.578Z",
+        "objectId": "0Y3CHQq1Oy",
+        "updatedAt": "2015-05-28T03:29:30.722Z"
     },
 	{
         "ADDRESS_1": "LK 17 BEDOK SOUTH ROAD ",
@@ -501,12 +501,12 @@
         "CLINIC": "BEDOK CLINIC \u0026 SURGERY",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.4420966e+07,
-        "LATITUDE": 1.320175,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.320175,
             "longitude": 103.935554
         },
+        "LATITUDE": 1.320175,
         "LONGITUDE": 103.935554,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.30PM-5.00PM\n7.00PM-9.00PM",
         "POSTAL": 460017,
@@ -516,9 +516,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.2410943e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.463Z",
-        "objectId": "O8qEwoQIC2",
-        "updatedAt": "2015-05-28T06:21:26.658Z"
+        "createdAt": "2015-05-15T03:35:49.584Z",
+        "objectId": "drrijoeLmY",
+        "updatedAt": "2015-05-28T03:29:27.766Z"
     },
 	{
         "ADDRESS_1": "BLK 123 BEDOK NORTH STREET 2 ",
@@ -527,12 +527,12 @@
         "CLINIC": "LEE CLINIC",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.2414724e+07,
-        "LATITUDE": 1.329592,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.329592,
             "longitude": 103.937357
         },
+        "LATITUDE": 1.329592,
         "LONGITUDE": 103.937357,
         "MONDAY_FRIDAY": "9.00AM-1.00PM\n3.00PM-5.30PM",
         "POSTAL": 460123,
@@ -542,9 +542,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.2418827e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.467Z",
-        "objectId": "NzAresyHDj",
-        "updatedAt": "2015-05-28T06:21:31.683Z"
+        "createdAt": "2015-05-15T03:35:49.589Z",
+        "objectId": "2tsskeiqcp",
+        "updatedAt": "2015-05-28T03:29:28.459Z"
     },
 	{
         "ADDRESS_1": "BLK 412 BEDOK NORTH AVENUE 2 ",
@@ -553,12 +553,12 @@
         "CLINIC": "HONG WHYE CLINIC",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.441627e+07,
-        "LATITUDE": 1.330059,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.330059,
             "longitude": 103.930712
         },
+        "LATITUDE": 1.330059,
         "LONGITUDE": 103.930712,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 460412,
@@ -568,9 +568,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.4445355e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.471Z",
-        "objectId": "rqaiit9Yny",
-        "updatedAt": "2015-05-28T06:21:37.038Z"
+        "createdAt": "2015-05-15T03:35:49.595Z",
+        "objectId": "tw3cq32VSQ",
+        "updatedAt": "2015-05-28T03:29:33.552Z"
     },
 	{
         "ADDRESS_1": "BLK 515 BEDOK NORTH AVENUE 2 ",
@@ -579,12 +579,12 @@
         "CLINIC": "KCS MEDICAL CENTRE PTE LTD",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.4418322e+07,
-        "LATITUDE": 1.332008,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.332008,
             "longitude": 103.929829
         },
+        "LATITUDE": 1.332008,
         "LONGITUDE": 103.929829,
         "MONDAY_FRIDAY": "8.30AM-2.00PM\n7.00PM-9.00PM",
         "POSTAL": 460515,
@@ -594,9 +594,9 @@
         "SUNDAY": "7.00AM-9.00AM",
         "TELEPHONE": 6.4438322e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.474Z",
-        "objectId": "Z28P5NHIns",
-        "updatedAt": "2015-05-28T06:21:42.400Z"
+        "createdAt": "2015-05-15T03:35:49.601Z",
+        "objectId": "JswnVQcuyB",
+        "updatedAt": "2015-05-28T03:29:34.784Z"
     },
 	{
         "ADDRESS_1": "BLK 531 BEDOK NORTH STREET 3 ",
@@ -605,12 +605,12 @@
         "CLINIC": "S T MEDICAL CLINIC",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.4440159e+07,
-        "LATITUDE": 1.333222,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.333222,
             "longitude": 103.926193
         },
+        "LATITUDE": 1.333222,
         "LONGITUDE": 103.926193,
         "MONDAY_FRIDAY": "8.30AM-1.00PM,\n2.00PM-4.00PM,\n7.00PM-9.00PM (CLOSED ON FRI NITE)",
         "POSTAL": 460531,
@@ -620,9 +620,9 @@
         "SUNDAY": "9.30AM-12.00PM",
         "TELEPHONE": 6.4440159e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.478Z",
-        "objectId": "Q1dZ5g7iC4",
-        "updatedAt": "2015-05-28T06:21:46.523Z"
+        "createdAt": "2015-05-15T03:35:49.607Z",
+        "objectId": "w0SVkMS7s7",
+        "updatedAt": "2015-05-28T03:29:36.526Z"
     },
 	{
         "ADDRESS_1": "BLK 537 BEDOK NORTH STREET 3 ",
@@ -631,12 +631,12 @@
         "CLINIC": "KHO CLINIC",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.2432614e+07,
-        "LATITUDE": 1.332511,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.332511,
             "longitude": 103.924158
         },
+        "LATITUDE": 1.332511,
         "LONGITUDE": 103.924158,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM\n7.00PM-9.00PM",
         "POSTAL": 460537,
@@ -646,9 +646,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2428266e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.482Z",
-        "objectId": "lx0hNmogwr",
-        "updatedAt": "2015-05-28T06:21:52.273Z"
+        "createdAt": "2015-05-15T03:35:49.613Z",
+        "objectId": "pqx4QwtrRZ",
+        "updatedAt": "2015-05-28T03:29:37.688Z"
     },
 	{
         "ADDRESS_1": "BLK 25 NEW UPPER CHANGI ROAD  ",
@@ -657,12 +657,12 @@
         "CLINIC": "ISLAND GROUP CLINIC BEDOK",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.2416102e+07,
-        "LATITUDE": 1.323454,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.323454,
             "longitude": 103.93345
         },
+        "LATITUDE": 1.323454,
         "LONGITUDE": 103.93345,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-5.00PM\n7.00PM-9.00PM",
         "POSTAL": 462025,
@@ -672,9 +672,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.2416666e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.485Z",
-        "objectId": "J5W3h8uAF4",
-        "updatedAt": "2015-05-28T06:21:58.401Z"
+        "createdAt": "2015-05-15T03:35:49.619Z",
+        "objectId": "OV9jnzJYyp",
+        "updatedAt": "2015-05-28T03:29:33.920Z"
     },
 	{
         "ADDRESS_1": "BLK 632 BEDOK RESERVOIR ROAD ",
@@ -683,12 +683,12 @@
         "CLINIC": "PHOON CLINIC \u0026 SURGERY",
         "ESTATE": "BEDOK",
         "FAX_NO": 6.4487329e+07,
-        "LATITUDE": 1.332034,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.332034,
             "longitude": 103.91397
         },
+        "LATITUDE": 1.332034,
         "LONGITUDE": 103.91397,
         "MONDAY_FRIDAY": "8.30AM-12.15PM\n2.00PM-4.00PM\n7.00PM-8.45PM",
         "POSTAL": 470632,
@@ -698,9 +698,9 @@
         "SUNDAY": "8.30AM-11.30AM\n7.00PM-8.30PM",
         "TELEPHONE": 6.4452119e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.489Z",
-        "objectId": "YK9pWvsNvR",
-        "updatedAt": "2015-05-28T06:22:04.181Z"
+        "createdAt": "2015-05-15T03:35:49.625Z",
+        "objectId": "BOMNesLRuH",
+        "updatedAt": "2015-05-28T03:29:35.261Z"
     },
 	{
         "ADDRESS_1": "BLK 20 CHAI CHEE ROAD ",
@@ -709,12 +709,12 @@
         "CLINIC": "LIM CLINIC \u0026 SURGERY",
         "ESTATE": "CHAI CHEE",
         "FAX_NO": 6.2412268e+07,
-        "LATITUDE": 1.32635,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.32635,
             "longitude": 103.922814
         },
+        "LATITUDE": 1.32635,
         "LONGITUDE": 103.922814,
         "MONDAY_FRIDAY": "9.00AM-12.00PM\n2.00PM-5.00PM",
         "POSTAL": 461020,
@@ -725,9 +725,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.2412211e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.492Z",
-        "objectId": "OoFLL0xbWc",
-        "updatedAt": "2015-05-28T06:22:10.176Z"
+        "createdAt": "2015-05-15T03:35:49.630Z",
+        "objectId": "NC2PhoZaWF",
+        "updatedAt": "2015-05-28T03:29:38.022Z"
     },
 	{
         "ADDRESS_1": "BLK 25A CHAI CHEE ROAD ",
@@ -736,12 +736,12 @@
         "CLINIC": "CHAI CHEE CLINIC \u0026 SURGERY",
         "ESTATE": "CHAI CHEE",
         "FAX_NO": 6.2441215e+07,
-        "LATITUDE": 1.323408,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.323408,
             "longitude": 103.924153
         },
+        "LATITUDE": 1.323408,
         "LONGITUDE": 103.924153,
         "MONDAY_FRIDAY": "9.00AM - 4.00PM",
         "POSTAL": 461025,
@@ -752,9 +752,9 @@
         "SUNDAY": "9.00AM - 12.00PM",
         "TELEPHONE": 6.2441231e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.496Z",
-        "objectId": "39vQLxyCIg",
-        "updatedAt": "2015-05-28T06:22:16.263Z"
+        "createdAt": "2015-05-15T03:35:49.637Z",
+        "objectId": "PPTGL2FK1N",
+        "updatedAt": "2015-05-28T03:29:32.866Z"
     },
 	{
         "ADDRESS_1": "BLK 25A CHAI CHEE ROAD ",
@@ -763,12 +763,12 @@
         "CLINIC": "HEALTHLINE FAMILY CLINIC \u0026 SURGERY",
         "ESTATE": "CHAI CHEE",
         "FAX_NO": 6.4463259e+07,
-        "LATITUDE": 1.323408,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.323408,
             "longitude": 103.924153
         },
+        "LATITUDE": 1.323408,
         "LONGITUDE": 103.924153,
         "MONDAY_FRIDAY": "8.30AM-3.00PM\n6.00PM-11.00PM",
         "POSTAL": 461025,
@@ -778,9 +778,9 @@
         "SUNDAY": "8.30AM - 3.00PM",
         "TELEPHONE": 6.446326e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.504Z",
-        "objectId": "n4mrsXc647",
-        "updatedAt": "2015-05-28T06:22:22.932Z"
+        "createdAt": "2015-05-15T03:35:49.643Z",
+        "objectId": "szmAIONDxy",
+        "updatedAt": "2015-05-28T03:29:37.256Z"
     },
 	{
         "ADDRESS_1": "2 CHANGI BUSINESS PARK AVENUE 1 ",
@@ -789,12 +789,12 @@
         "CLINIC": "SHENTON MEDICAL GROUP (UE BIZHUB\nEAST)",
         "ESTATE": "CHANGI",
         "FAX_NO": 6.543641e+07,
-        "LATITUDE": 1.336161,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.336161,
             "longitude": 103.963398
         },
+        "LATITUDE": 1.336161,
         "LONGITUDE": 103.963398,
         "MONDAY_FRIDAY": "8.30AM-1.00PM,\n2.00PM-5.30PM",
         "POSTAL": 486015,
@@ -804,9 +804,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.636249e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.508Z",
-        "objectId": "Ec0DM2HynZ",
-        "updatedAt": "2015-05-28T06:22:28.836Z"
+        "createdAt": "2015-05-15T03:35:49.649Z",
+        "objectId": "YEKnQCXvp3",
+        "updatedAt": "2015-05-28T03:29:39.434Z"
     },
 	{
         "ADDRESS_1": "865 MOUNTBATTEN ROAD ",
@@ -814,12 +814,12 @@
         "AVIVA_CODE": 10090,
         "CLINIC": "CHAN FAMILY CLINIC",
         "ESTATE": "EAST COAST",
-        "LATITUDE": 1.303578,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.303578,
             "longitude": 103.900916
         },
+        "LATITUDE": 1.303578,
         "LONGITUDE": 103.900916,
         "MONDAY_FRIDAY": "9.00am - 4.00pm",
         "POSTAL": 437844,
@@ -830,9 +830,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3454683e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.512Z",
-        "objectId": "mjqwAn7qYQ",
-        "updatedAt": "2015-05-28T06:22:35.779Z"
+        "createdAt": "2015-05-15T03:35:49.654Z",
+        "objectId": "ilDiH1tPVd",
+        "updatedAt": "2015-05-28T03:29:42.052Z"
     },
 	{
         "ADDRESS_1": "695D EAST COAST ROAD ",
@@ -840,12 +840,12 @@
         "CLINIC": "LIANG CLINIC",
         "ESTATE": "EAST COAST",
         "FAX_NO": 6.4450141e+07,
-        "LATITUDE": 1.311679,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.311679,
             "longitude": 103.92209
         },
+        "LATITUDE": 1.311679,
         "LONGITUDE": 103.92209,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n2.00PM-5.00PM (CLOSED ON WED AFTERNOON)",
         "POSTAL": 459059,
@@ -855,9 +855,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2415944e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.515Z",
-        "objectId": "K1VDF2Yh3c",
-        "updatedAt": "2015-05-28T06:22:42.182Z"
+        "createdAt": "2015-05-15T03:35:49.660Z",
+        "objectId": "gqDiYOiJtd",
+        "updatedAt": "2015-05-28T03:29:33.204Z"
     },
 	{
         "ADDRESS_1": "10 EUNOS ROAD 8 ",
@@ -866,12 +866,12 @@
         "CLINIC": "SHENTON MEDICAL GROUP (EUNOS)",
         "ESTATE": "EUNOS",
         "FAX_NO": 6.7478474e+07,
-        "LATITUDE": 1.319291,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.319291,
             "longitude": 103.894819
         },
+        "LATITUDE": 1.319291,
         "LONGITUDE": 103.894819,
         "MONDAY_FRIDAY": "9.00AM-1.00PM,\n2.00PM-5.00PM",
         "POSTAL": 408600,
@@ -881,9 +881,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.8488018e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.519Z",
-        "objectId": "YtPJDUBZbd",
-        "updatedAt": "2015-05-28T06:22:48.931Z"
+        "createdAt": "2015-05-15T03:35:49.666Z",
+        "objectId": "6mDmqwEBoT",
+        "updatedAt": "2015-05-28T03:29:36.195Z"
     },
 	{
         "ADDRESS_1": "BLK 53 SIMS PLACE ",
@@ -892,12 +892,12 @@
         "CLINIC": "SIMS DRIVE MEDICAL CLINIC",
         "ESTATE": "GEYLANG",
         "FAX_NO": 6.7411607e+07,
-        "LATITUDE": 1.317801,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.317801,
             "longitude": 103.880004
         },
+        "LATITUDE": 1.317801,
         "LONGITUDE": 103.880004,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 380053,
@@ -907,9 +907,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7411607e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.523Z",
-        "objectId": "h4SYs8I6uL",
-        "updatedAt": "2015-05-28T06:22:56.040Z"
+        "createdAt": "2015-05-15T03:35:49.671Z",
+        "objectId": "P4f5sIdRU1",
+        "updatedAt": "2015-05-28T03:29:41.013Z"
     },
 	{
         "ADDRESS_1": "12 KALLANG AVENUE ",
@@ -918,12 +918,12 @@
         "CLINIC": "THE CLINIC @ APERIA",
         "ESTATE": "KALLANG",
         "FAX_NO": 6.3416892e+07,
-        "LATITUDE": 1.312312,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.312312,
             "longitude": 103.863607
         },
+        "LATITUDE": 1.312312,
         "LONGITUDE": 103.863607,
         "MONDAY_FRIDAY": "9.30AM-1.00PM,\n2.00PM-5.30PM",
         "POSTAL": 339511,
@@ -933,9 +933,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.33393e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.526Z",
-        "objectId": "cPoexetMhV",
-        "updatedAt": "2015-05-28T06:23:02.549Z"
+        "createdAt": "2015-05-15T03:35:49.677Z",
+        "objectId": "uoD0tDKqbC",
+        "updatedAt": "2015-05-28T03:29:40.674Z"
     },
 	{
         "ADDRESS_1": "BLK 110 LENGKONG TIGA ",
@@ -944,12 +944,12 @@
         "CLINIC": "HEALTHWAY MEDICAL CLINIC",
         "ESTATE": "KEMBANGAN",
         "FAX_NO": 6.7476487e+07,
-        "LATITUDE": 1.323797,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.323797,
             "longitude": 103.910794
         },
+        "LATITUDE": 1.323797,
         "LONGITUDE": 103.910794,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
         "POSTAL": 410110,
@@ -960,9 +960,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.7494062e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.530Z",
-        "objectId": "H9t8H5W5OB",
-        "updatedAt": "2015-05-28T06:23:07.713Z"
+        "createdAt": "2015-05-15T03:35:49.683Z",
+        "objectId": "wHBhkTzr1W",
+        "updatedAt": "2015-05-28T03:29:38.409Z"
     },
 	{
         "ADDRESS_1": "200 JALAN SULTAN ",
@@ -971,12 +971,12 @@
         "CLINIC": "TEXTILE CENTRE CLINIC",
         "ESTATE": "LAVENDER",
         "FAX_NO": 6.2917933e+07,
-        "LATITUDE": 1.303499,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.303499,
             "longitude": 103.861257
         },
+        "LATITUDE": 1.303499,
         "LONGITUDE": 103.861257,
         "MONDAY_FRIDAY": "9.00AM-5.00PM",
         "POSTAL": 199018,
@@ -986,9 +986,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.29824e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.534Z",
-        "objectId": "ovWwpTY3Ke",
-        "updatedAt": "2015-05-28T06:23:14.587Z"
+        "createdAt": "2015-05-15T03:35:49.688Z",
+        "objectId": "YHPAO45v0n",
+        "updatedAt": "2015-05-28T03:29:43.688Z"
     },
 	{
         "ADDRESS_1": "BLK 803 KING GEORGE'S AVENUE ",
@@ -997,12 +997,12 @@
         "CLINIC": "KING GEORGE'S MEDICAL CENTRE PTE LTD",
         "ESTATE": "LAVENDER",
         "FAX_NO": 6.2954782e+07,
-        "LATITUDE": 1.307798,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.307798,
             "longitude": 103.860875
         },
+        "LATITUDE": 1.307798,
         "LONGITUDE": 103.860875,
         "MONDAY_FRIDAY": "8.30AM-12.30PM,\n2.00PM-4.30PM,\n6.00PM-8.00PM (CLOSED ON WED EVENING)",
         "POSTAL": 200803,
@@ -1012,9 +1012,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2939883e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.542Z",
-        "objectId": "JicukLy7ye",
-        "updatedAt": "2015-05-28T06:23:22.258Z"
+        "createdAt": "2015-05-15T03:35:49.694Z",
+        "objectId": "nfW3MjZHPA",
+        "updatedAt": "2015-05-28T03:29:39.829Z"
     },
 	{
         "ADDRESS_1": "BLK 58 MARINE TERRACE ",
@@ -1023,12 +1023,12 @@
         "CLINIC": "FAMILY MEDICINE CLINIC",
         "ESTATE": "MARINE PARADE",
         "FAX_NO": 6.4491606e+07,
-        "LATITUDE": 1.306093,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.306093,
             "longitude": 103.913733
         },
+        "LATITUDE": 1.306093,
         "LONGITUDE": 103.913733,
         "MONDAY_FRIDAY": "MON-FRI: 9.00AM-\n12.30PM  MON-THU:\n2.30PM-4.30PM  MON\n\u0026 WED: 7.00PM-\n9.00PM",
         "POSTAL": 440058,
@@ -1039,9 +1039,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4491606e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.546Z",
-        "objectId": "NyTg0YMP1e",
-        "updatedAt": "2015-05-28T06:23:29.540Z"
+        "createdAt": "2015-05-15T03:35:49.699Z",
+        "objectId": "Qjmo9kmnuU",
+        "updatedAt": "2015-05-28T03:29:43.346Z"
     },
 	{
         "ADDRESS_1": "BLK 59 MARINE TERRACE ",
@@ -1050,12 +1050,12 @@
         "CLINIC": "MARINE PARADE CLINIC",
         "ESTATE": "MARINE PARADE",
         "FAX_NO": 6.4434549e+07,
-        "LATITUDE": 1.305871,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.305871,
             "longitude": 103.914566
         },
+        "LATITUDE": 1.305871,
         "LONGITUDE": 103.914566,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.30PM-4.30PM\n7.00PM-8.30PM",
         "POSTAL": 440059,
@@ -1066,9 +1066,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.2419065e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.550Z",
-        "objectId": "UoI9DQjcUc",
-        "updatedAt": "2015-05-28T06:23:37.148Z"
+        "createdAt": "2015-05-15T03:35:49.705Z",
+        "objectId": "eGhFN4X7Zt",
+        "updatedAt": "2015-05-28T03:29:36.899Z"
     },
 	{
         "ADDRESS_1": "BLK 81 MARINE PARADE CENTRAL ",
@@ -1077,12 +1077,12 @@
         "CLINIC": "MEDILINE WEI MIN CLINIC (MARINE\nPARADE)",
         "ESTATE": "MARINE PARADE",
         "FAX_NO": 6.2479392e+07,
-        "LATITUDE": 1.302635,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.302635,
             "longitude": 103.907075
         },
+        "LATITUDE": 1.302635,
         "LONGITUDE": 103.907075,
         "MONDAY_FRIDAY": "7.00AM-12.00AM",
         "POSTAL": 440081,
@@ -1092,9 +1092,9 @@
         "SUNDAY": "7.00AM-12.00AM",
         "TELEPHONE": 6.2479221e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.563Z",
-        "objectId": "TxM270TmNZ",
-        "updatedAt": "2015-05-28T06:23:44.474Z"
+        "createdAt": "2015-05-15T03:35:49.710Z",
+        "objectId": "ogag52xtfG",
+        "updatedAt": "2015-05-28T03:29:47.162Z"
     },
 	{
         "ADDRESS_1": "BOX 5142 LOYANG CRESCENT ",
@@ -1103,12 +1103,12 @@
         "CLINIC": "LOYANG MEDICAL CENTRE",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5422528e+07,
-        "LATITUDE": 1.379886,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.379886,
             "longitude": 103.973505
         },
+        "LATITUDE": 1.379886,
         "LONGITUDE": 103.973505,
         "MONDAY_FRIDAY": "8.30AM-1.00PM\n2.00PM-5.00PM",
         "POSTAL": 508988,
@@ -1118,9 +1118,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.543169e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.567Z",
-        "objectId": "THMtZpMj9D",
-        "updatedAt": "2015-05-28T06:23:52.490Z"
+        "createdAt": "2015-05-15T03:35:49.716Z",
+        "objectId": "I6lV1W93Rb",
+        "updatedAt": "2015-05-28T03:29:43.017Z"
     },
 	{
         "ADDRESS_1": "BLK 258 PASIR RIS STREET 21 ",
@@ -1129,12 +1129,12 @@
         "CLINIC": "PARAGON MEDICAL CENTRE PTE LTD",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5833693e+07,
-        "LATITUDE": 1.367095,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.367095,
             "longitude": 103.964726
         },
+        "LATITUDE": 1.367095,
         "LONGITUDE": 103.964726,
         "MONDAY_FRIDAY": "9.00AM-1.00PM\n2.00PM-4.00PM\n6.30PM-9.00PM",
         "POSTAL": 510258,
@@ -1145,9 +1145,9 @@
         "SUNDAY": "7.00PM-9.00PM",
         "TELEPHONE": 6.5833693e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.571Z",
-        "objectId": "yd3mIl1lJP",
-        "updatedAt": "2015-05-28T06:24:00.970Z"
+        "createdAt": "2015-05-15T03:35:49.722Z",
+        "objectId": "wRu2JugJWN",
+        "updatedAt": "2015-05-28T03:29:44.329Z"
     },
 	{
         "ADDRESS_1": "BLK 446 PASIR RIS DRIVE 6 ",
@@ -1156,12 +1156,12 @@
         "CLINIC": "LILY AW PASIR RIS FAMILY CLINIC \u0026 SURGERY",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5842378e+07,
-        "LATITUDE": 1.370428,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.370428,
             "longitude": 103.957486
         },
+        "LATITUDE": 1.370428,
         "LONGITUDE": 103.957486,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.00PM-9.00PM",
         "POSTAL": 510446,
@@ -1171,9 +1171,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.5822122e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.575Z",
-        "objectId": "ypJvYSzUEU",
-        "updatedAt": "2015-05-28T06:24:07.931Z"
+        "createdAt": "2015-05-15T03:35:49.727Z",
+        "objectId": "C1iYKM8mMX",
+        "updatedAt": "2015-05-28T03:29:46.171Z"
     },
 	{
         "ADDRESS_1": "BLK 625 ELIAS ROAD ",
@@ -1182,12 +1182,12 @@
         "CLINIC": "HEALTHWAY MEDICAL CLINIC",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5846883e+07,
-        "LATITUDE": 1.378441,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.378441,
             "longitude": 103.94193
         },
+        "LATITUDE": 1.378441,
         "LONGITUDE": 103.94193,
         "MONDAY_FRIDAY": "8.30AM-5.00PM\n6.30PM-9.00PM",
         "POSTAL": 510625,
@@ -1197,9 +1197,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.5846822e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.578Z",
-        "objectId": "ScdKxDB8xG",
-        "updatedAt": "2015-05-28T06:24:04.312Z"
+        "createdAt": "2015-05-15T03:35:49.733Z",
+        "objectId": "uAnvwBxY18",
+        "updatedAt": "2015-05-28T03:29:49.818Z"
     },
 	{
         "ADDRESS_1": "BLK 625 ELIAS ROAD ",
@@ -1208,12 +1208,12 @@
         "CLINIC": "OEI FAMILY CLINIC",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5830362e+07,
-        "LATITUDE": 1.378441,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.378441,
             "longitude": 103.94193
         },
+        "LATITUDE": 1.378441,
         "LONGITUDE": 103.94193,
         "MONDAY_FRIDAY": "9.30AM-9.00PM",
         "POSTAL": 510625,
@@ -1223,9 +1223,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.58108e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.582Z",
-        "objectId": "BpYPs8cLFJ",
-        "updatedAt": "2015-05-28T06:24:11.464Z"
+        "createdAt": "2015-05-15T03:35:49.738Z",
+        "objectId": "CVpdCWdIgl",
+        "updatedAt": "2015-05-28T03:29:51.523Z"
     },
 	{
         "ADDRESS_1": "BLK 735 PASIR RIS STREET 72 ",
@@ -1234,12 +1234,12 @@
         "CLINIC": "OXFORD MEDICAL CENTRE",
         "ESTATE": "PASIR RIS",
         "FAX_NO": 6.5851496e+07,
-        "LATITUDE": 1.379692,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.379692,
             "longitude": 103.936062
         },
+        "LATITUDE": 1.379692,
         "LONGITUDE": 103.936062,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n7.00PM-9.00PM",
         "POSTAL": 510735,
@@ -1249,9 +1249,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.5851496e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.586Z",
-        "objectId": "gO9K3kUYNa",
-        "updatedAt": "2015-05-28T06:24:15.048Z"
+        "createdAt": "2015-05-15T03:35:49.744Z",
+        "objectId": "pX3Cz3K1Rj",
+        "updatedAt": "2015-05-28T03:29:45.030Z"
     },
 	{
         "ADDRESS_1": "60 PAYA LEBAR ROAD ",
@@ -1260,12 +1260,12 @@
         "CLINIC": "PHOENIX MEDICAL GROUP (PAYA LEBAR)",
         "ESTATE": "PAYA LEBAR",
         "FAX_NO": 6.7022941e+07,
-        "LATITUDE": 1.317511,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.317511,
             "longitude": 103.892206
         },
+        "LATITUDE": 1.317511,
         "LONGITUDE": 103.892206,
         "MONDAY_FRIDAY": "MON-FRI:\n9.00AM-1.00PM,\n2.00PM-5.30PM",
         "POSTAL": 409051,
@@ -1275,9 +1275,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.702294e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.590Z",
-        "objectId": "nKlv4RBl6y",
-        "updatedAt": "2015-05-28T06:24:18.438Z"
+        "createdAt": "2015-05-15T03:35:49.750Z",
+        "objectId": "ejvcVJQUZd",
+        "updatedAt": "2015-05-28T03:29:42.408Z"
     },
 	{
         "ADDRESS_1": "30 HAIG ROAD ",
@@ -1285,12 +1285,12 @@
         "CLINIC": "DAYSPRING MEDICAL SERVICES PTE\nLTD",
         "ESTATE": "PAYA LEBAR",
         "FAX_NO": 6.7423453e+07,
-        "LATITUDE": 1.31322,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.31322,
             "longitude": 103.895796
         },
+        "LATITUDE": 1.31322,
         "LONGITUDE": 103.895796,
         "MONDAY_FRIDAY": "9.00AM-3.00PM\n6.00PM-9.00PM",
         "POSTAL": 438737,
@@ -1301,9 +1301,9 @@
         "SUNDAY": "6.00PM-9.00PM",
         "TELEPHONE": 6.8469979e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.594Z",
-        "objectId": "eoVFaXoNLM",
-        "updatedAt": "2015-05-28T06:24:21.516Z"
+        "createdAt": "2015-05-15T03:35:49.756Z",
+        "objectId": "7e5SdKA1QG",
+        "updatedAt": "2015-05-28T03:29:45.858Z"
     },
 	{
         "ADDRESS_1": "BLK 248 SIMEI STREET 3 ",
@@ -1312,12 +1312,12 @@
         "CLINIC": "CHUA MEDICAL CENTRE PTE LTD",
         "ESTATE": "SIMEI",
         "FAX_NO": 6.7853825e+07,
-        "LATITUDE": 1.344423,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.344423,
             "longitude": 103.957728
         },
+        "LATITUDE": 1.344423,
         "LONGITUDE": 103.957728,
         "MONDAY_FRIDAY": "9.00AM - 12.30PM,\n2.30PM - 6.00PM",
         "POSTAL": 520248,
@@ -1328,9 +1328,9 @@
         "SUNDAY": "9.00AM - 3.00PM (SUNDAY \u0026 OTHER PH)",
         "TELEPHONE": 6.7853825e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.598Z",
-        "objectId": "ZnuCDW6OCT",
-        "updatedAt": "2015-05-28T06:24:24.439Z"
+        "createdAt": "2015-05-15T03:35:49.761Z",
+        "objectId": "XHYpVaEG1L",
+        "updatedAt": "2015-05-28T03:29:40.344Z"
     },
 	{
         "ADDRESS_1": "30 SIMEI STREET 3 ",
@@ -1339,12 +1339,12 @@
         "CLINIC": "NORTHEAST (SIMEI) MEDICAL CENTRE\nPTE LTD",
         "ESTATE": "SIMEI",
         "FAX_NO": 6.7835638e+07,
-        "LATITUDE": 1.342977,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.342977,
             "longitude": 103.953583
         },
+        "LATITUDE": 1.342977,
         "LONGITUDE": 103.953583,
         "MONDAY_FRIDAY": "8.00AM-11.00PM",
         "POSTAL": 529888,
@@ -1354,9 +1354,9 @@
         "SUNDAY": "8.00AM-11.00PM",
         "TELEPHONE": 6.7838638e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.601Z",
-        "objectId": "nVIhP4sl2d",
-        "updatedAt": "2015-05-28T06:24:27.453Z"
+        "createdAt": "2015-05-15T03:35:49.766Z",
+        "objectId": "XRggtgjQDj",
+        "updatedAt": "2015-05-28T03:29:46.815Z"
     },
 	{
         "ADDRESS_1": "BLK 476 TAMPINES STREET 44 ",
@@ -1365,12 +1365,12 @@
         "CLINIC": "HWANG \u0026 LIANG FAMILY CLINIC",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7878777e+07,
-        "LATITUDE": 1.360916,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.360916,
             "longitude": 103.953295
         },
+        "LATITUDE": 1.360916,
         "LONGITUDE": 103.953295,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n2.00PM-4.30PM\n6.30PM-8.30PM",
         "POSTAL": 520476,
@@ -1380,9 +1380,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7870778e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.605Z",
-        "objectId": "yxafD6j1in",
-        "updatedAt": "2015-05-28T06:24:30.285Z"
+        "createdAt": "2015-05-15T03:35:49.772Z",
+        "objectId": "zqszQFx1oP",
+        "updatedAt": "2015-05-28T03:29:49.472Z"
     },
 	{
         "ADDRESS_1": "BLK 480 TAMPINES STREET 44 ",
@@ -1391,12 +1391,12 @@
         "CLINIC": "CHOONG'S CLINIC",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.788519e+07,
-        "LATITUDE": 1.36186,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.36186,
             "longitude": 103.953705
         },
+        "LATITUDE": 1.36186,
         "LONGITUDE": 103.953705,
         "MONDAY_FRIDAY": "8.30AM-11.30PM\n2.30PM-4.00PM\n7.00PM-8.30PM",
         "POSTAL": 520480,
@@ -1407,9 +1407,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.788519e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.611Z",
-        "objectId": "OybQBkGB2z",
-        "updatedAt": "2015-05-28T06:24:33.169Z"
+        "createdAt": "2015-05-15T03:35:49.778Z",
+        "objectId": "7LpvtT60oc",
+        "updatedAt": "2015-05-28T03:29:47.570Z"
     },
 	{
         "ADDRESS_1": "BLK 482 TAMPINES STREET 43 ",
@@ -1418,12 +1418,12 @@
         "CLINIC": "MEDICARE ASSOCIATES PTE LTD",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7880137e+07,
-        "LATITUDE": 1.361307,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.361307,
             "longitude": 103.952521
         },
+        "LATITUDE": 1.361307,
         "LONGITUDE": 103.952521,
         "MONDAY_FRIDAY": "8.30AM-12.00PM,\n2.00PM-4.00PM,\n6.30PM-9.00PM (CLOSED ON WED EVENINGS)",
         "POSTAL": 520482,
@@ -1433,9 +1433,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.7880137e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.615Z",
-        "objectId": "ApT36F2OOJ",
-        "updatedAt": "2015-05-28T06:24:35.724Z"
+        "createdAt": "2015-05-15T03:35:49.783Z",
+        "objectId": "j4hugTTZ8p",
+        "updatedAt": "2015-05-28T03:29:41.667Z"
     },
 	{
         "ADDRESS_1": "BLK 505 TAMPINES CENTRAL 1 ",
@@ -1444,12 +1444,12 @@
         "CLINIC": "RUBY MEDICAL CENTRE PTE LTD",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7837847e+07,
-        "LATITUDE": 1.35551,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.35551,
             "longitude": 103.945236
         },
+        "LATITUDE": 1.35551,
         "LONGITUDE": 103.945236,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.00PM\n6.30PM-8.30PM",
         "POSTAL": 520505,
@@ -1459,9 +1459,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7837847e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.618Z",
-        "objectId": "bF5RjYohK7",
-        "updatedAt": "2015-05-28T06:24:38.279Z"
+        "createdAt": "2015-05-15T03:35:49.789Z",
+        "objectId": "WR0bQ2mH8O",
+        "updatedAt": "2015-05-28T03:29:51.868Z"
     },
 	{
         "ADDRESS_1": "BLK 710 TAMPINES STREET 71 ",
@@ -1470,12 +1470,12 @@
         "CLINIC": "HEALTHWAY TAMPINES CLINIC",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.2609083e+07,
-        "LATITUDE": 1.35876,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.35876,
             "longitude": 103.937685
         },
+        "LATITUDE": 1.35876,
         "LONGITUDE": 103.937685,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
         "POSTAL": 520710,
@@ -1485,9 +1485,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.2609081e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.622Z",
-        "objectId": "R7sgc5UIVG",
-        "updatedAt": "2015-05-28T06:24:41.074Z"
+        "createdAt": "2015-05-15T03:35:49.795Z",
+        "objectId": "6qnDOzfoTF",
+        "updatedAt": "2015-05-28T03:29:44.004Z"
     },
 	{
         "ADDRESS_1": "BLK 801 TAMPINES AVENUE 4 ",
@@ -1496,12 +1496,12 @@
         "CLINIC": "KOH CLINIC \u0026 SURGERY PTE LTD",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7864465e+07,
-        "LATITUDE": 1.347126,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.347126,
             "longitude": 103.93805
         },
+        "LATITUDE": 1.347126,
         "LONGITUDE": 103.93805,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 520801,
@@ -1511,9 +1511,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7822882e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.626Z",
-        "objectId": "ceCSCxfATa",
-        "updatedAt": "2015-05-28T06:24:44.001Z"
+        "createdAt": "2015-05-15T03:35:49.801Z",
+        "objectId": "tazfMLwgBQ",
+        "updatedAt": "2015-05-28T03:29:48.079Z"
     },
 	{
         "ADDRESS_1": "BLK 801 TAMPINES AVENUE 4 ",
@@ -1522,12 +1522,12 @@
         "CLINIC": "TAMPINES MEDILIFE CLINIC",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7825142e+07,
-        "LATITUDE": 1.347126,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.347126,
             "longitude": 103.93805
         },
+        "LATITUDE": 1.347126,
         "LONGITUDE": 103.93805,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 520801,
@@ -1537,9 +1537,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7825142e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.629Z",
-        "objectId": "VWWsc9x1ox",
-        "updatedAt": "2015-05-28T06:24:47.342Z"
+        "createdAt": "2015-05-15T03:35:49.807Z",
+        "objectId": "ZFtxqqTIEA",
+        "updatedAt": "2015-05-28T03:29:44.642Z"
     },
 	{
         "ADDRESS_1": "BLK 827 TAMPINES STREET 81 ",
@@ -1548,12 +1548,12 @@
         "CLINIC": "THE FAMILY MEDICAL CENTRE",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7873328e+07,
-        "LATITUDE": 1.349652,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.349652,
             "longitude": 103.933901
         },
+        "LATITUDE": 1.349652,
         "LONGITUDE": 103.933901,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
         "POSTAL": 520827,
@@ -1563,9 +1563,9 @@
         "SUNDAY": "8.30AM-1.00PM",
         "TELEPHONE": 6.7873328e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.637Z",
-        "objectId": "lwvCeS6MPt",
-        "updatedAt": "2015-05-28T06:24:52.443Z"
+        "createdAt": "2015-05-15T03:35:49.812Z",
+        "objectId": "64WByq8Rc3",
+        "updatedAt": "2015-05-28T03:29:49.113Z"
     },
 	{
         "ADDRESS_1": "BLK 929 TAMPINES STREET 91 ",
@@ -1574,12 +1574,12 @@
         "CLINIC": "LITTLE CROSS FAMILY CLINIC PTE LTD",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.544004e+07,
-        "LATITUDE": 1.346349,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.346349,
             "longitude": 103.939481
         },
+        "LATITUDE": 1.346349,
         "LONGITUDE": 103.939481,
         "MONDAY_FRIDAY": "8.30AM-3.00PM\n7.00PM-9.00PM",
         "POSTAL": 520929,
@@ -1590,9 +1590,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.544004e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.641Z",
-        "objectId": "xWZawJkZaG",
-        "updatedAt": "2015-05-28T06:24:55.075Z"
+        "createdAt": "2015-05-15T03:35:49.818Z",
+        "objectId": "uvXx1fbCpL",
+        "updatedAt": "2015-05-28T03:29:34.382Z"
     },
 	{
         "ADDRESS_1": "BLK 139 TAMPINES STREET 11 ",
@@ -1601,12 +1601,12 @@
         "CLINIC": "UNITED MEDICAL PRACTITIONERS PTE LTD",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7872315e+07,
-        "LATITUDE": 1.346653,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.346653,
             "longitude": 103.944868
         },
+        "LATITUDE": 1.346653,
         "LONGITUDE": 103.944868,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM (CLOSED ON THU AFTERNOON)\n6.45PM-8.45PM",
         "POSTAL": 521139,
@@ -1616,9 +1616,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7812281e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.645Z",
-        "objectId": "X2qXIwa6cQ",
-        "updatedAt": "2015-05-28T06:24:57.505Z"
+        "createdAt": "2015-05-15T03:35:49.824Z",
+        "objectId": "PmB8Tom12y",
+        "updatedAt": "2015-05-28T03:29:54.392Z"
     },
 	{
         "ADDRESS_1": "BLK 866A TAMPINES STREET 83 ",
@@ -1627,12 +1627,12 @@
         "CLINIC": "KARRI FAMILY CLINIC",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7857511e+07,
-        "LATITUDE": 1.355507,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.355507,
             "longitude": 103.934462
         },
+        "LATITUDE": 1.355507,
         "LONGITUDE": 103.934462,
         "MONDAY_FRIDAY": "8.30AM-1.00PM\n6.30PM-9.30PM",
         "POSTAL": 521866,
@@ -1642,9 +1642,9 @@
         "SUNDAY": "6.30PM-9.30PM",
         "TELEPHONE": 6.7850311e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.648Z",
-        "objectId": "g5V6tXHADZ",
-        "updatedAt": "2015-05-28T06:25:00.326Z"
+        "createdAt": "2015-05-15T03:35:49.830Z",
+        "objectId": "Nyu7rpD7Qy",
+        "updatedAt": "2015-05-28T03:29:46.517Z"
     },
 	{
         "ADDRESS_1": "BLK 487C TAMPINES STREET 45 ",
@@ -1653,12 +1653,12 @@
         "CLINIC": "FAITH MEDICAL CLINIC \u0026 SURGERY",
         "ESTATE": "TAMPINES",
         "FAX_NO": 6.7881061e+07,
-        "LATITUDE": 1.360636,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.360636,
             "longitude": 103.957428
         },
+        "LATITUDE": 1.360636,
         "LONGITUDE": 103.957428,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-4.00PM\n7.00PM-9.00PM",
         "POSTAL": 522487,
@@ -1668,9 +1668,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7881061e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.652Z",
-        "objectId": "MJpKM7tg0P",
-        "updatedAt": "2015-05-28T06:25:02.867Z"
+        "createdAt": "2015-05-15T03:35:49.836Z",
+        "objectId": "ukoy7qonNf",
+        "updatedAt": "2015-05-28T03:29:39.076Z"
     },
 	{
         "ADDRESS_1": "BLK 301 UBI AVENUE 1 ",
@@ -1679,12 +1679,12 @@
         "CLINIC": "ADVANCE CLINIC \u0026 SURGERY PTE LTD",
         "ESTATE": "UBI",
         "FAX_NO": 6.7426191e+07,
-        "LATITUDE": 1.331064,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.331064,
             "longitude": 103.90253
         },
+        "LATITUDE": 1.331064,
         "LONGITUDE": 103.90253,
         "MONDAY_FRIDAY": "8.30AM-5.30PM\n7.00PM-9.00PM",
         "POSTAL": 400301,
@@ -1694,9 +1694,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7421156e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.656Z",
-        "objectId": "rngr5RtBrX",
-        "updatedAt": "2015-05-28T06:25:05.368Z"
+        "createdAt": "2015-05-15T03:35:49.842Z",
+        "objectId": "w958QKeK7A",
+        "updatedAt": "2015-05-28T03:29:54.688Z"
     },
 	{
         "ADDRESS_1": "BLK 304 UBI AVENUE 1 ",
@@ -1705,12 +1705,12 @@
         "CLINIC": "CARITAS CLINIC",
         "ESTATE": "UBI",
         "FAX_NO": 6.7421955e+07,
-        "LATITUDE": 1.329443,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.329443,
             "longitude": 103.901257
         },
+        "LATITUDE": 1.329443,
         "LONGITUDE": 103.901257,
         "MONDAY_FRIDAY": "MON-THU:\n8.30AM-1.00PM\n2.00PM-4.00PM\n6.00PM-7.30PM FRI:\n8.30AM-12.00PM\n2.00PM-4.00PM",
         "POSTAL": 400304,
@@ -1720,9 +1720,9 @@
         "SUNDAY": "9.30AM-12.00PM",
         "TELEPHONE": 6.7489284e+07,
         "ZONE": "EAST",
-        "createdAt": "2015-05-15T03:34:03.659Z",
-        "objectId": "g6LC5UUwB0",
-        "updatedAt": "2015-05-28T06:25:07.921Z"
+        "createdAt": "2015-05-15T03:35:49.849Z",
+        "objectId": "0H4mL6hQfA",
+        "updatedAt": "2015-05-28T03:29:38.747Z"
     },
 	{
         "ADDRESS_1": "35 JALAN HARMONIUM 23/12 ",
@@ -1731,12 +1731,12 @@
         "CLINIC": "KLINIK TEOH",
         "ESTATE": "JOHOR BAHRU",
         "FAX_NO": 7.3528984e+07,
-        "LATITUDE": 1.352083,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.352083,
             "longitude": 103.819836
         },
+        "LATITUDE": 1.352083,
         "LONGITUDE": 103.819836,
         "MONDAY_FRIDAY": "7.30AM - 12.00AM",
         "POSTAL": 81100,
@@ -1746,9 +1746,9 @@
         "SUNDAY": "7.30AM - 12.00AM",
         "TELEPHONE": 7.3518985e+07,
         "ZONE": "JOHOR BAHRU",
-        "createdAt": "2015-05-15T03:34:03.663Z",
-        "objectId": "SvWZ0Qt5wg",
-        "updatedAt": "2015-05-28T06:25:10.387Z"
+        "createdAt": "2015-05-15T03:35:49.855Z",
+        "objectId": "ixGOmHFGlY",
+        "updatedAt": "2015-05-28T03:29:52.559Z"
     },
 	{
         "ADDRESS_1": "262 Jalan Simbang Taman Perling ",
@@ -1757,12 +1757,12 @@
         "CLINIC": "KLINIK PERLING",
         "ESTATE": "JOHOR BAHRU",
         "FAX_NO": 2.07236852e+09,
-        "LATITUDE": 1.479361,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.479361,
             "longitude": 103.682664
         },
+        "LATITUDE": 1.479361,
         "LONGITUDE": 103.682664,
         "MONDAY_FRIDAY": "8.30am - 1.00pm,\n2.30pm - 9.30pm",
         "POSTAL": 81200,
@@ -1772,9 +1772,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 2.07238852e+09,
         "ZONE": "JOHOR BAHRU",
-        "createdAt": "2015-05-15T03:34:03.667Z",
-        "objectId": "QBjSJRdPy4",
-        "updatedAt": "2015-05-28T06:25:12.812Z"
+        "createdAt": "2015-05-15T03:35:49.860Z",
+        "objectId": "IRZdhbT8Tv",
+        "updatedAt": "2015-05-28T03:29:54.074Z"
     },
 	{
         "ADDRESS_1": "14 Jalan Indah 16/5 ",
@@ -1783,12 +1783,12 @@
         "CLINIC": "KLINIK LEE DAN SURGERI",
         "ESTATE": "JOHOR BAHRU",
         "FAX_NO": 7.2365419e+07,
-        "LATITUDE": 1.481204,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.481204,
             "longitude": 103.663826
         },
+        "LATITUDE": 1.481204,
         "LONGITUDE": 103.663826,
         "MONDAY_FRIDAY": "9.00am - 10.00pm",
         "POSTAL": 81200,
@@ -1798,9 +1798,9 @@
         "SUNDAY": "9.00am - 10.00pm",
         "TELEPHONE": 7.2365419e+07,
         "ZONE": "JOHOR BAHRU",
-        "createdAt": "2015-05-15T03:34:03.670Z",
-        "objectId": "GqBwhEZ65v",
-        "updatedAt": "2015-05-28T06:25:15.368Z"
+        "createdAt": "2015-05-15T03:35:49.866Z",
+        "objectId": "ZyXHr3uKUl",
+        "updatedAt": "2015-05-28T03:29:58.271Z"
     },
 	{
         "ADDRESS_1": "No. 87 Jalan Indah 15/2 ",
@@ -1809,12 +1809,12 @@
         "CLINIC": "KLINIK MEDIVIRON BUKIT INDAH",
         "ESTATE": "JOHOR BAHRU",
         "FAX_NO": 7.2369993e+07,
-        "LATITUDE": 1.486121,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.486121,
             "longitude": 103.65155
         },
+        "LATITUDE": 1.486121,
         "LONGITUDE": 103.65155,
         "MONDAY_FRIDAY": "9.00am - 9.00pm",
         "POSTAL": 81200,
@@ -1824,9 +1824,9 @@
         "SUNDAY": "9.00am - 9.00pm",
         "TELEPHONE": 7.2369993e+07,
         "ZONE": "JOHOR BAHRU",
-        "createdAt": "2015-05-15T03:34:03.674Z",
-        "objectId": "MmCfTuPthF",
-        "updatedAt": "2015-05-28T06:25:17.827Z"
+        "createdAt": "2015-05-15T03:35:49.872Z",
+        "objectId": "J5h2dmOiwv",
+        "updatedAt": "2015-05-28T03:29:52.233Z"
     },
 	{
         "ADDRESS_1": "6 JALAN KEBUDAYAAN 1 TAMAN UNIVERSITI ",
@@ -1835,12 +1835,12 @@
         "CLINIC": "POLIKLINIK CHU SDN BHD",
         "ESTATE": "JOHOR BAHRU",
         "FAX_NO": 6.075213188e+09,
-        "LATITUDE": 1.542821,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.542821,
             "longitude": 103.630741
         },
+        "LATITUDE": 1.542821,
         "LONGITUDE": 103.630741,
         "MONDAY_FRIDAY": "MON - THURS :\n8.00AM - 10.00PM FRIDAY : CLOSED",
         "POSTAL": 81300,
@@ -1850,9 +1850,9 @@
         "SUNDAY": "8.00AM - 10.00PM",
         "TELEPHONE": 6.075213188e+09,
         "ZONE": "JOHOR BAHRU",
-        "createdAt": "2015-05-15T03:34:03.678Z",
-        "objectId": "chuzPVfwi9",
-        "updatedAt": "2015-05-28T06:25:20.226Z"
+        "createdAt": "2015-05-15T03:35:49.877Z",
+        "objectId": "YeIoMnM3g5",
+        "updatedAt": "2015-05-28T03:29:50.219Z"
     },
 	{
         "ADDRESS_1": "BLK 108 ANG MO KIO AVENUE 4 ",
@@ -1861,12 +1861,12 @@
         "CLINIC": "HEALTHLINK (AMK) MEDICAL CENTRE PTE LTD",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.4563605e+07,
-        "LATITUDE": 1.371119,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.371119,
             "longitude": 103.838173
         },
+        "LATITUDE": 1.371119,
         "LONGITUDE": 103.838173,
         "MONDAY_FRIDAY": "8.45AM-12.30PM\n2.00PM-4.30PM\n6.45PM-8.30PM",
         "POSTAL": 560108,
@@ -1876,9 +1876,9 @@
         "SUNDAY": "8.45AM-12.00PM",
         "TELEPHONE": 6.4571636e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.682Z",
-        "objectId": "jf7KKyEMcW",
-        "updatedAt": "2015-05-28T06:25:22.599Z"
+        "createdAt": "2015-05-15T03:35:49.883Z",
+        "objectId": "xwkcQT6qrR",
+        "updatedAt": "2015-05-28T03:29:53.339Z"
     },
 	{
         "ADDRESS_1": "BLK 302 ANG MO KIO AVENUE 3 ",
@@ -1888,11 +1888,6 @@
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.452527e+07,
         "LATITUDE": 1.367182,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.367182,
-            "longitude": 103.845533
-        },
         "LONGITUDE": 103.845533,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n1.30PM-4.30PM\n6.00PM-9.00PM",
         "POSTAL": 560302,
@@ -1902,9 +1897,9 @@
         "SUNDAY": "8.30AM-12.00PM\n6.00PM-9.00PM",
         "TELEPHONE": 6.4520818e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.686Z",
-        "objectId": "Fyha1pzgTX",
-        "updatedAt": "2015-05-28T06:25:24.743Z"
+        "createdAt": "2015-05-15T03:35:49.889Z",
+        "objectId": "BSxg4vjvNx",
+        "updatedAt": "2015-05-15T03:35:49.889Z"
     },
 	{
         "ADDRESS_1": "BLK 330 ANG MO KIO AVENUE 1 ",
@@ -1913,12 +1908,12 @@
         "CLINIC": "MY FAMILY DOCTOR",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.4578406e+07,
-        "LATITUDE": 1.362825,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.362825,
             "longitude": 103.850552
         },
+        "LATITUDE": 1.362825,
         "LONGITUDE": 103.850552,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
         "POSTAL": 560330,
@@ -1928,9 +1923,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.55301e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.689Z",
-        "objectId": "HHYvBNxVo6",
-        "updatedAt": "2015-05-28T06:25:26.825Z"
+        "createdAt": "2015-05-15T03:35:49.895Z",
+        "objectId": "qJnIeOdowK",
+        "updatedAt": "2015-05-28T03:29:56.179Z"
     },
 	{
         "ADDRESS_1": "BLK 338 ANG MO KIO AVENUE 1 ",
@@ -1938,12 +1933,12 @@
         "AVIVA_CODE": 10203,
         "CLINIC": "HEALTHPATH MEDICAL CLINIC AND SURGERY",
         "ESTATE": "ANG MO KIO",
-        "LATITUDE": 1.364053,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.364053,
             "longitude": 103.848556
         },
+        "LATITUDE": 1.364053,
         "LONGITUDE": 103.848556,
         "MONDAY_FRIDAY": "8.30AM - 12.30PM,\n2.00PM - 5.00PM,\n6.30PM - 9.30PM",
         "POSTAL": 560338,
@@ -1953,9 +1948,9 @@
         "SUNDAY": "8.30AM - 12.30PM",
         "TELEPHONE": 6.4832556e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.693Z",
-        "objectId": "9YihO6JVfG",
-        "updatedAt": "2015-05-28T06:25:28.827Z"
+        "createdAt": "2015-05-15T03:35:49.900Z",
+        "objectId": "Pmptygs33O",
+        "updatedAt": "2015-05-28T03:29:45.533Z"
     },
 	{
         "ADDRESS_1": "BLK 452 ANG MO KIO AVENUE 10 ",
@@ -1964,12 +1959,12 @@
         "CLINIC": "MHC FAMILY CLINIC (AMK)",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.4525433e+07,
-        "LATITUDE": 1.368902,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.368902,
             "longitude": 103.85612
         },
+        "LATITUDE": 1.368902,
         "LONGITUDE": 103.85612,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n1.00PM-3.30PM\n7.00PM-9.00PM",
         "POSTAL": 560452,
@@ -1978,9 +1973,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.553405e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.697Z",
-        "objectId": "XsKd8z3ehX",
-        "updatedAt": "2015-05-28T06:25:30.366Z"
+        "createdAt": "2015-05-15T03:35:49.906Z",
+        "objectId": "cXICJDGWVQ",
+        "updatedAt": "2015-05-28T03:30:04.156Z"
     },
 	{
         "ADDRESS_1": "BLK 532 ANG MO KIO AVENUE 10 ",
@@ -1989,12 +1984,12 @@
         "CLINIC": "ATRIO FAMILY CLINIC (AMK) PTE LTD",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.455428e+07,
-        "LATITUDE": 1.373784,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.373784,
             "longitude": 103.854658
         },
+        "LATITUDE": 1.373784,
         "LONGITUDE": 103.854658,
         "MONDAY_FRIDAY": "8.00AM-2.00PM,\n5.30PM-10.30PM",
         "POSTAL": 560532,
@@ -2004,9 +1999,9 @@
         "SUNDAY": "9.00AM - 2.00PM\n5.30PM - 9.00PM",
         "TELEPHONE": 6.4554282e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.701Z",
-        "objectId": "g7xPcZBYsN",
-        "updatedAt": "2015-05-28T06:25:31.940Z"
+        "createdAt": "2015-05-15T03:35:49.911Z",
+        "objectId": "v1EwUVC8Rr",
+        "updatedAt": "2015-05-28T03:29:41.349Z"
     },
 	{
         "ADDRESS_1": "BLK 632 ANG MO KIO AVENUE 4 ",
@@ -2015,12 +2010,12 @@
         "CLINIC": "SUMMIT MEDICAL CLINIC",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.4532143e+07,
-        "LATITUDE": 1.379933,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.379933,
             "longitude": 103.841139
         },
+        "LATITUDE": 1.379933,
         "LONGITUDE": 103.841139,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n1.30PM-3.30PM\n6.30PM-8.30PM",
         "POSTAL": 560632,
@@ -2031,9 +2026,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.456006e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.704Z",
-        "objectId": "z1NENqPsm8",
-        "updatedAt": "2015-05-28T06:25:33.477Z"
+        "createdAt": "2015-05-15T03:35:49.917Z",
+        "objectId": "iiaZEmhgCt",
+        "updatedAt": "2015-05-28T03:29:57.244Z"
     },
 	{
         "ADDRESS_1": "17 ANG MO KIO AVENUE 9 ",
@@ -2042,12 +2037,12 @@
         "CLINIC": "THE CHUNGKIAW FAMILY PRACTICE\nPTE LTD",
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.4550992e+07,
-        "LATITUDE": 1.384133,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.384133,
             "longitude": 103.840372
         },
+        "LATITUDE": 1.384133,
         "LONGITUDE": 103.840372,
         "MONDAY_FRIDAY": "8.45AM-12.00PM,\n2.00PM-4.00PM",
         "POSTAL": 569766,
@@ -2057,9 +2052,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4551009e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.708Z",
-        "objectId": "7eWdFMelhe",
-        "updatedAt": "2015-05-28T06:25:35.083Z"
+        "createdAt": "2015-05-15T03:35:49.923Z",
+        "objectId": "ZfmwmkNk2c",
+        "updatedAt": "2015-05-28T03:30:01.282Z"
     },
 	{
         "ADDRESS_1": "BLK 5012 ANG MO KIO AVE 5 ",
@@ -2069,11 +2064,6 @@
         "ESTATE": "ANG MO KIO",
         "FAX_NO": 6.5559048e+07,
         "LATITUDE": 1.377057,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.377057,
-            "longitude": 103.86546
-        },
         "LONGITUDE": 103.86546,
         "MONDAY_FRIDAY": "8.30AM-1.00PM,\n2.00PM-5.00PM",
         "POSTAL": 569876,
@@ -2083,9 +2073,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5559038e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.712Z",
-        "objectId": "eIToG9wiE4",
-        "updatedAt": "2015-05-28T06:25:36.315Z"
+        "createdAt": "2015-05-15T03:35:49.928Z",
+        "objectId": "jaYPh6YUWO",
+        "updatedAt": "2015-05-15T03:35:49.928Z"
     },
 	{
         "ADDRESS_1": "BLK 678 WOODLANDS AVENUE 6 ",
@@ -2094,12 +2084,12 @@
         "CLINIC": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
         "ESTATE": "WOODLANDS",
         "FAX_NO": 6.8939839e+07,
-        "LATITUDE": 1.439771,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.439771,
             "longitude": 103.80175
         },
+        "LATITUDE": 1.439771,
         "LONGITUDE": 103.80175,
         "MONDAY_FRIDAY": "9.00AM - 9.00PM\n9.00AM - 5.00PM",
         "POSTAL": 730678,
@@ -2110,9 +2100,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3669027e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.722Z",
-        "objectId": "7tas95B4D8",
-        "updatedAt": "2015-05-28T08:21:59.775Z"
+        "createdAt": "2015-05-15T03:35:49.934Z",
+        "objectId": "ax19mCjmap",
+        "updatedAt": "2015-05-28T03:30:00.517Z"
     },
 	{
         "ADDRESS_1": "BLK 768 WOODLANDS AVENUE 6 ",
@@ -2121,12 +2111,12 @@
         "CLINIC": "CENTRAL 24-HR CLINIC (WOODLANDS)",
         "ESTATE": "WOODLANDS",
         "FAX_NO": 6.3621895e+07,
-        "LATITUDE": 1.446081,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.446081,
             "longitude": 103.798043
         },
+        "LATITUDE": 1.446081,
         "LONGITUDE": 103.798043,
         "MONDAY_FRIDAY": "24 HOURS",
         "POSTAL": 730768,
@@ -2136,9 +2126,9 @@
         "SUNDAY": "24 HOURS",
         "TELEPHONE": 6.3654895e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.726Z",
-        "objectId": "prVWt1rtJl",
-        "updatedAt": "2015-05-28T08:22:04.577Z"
+        "createdAt": "2015-05-15T03:35:49.940Z",
+        "objectId": "hzfsliHAfN",
+        "updatedAt": "2015-05-28T03:29:56.895Z"
     },
 	{
         "ADDRESS_1": "BLK 888 WOODLANDS DRIVE 50 ",
@@ -2147,12 +2137,12 @@
         "CLINIC": "HEALTHWAY MEDICAL CLINIC (WOODLANDS)",
         "ESTATE": "WOODLANDS",
         "FAX_NO": 6.3649662e+07,
-        "LATITUDE": 1.437703,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.437703,
             "longitude": 103.79527
         },
+        "LATITUDE": 1.437703,
         "LONGITUDE": 103.79527,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.30PM",
         "POSTAL": 730888,
@@ -2163,9 +2153,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.3649661e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.730Z",
-        "objectId": "cOcfcfSYB2",
-        "updatedAt": "2015-05-28T08:22:06.429Z"
+        "createdAt": "2015-05-15T03:35:49.946Z",
+        "objectId": "0pjNBGPnjJ",
+        "updatedAt": "2015-05-28T03:29:48.760Z"
     },
 	{
         "ADDRESS_1": "BLK 689A WOODLANDS DRIVE 75 ",
@@ -2174,12 +2164,12 @@
         "CLINIC": "PROCROSS MEDICAL CENTRE\n(WOODLANDS)",
         "ESTATE": "WOODLANDS",
         "FAX_NO": 6.2199649e+07,
-        "LATITUDE": 1.444459,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.444459,
             "longitude": 103.807895
         },
+        "LATITUDE": 1.444459,
         "LONGITUDE": 103.807895,
         "MONDAY_FRIDAY": "8.00AM-12.00PM,\n6.30PM-9.30PM",
         "POSTAL": 731689,
@@ -2189,9 +2179,9 @@
         "SUNDAY": "9.00AM-1.00PM",
         "TELEPHONE": 6.2199648e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.733Z",
-        "objectId": "5pHA32eVqN",
-        "updatedAt": "2015-05-28T08:22:07.805Z"
+        "createdAt": "2015-05-15T03:35:49.955Z",
+        "objectId": "SSt6LJ59pY",
+        "updatedAt": "2015-05-28T03:29:53.751Z"
     },
 	{
         "ADDRESS_1": "30 WOODLANDS AVENUE 2 ",
@@ -2200,12 +2190,12 @@
         "CLINIC": "SHENTON MEDICAL GROUP (WOODLANDS)",
         "ESTATE": "WOODLANDS",
         "FAX_NO": 6.3671483e+07,
-        "LATITUDE": 1.437257,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.437257,
             "longitude": 103.787162
         },
+        "LATITUDE": 1.437257,
         "LONGITUDE": 103.787162,
         "MONDAY_FRIDAY": "8.30AM-1.00PM,\n2.00PM-5.30PM,\n6.30PM-9.00PM",
         "POSTAL": 738343,
@@ -2216,9 +2206,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3639415e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.737Z",
-        "objectId": "Jif2wugjwu",
-        "updatedAt": "2015-05-28T08:22:09.428Z"
+        "createdAt": "2015-05-15T03:35:49.961Z",
+        "objectId": "a3fb8RdZ2U",
+        "updatedAt": "2015-05-28T03:29:55.493Z"
     },
 	{
         "ADDRESS_1": "BLK 160 YISHUN STREET 11 ",
@@ -2228,11 +2218,6 @@
         "ESTATE": "YISHUN",
         "FAX_NO": 6.7558931e+07,
         "LATITUDE": 1.432548,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.432548,
-            "longitude": 103.833213
-        },
         "LONGITUDE": 103.833213,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.00PM\n6.30PM-9.00PM",
         "POSTAL": 760160,
@@ -2242,9 +2227,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7558931e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.741Z",
-        "objectId": "BJ5OOXhJye",
-        "updatedAt": "2015-05-28T08:22:10.698Z"
+        "createdAt": "2015-05-15T03:35:49.966Z",
+        "objectId": "ahbiV9m5aR",
+        "updatedAt": "2015-05-15T03:35:49.966Z"
     },
 	{
         "ADDRESS_1": "BLK 417 YISHUN AVENUE 11 ",
@@ -2253,12 +2238,12 @@
         "CLINIC": "HEALTHWAY MEDICAL CENTRE",
         "ESTATE": "YISHUN",
         "FAX_NO": 6.7530125e+07,
-        "LATITUDE": 1.424411,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.424411,
             "longitude": 103.846319
         },
+        "LATITUDE": 1.424411,
         "LONGITUDE": 103.846319,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM\n6.30PM-9.00PM",
         "POSTAL": 760417,
@@ -2269,9 +2254,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7537626e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.745Z",
-        "objectId": "qE4yu8gn4u",
-        "updatedAt": "2015-05-28T08:22:12.513Z"
+        "createdAt": "2015-05-15T03:35:49.972Z",
+        "objectId": "RPZGRkPX4L",
+        "updatedAt": "2015-05-28T03:30:03.453Z"
     },
 	{
         "ADDRESS_1": "BLK 431 YISHUN AVENUE 1 ",
@@ -2280,12 +2265,12 @@
         "CLINIC": "ONECARE CLINIC YISHUN PTE LTD",
         "ESTATE": "YISHUN",
         "FAX_NO": 6.3342374e+07,
-        "LATITUDE": 1.42019,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.42019,
             "longitude": 103.847536
         },
+        "LATITUDE": 1.42019,
         "LONGITUDE": 103.847536,
         "MONDAY_FRIDAY": "8.30AM-2.30PM,\n6.30PM-9.30PM",
         "POSTAL": 760431,
@@ -2295,9 +2280,9 @@
         "SUNDAY": "8.30AM-12.30PM,\n6.30PM-9.30PM",
         "TELEPHONE": 6.3342373e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.749Z",
-        "objectId": "7NsxlD5UAb",
-        "updatedAt": "2015-05-28T08:22:13.730Z"
+        "createdAt": "2015-05-15T03:35:49.978Z",
+        "objectId": "tem5af5CF4",
+        "updatedAt": "2015-05-28T03:29:57.636Z"
     },
 	{
         "ADDRESS_1": "BLK 604 YISHUN STREET 61 ",
@@ -2307,11 +2292,6 @@
         "ESTATE": "YISHUN",
         "FAX_NO": 6.75656e+07,
         "LATITUDE": 1.422369,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.422369,
-            "longitude": 103.835735
-        },
         "LONGITUDE": 103.835735,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.30PM-4.30PM\n7.00PM-9.00PM FRI:\n9.00AM-12.30PM",
         "POSTAL": 760604,
@@ -2321,9 +2301,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.7563456e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.753Z",
-        "objectId": "ruwl6TfUAU",
-        "updatedAt": "2015-05-28T08:22:14.934Z"
+        "createdAt": "2015-05-15T03:35:49.983Z",
+        "objectId": "ixXDmmDw13",
+        "updatedAt": "2015-05-15T03:35:49.983Z"
     },
 	{
         "ADDRESS_1": "BLK 627 YISHUN STREET 61 ",
@@ -2332,12 +2312,12 @@
         "CLINIC": "UNITED HEALTH FAMILY CLINIC \u0026 SURGERY",
         "ESTATE": "YISHUN",
         "FAX_NO": 6.2571182e+07,
-        "LATITUDE": 1.417705,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.417705,
             "longitude": 103.836588
         },
+        "LATITUDE": 1.417705,
         "LONGITUDE": 103.836588,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.00PM",
         "POSTAL": 760627,
@@ -2347,9 +2327,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2571182e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.756Z",
-        "objectId": "xHJpkK0Oxh",
-        "updatedAt": "2015-05-28T08:22:16.090Z"
+        "createdAt": "2015-05-15T03:35:49.989Z",
+        "objectId": "yBog6kKKPQ",
+        "updatedAt": "2015-05-28T03:30:02.083Z"
     },
 	{
         "ADDRESS_1": "BLK 807 YISHUN RING ROAD ",
@@ -2359,11 +2339,6 @@
         "ESTATE": "YISHUN",
         "FAX_NO": 6.7552238e+07,
         "LATITUDE": 1.41681,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.41681,
-            "longitude": 103.831389
-        },
         "LONGITUDE": 103.831389,
         "MONDAY_FRIDAY": "8.30AM - 3.00PM,\n6.30PM - 9.00PM",
         "POSTAL": 760807,
@@ -2373,9 +2348,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7552238e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.760Z",
-        "objectId": "bRTSl49m7S",
-        "updatedAt": "2015-05-28T08:22:17.146Z"
+        "createdAt": "2015-05-15T03:35:49.995Z",
+        "objectId": "ymd5OJVWVW",
+        "updatedAt": "2015-05-15T03:35:49.995Z"
     },
 	{
         "ADDRESS_1": "BLK 932 YISHUN CENTRAL 1 ",
@@ -2384,12 +2359,12 @@
         "CLINIC": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
         "ESTATE": "YISHUN",
         "FAX_NO": 6.7568028e+07,
-        "LATITUDE": 1.426375,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.426375,
             "longitude": 103.836995
         },
+        "LATITUDE": 1.426375,
         "LONGITUDE": 103.836995,
         "MONDAY_FRIDAY": "8.30AM-12.30PM,\n2.00PM-4.00PM,\n6.30PM-8.30PM (CLOSED ON TUE/THU EVENING)",
         "POSTAL": 760932,
@@ -2399,9 +2374,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7561611e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.764Z",
-        "objectId": "gtLx4InBCB",
-        "updatedAt": "2015-05-28T08:22:18.178Z"
+        "createdAt": "2015-05-15T03:35:50.003Z",
+        "objectId": "ArIktl1ZUH",
+        "updatedAt": "2015-05-28T03:29:56.559Z"
     },
 	{
         "ADDRESS_1": "BLK 701A YISHUN AVENUE 5 ",
@@ -2411,11 +2386,6 @@
         "ESTATE": "YISHUN",
         "FAX_NO": 6.7597984e+07,
         "LATITUDE": 1.429952,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.429952,
-            "longitude": 103.827832
-        },
         "LONGITUDE": 103.827832,
         "MONDAY_FRIDAY": "24 HOURS",
         "POSTAL": 761701,
@@ -2425,9 +2395,9 @@
         "SUNDAY": "24 HOURS",
         "TELEPHONE": 6.7597985e+07,
         "ZONE": "NORTH",
-        "createdAt": "2015-05-15T03:34:03.768Z",
-        "objectId": "SpOLc3fGxG",
-        "updatedAt": "2015-05-28T08:22:19.129Z"
+        "createdAt": "2015-05-15T03:35:50.009Z",
+        "objectId": "QCrhnNpRnK",
+        "updatedAt": "2015-05-15T03:35:50.009Z"
     },
 	{
         "ADDRESS_1": "542B SERANGOON NORTH AVE 3 ",
@@ -2437,11 +2407,6 @@
         "ESTATE": "SERANGOON",
         "FAX_NO": 6.5551829e+07,
         "LATITUDE": 1.373642,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.373642,
-            "longitude": 103.871087
-        },
         "LONGITUDE": 103.871087,
         "MONDAY_FRIDAY": "8.30AM -4.00PM,\n6.00PM - 10.00PM",
         "POSTAL": 552542,
@@ -2451,9 +2416,9 @@
         "SUNDAY": "9.00AM - 1.00PM",
         "TELEPHONE": 6.5551828e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.777Z",
-        "objectId": "mCOHKQaFGR",
-        "updatedAt": "2015-05-28T08:22:20.004Z"
+        "createdAt": "2015-05-15T03:35:50.015Z",
+        "objectId": "Y4eo5XPjT7",
+        "updatedAt": "2015-05-15T03:35:50.015Z"
     },
 	{
         "ADDRESS_1": "BLK 95 ALJUNIED CRESCENT ",
@@ -2462,12 +2427,12 @@
         "CLINIC": "S T MEDICAL CENTRE",
         "ESTATE": "ALJUNIED",
         "FAX_NO": 6.7458119e+07,
-        "LATITUDE": 1.321566,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.321566,
             "longitude": 103.886361
         },
+        "LATITUDE": 1.321566,
         "LONGITUDE": 103.886361,
         "MONDAY_FRIDAY": "9.00AM-1.00PM\n6.30PM-8.30PM",
         "POSTAL": 380095,
@@ -2478,9 +2443,9 @@
         "SUNDAY": "9.30AM-12.00PM",
         "TELEPHONE": 6.7458119e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.780Z",
-        "objectId": "4crusyM4ZO",
-        "updatedAt": "2015-05-28T08:22:20.953Z"
+        "createdAt": "2015-05-15T03:35:50.021Z",
+        "objectId": "SAibjbVV3X",
+        "updatedAt": "2015-05-28T03:29:58.615Z"
     },
 	{
         "ADDRESS_1": "368 GEYLANG ROAD ",
@@ -2489,11 +2454,6 @@
         "ESTATE": "ALJUNIED",
         "FAX_NO": 6.8418948e+07,
         "LATITUDE": 1.31295,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.31295,
-            "longitude": 103.88136
-        },
         "LONGITUDE": 103.88136,
         "MONDAY_FRIDAY": "9.00AM-12.00PM\n2.00PM-5.00PM",
         "POSTAL": 389381,
@@ -2503,9 +2463,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7441809e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.784Z",
-        "objectId": "UP1ywcogZm",
-        "updatedAt": "2015-05-28T08:22:21.809Z"
+        "createdAt": "2015-05-15T03:35:50.027Z",
+        "objectId": "2c30fGzJhV",
+        "updatedAt": "2015-05-15T03:35:50.027Z"
     },
 	{
         "ADDRESS_1": "10 SENGKANG CENTRAL ",
@@ -2514,12 +2474,12 @@
         "CLINIC": "SHENTON MEDICAL GROUP (BUANGKOK)",
         "ESTATE": "BUANGKOK",
         "FAX_NO": 6.315819e+07,
-        "LATITUDE": 1.383041,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.383041,
             "longitude": 103.893351
         },
+        "LATITUDE": 1.383041,
         "LONGITUDE": 103.893351,
         "MONDAY_FRIDAY": "MON-FRI:\n8.30AM-1.00PM,\n2.00PM-5.30PM,\n6.30PM-9.00PM",
         "POSTAL": 545061,
@@ -2530,9 +2490,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.3153671e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.788Z",
-        "objectId": "YWUMycqoHU",
-        "updatedAt": "2015-05-28T08:22:23.457Z"
+        "createdAt": "2015-05-15T03:35:50.033Z",
+        "objectId": "yeOijgvxUg",
+        "updatedAt": "2015-05-28T03:29:59.051Z"
     },
 	{
         "ADDRESS_1": "104 HOUGANG AVENUE 1 ",
@@ -2541,12 +2501,12 @@
         "CLINIC": "ONECARE CLINIC HOUGANG PTE LTD",
         "ESTATE": "HOUGANG",
         "FAX_NO": 6.5250396e+07,
-        "LATITUDE": 1.354793,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.354793,
             "longitude": 103.890305
         },
+        "LATITUDE": 1.354793,
         "LONGITUDE": 103.890305,
         "MONDAY_FRIDAY": "8.00AM-10.00PM",
         "POSTAL": 530104,
@@ -2556,9 +2516,9 @@
         "SUNDAY": "8.00AM-10.00PM",
         "TELEPHONE": 6.5250325e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.792Z",
-        "objectId": "3kix4DLu6z",
-        "updatedAt": "2015-05-28T08:22:22.603Z"
+        "createdAt": "2015-05-15T03:35:50.038Z",
+        "objectId": "oEdlwA8AUq",
+        "updatedAt": "2015-05-28T03:29:59.454Z"
     },
 	{
         "ADDRESS_1": "BLK 106 HOUGANG AVENUE 1 ",
@@ -2567,12 +2527,12 @@
         "CLINIC": "DRS LIM \u0026 CHAN CLINIC (HOUGANG)",
         "ESTATE": "HOUGANG",
         "FAX_NO": 6.2801973e+07,
-        "LATITUDE": 1.353777,
-        "LOCATION": {
+        "GEOPOINT": {
             "__type": "GeoPoint",
             "latitude": 1.353777,
             "longitude": 103.890572
         },
+        "LATITUDE": 1.353777,
         "LONGITUDE": 103.890572,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM (CLOSED ON TUE/WED AFTERNOON)\n7.00PM-9.00PM (CLOSED ON THU/FRI EVENING)",
         "POSTAL": 530106,
@@ -2582,9 +2542,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.280099e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.796Z",
-        "objectId": "J27erjg8ZQ",
-        "updatedAt": "2015-05-28T08:22:25.008Z"
+        "createdAt": "2015-05-15T03:35:50.044Z",
+        "objectId": "rVXqSap2WT",
+        "updatedAt": "2015-05-28T03:29:59.803Z"
     },
 	{
         "ADDRESS_1": "BLK 311 HOUGANG AVENUE 5 ",
@@ -2594,11 +2554,6 @@
         "ESTATE": "HOUGANG",
         "FAX_NO": 6.2828769e+07,
         "LATITUDE": 1.365636,
-        "LOCATION": {
-            "__type": "GeoPoint",
-            "latitude": 1.365636,
-            "longitude": 103.894723
-        },
         "LONGITUDE": 103.894723,
         "MONDAY_FRIDAY": "8.30AM - 12.00PM,\n2.30PM - 5.00PM",
         "POSTAL": 530311,
@@ -2608,9 +2563,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2827254e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.800Z",
-        "objectId": "okyxFlu7cW",
-        "updatedAt": "2015-05-28T08:22:25.473Z"
+        "createdAt": "2015-05-15T03:35:50.050Z",
+        "objectId": "i3ZopcGKFv",
+        "updatedAt": "2015-05-15T03:35:50.050Z"
     },
 	{
         "ADDRESS_1": "BLK 449 HOUGANG AVENUE 10 ",
@@ -2619,6 +2574,11 @@
         "CLINIC": "PROCROSS MEDICAL CENTRE\n(HOUGANG)",
         "ESTATE": "HOUGANG",
         "FAX_NO": 6.702284e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.378798,
+            "longitude": 103.895177
+        },
         "LATITUDE": 1.378798,
         "LONGITUDE": 103.895177,
         "MONDAY_FRIDAY": "12.30PM-9.30PM",
@@ -2629,9 +2589,9 @@
         "SUNDAY": "9.00AM-1.00PM",
         "TELEPHONE": 6.7022848e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.804Z",
-        "objectId": "8laY7HFi57",
-        "updatedAt": "2015-05-15T03:34:03.804Z"
+        "createdAt": "2015-05-15T03:35:50.056Z",
+        "objectId": "KNFDWHrhjl",
+        "updatedAt": "2015-05-28T03:29:48.408Z"
     },
 	{
         "ADDRESS_1": "BLK 644 HOUGANG AVENUE 8 ",
@@ -2650,9 +2610,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.3861632e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.813Z",
-        "objectId": "r7Ub1eUiUJ",
-        "updatedAt": "2015-05-15T03:34:03.813Z"
+        "createdAt": "2015-05-15T03:35:50.062Z",
+        "objectId": "S7EDheNKms",
+        "updatedAt": "2015-05-15T03:35:50.062Z"
     },
 	{
         "ADDRESS_1": "BLK 681 HOUGANG AVENUE 8 ",
@@ -2671,9 +2631,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3863007e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.817Z",
-        "objectId": "HbYJ5VvjiG",
-        "updatedAt": "2015-05-15T03:34:03.817Z"
+        "createdAt": "2015-05-15T03:35:50.067Z",
+        "objectId": "9WEzhO7gzS",
+        "updatedAt": "2015-05-15T03:35:50.067Z"
     },
 	{
         "ADDRESS_1": "BLK 916 HOUGANG AVENUE 9 ",
@@ -2692,9 +2652,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3855177e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.825Z",
-        "objectId": "n2vwQFizFU",
-        "updatedAt": "2015-05-15T03:34:03.825Z"
+        "createdAt": "2015-05-15T03:35:50.073Z",
+        "objectId": "IKDsUlvfDV",
+        "updatedAt": "2015-05-15T03:35:50.073Z"
     },
 	{
         "ADDRESS_1": "90 HOUGANG AVENUE 10 ",
@@ -2713,9 +2673,9 @@
         "SUNDAY": "9.00AM-1.00PM",
         "TELEPHONE": 6.343762e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.829Z",
-        "objectId": "p8GnUMqRpO",
-        "updatedAt": "2015-05-15T03:34:03.829Z"
+        "createdAt": "2015-05-15T03:35:50.079Z",
+        "objectId": "1oLoRXC5ep",
+        "updatedAt": "2015-05-15T03:35:50.079Z"
     },
 	{
         "ADDRESS_1": "BLK 67 KALLANG BAHRU ",
@@ -2735,9 +2695,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2950805e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.833Z",
-        "objectId": "kX5l4R60MD",
-        "updatedAt": "2015-05-15T03:34:03.833Z"
+        "createdAt": "2015-05-15T03:35:50.085Z",
+        "objectId": "3a6VrXhEI0",
+        "updatedAt": "2015-05-15T03:35:50.085Z"
     },
 	{
         "ADDRESS_1": "BLK 21 OLD AIRPORT ROAD ",
@@ -2756,9 +2716,9 @@
         "SUNDAY": "8.30AM-11.30AM",
         "TELEPHONE": 6.34424e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.837Z",
-        "objectId": "jbZBe0uUpo",
-        "updatedAt": "2015-05-15T03:34:03.837Z"
+        "createdAt": "2015-05-15T03:35:50.091Z",
+        "objectId": "FpCFZQMKQb",
+        "updatedAt": "2015-05-15T03:35:50.091Z"
     },
 	{
         "ADDRESS_1": "BLK 136 POTONG PASIR AVENUE 3 ",
@@ -2767,6 +2727,11 @@
         "CLINIC": "GOH MEDICAL CLINIC",
         "ESTATE": "POTONG PASIR",
         "FAX_NO": 6.2827886e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.334079,
+            "longitude": 103.866477
+        },
         "LATITUDE": 1.334079,
         "LONGITUDE": 103.866477,
         "MONDAY_FRIDAY": "8.30AM-12.00PM\n2.00PM-4.30PM\n6.30PM-8.30PM",
@@ -2778,9 +2743,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2827886e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.840Z",
-        "objectId": "5q5qaSiFEn",
-        "updatedAt": "2015-05-15T03:34:03.840Z"
+        "createdAt": "2015-05-15T03:35:50.097Z",
+        "objectId": "Xoyb48iznb",
+        "updatedAt": "2015-05-28T03:30:00.155Z"
     },
 	{
         "ADDRESS_1": "615A EDGEFIELD PLAINS ",
@@ -2798,9 +2763,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.8344843e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.844Z",
-        "objectId": "5wtdHTuRCV",
-        "updatedAt": "2015-05-15T03:34:03.844Z"
+        "createdAt": "2015-05-15T03:35:50.103Z",
+        "objectId": "MAjQoXzps0",
+        "updatedAt": "2015-05-15T03:35:50.103Z"
     },
 	{
         "ADDRESS_1": "70 PUNGGOL CENTRAL ",
@@ -2820,9 +2785,9 @@
         "SUNDAY": "8.30AM - 1.00PM",
         "TELEPHONE": 6.4259935e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.848Z",
-        "objectId": "a2AwYH8rC6",
-        "updatedAt": "2015-05-15T03:34:03.848Z"
+        "createdAt": "2015-05-15T03:35:50.109Z",
+        "objectId": "B0lE86RzLJ",
+        "updatedAt": "2015-05-15T03:35:50.109Z"
     },
 	{
         "ADDRESS_1": "BLK 118 RIVERVALE DRIVE ",
@@ -2841,9 +2806,9 @@
         "SUNDAY": "8.00AM-1.00PM\n4.00PM-10.00PM",
         "TELEPHONE": 6.8812689e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.851Z",
-        "objectId": "KDCDd6IgDH",
-        "updatedAt": "2015-05-15T03:34:03.851Z"
+        "createdAt": "2015-05-15T03:35:50.115Z",
+        "objectId": "4mhjJ7BxfR",
+        "updatedAt": "2015-05-15T03:35:50.115Z"
     },
 	{
         "ADDRESS_1": "BLK 267 COMPASSVALE LINK ",
@@ -2852,6 +2817,11 @@
         "CLINIC": "HEALTHWAY COMPASSVALE CLINIC",
         "ESTATE": "SENGKANG",
         "FAX_NO": 6.3438771e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.38376,
+            "longitude": 103.897067
+        },
         "LATITUDE": 1.38376,
         "LONGITUDE": 103.897067,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n6.30PM-9.30PM",
@@ -2862,9 +2832,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.343877e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.855Z",
-        "objectId": "81j7uozqnr",
-        "updatedAt": "2015-05-15T03:34:03.855Z"
+        "createdAt": "2015-05-15T03:35:50.121Z",
+        "objectId": "oaXDx5NTxj",
+        "updatedAt": "2015-05-28T03:29:51.198Z"
     },
 	{
         "ADDRESS_1": "BLK 303 ANCHORVALE LINK ",
@@ -2883,9 +2853,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3888697e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.859Z",
-        "objectId": "AHj49B9MFD",
-        "updatedAt": "2015-05-15T03:34:03.859Z"
+        "createdAt": "2015-05-15T03:35:50.127Z",
+        "objectId": "6lYiYCqlpC",
+        "updatedAt": "2015-05-15T03:35:50.127Z"
     },
 	{
         "ADDRESS_1": "BLK 319B ANCHORVALE DRIVE ",
@@ -2904,9 +2874,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.4893833e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.862Z",
-        "objectId": "5sukkVfAEs",
-        "updatedAt": "2015-05-15T03:34:03.862Z"
+        "createdAt": "2015-05-15T03:35:50.133Z",
+        "objectId": "sPmcHckOT4",
+        "updatedAt": "2015-05-15T03:35:50.133Z"
     },
 	{
         "ADDRESS_1": "BLK 405C FERNVALE LANE ",
@@ -2925,9 +2895,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.8756182e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.866Z",
-        "objectId": "F3DtlprlWq",
-        "updatedAt": "2015-05-15T03:34:03.866Z"
+        "createdAt": "2015-05-15T03:35:50.139Z",
+        "objectId": "joso2z8k9c",
+        "updatedAt": "2015-05-15T03:35:50.139Z"
     },
 	{
         "ADDRESS_1": "BLK 2 LORONG LEW LIAN ",
@@ -2936,6 +2906,11 @@
         "CLINIC": "DRS LIM \u0026 CHAN CLINIC",
         "ESTATE": "SERANGOON",
         "FAX_NO": 6.2832151e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.350732,
+            "longitude": 103.875873
+        },
         "LATITUDE": 1.350732,
         "LONGITUDE": 103.875873,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-5.00PM (CLOSED ON TUE/WED AFTERNOON)\n7.00PM-9.00PM (CLOSED ON THU/FRI EVENING)",
@@ -2946,9 +2921,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2803009e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.870Z",
-        "objectId": "ppaKgOu2QV",
-        "updatedAt": "2015-05-15T03:34:03.870Z"
+        "createdAt": "2015-05-15T03:35:50.144Z",
+        "objectId": "XMLZkWT74s",
+        "updatedAt": "2015-05-28T03:30:01.681Z"
     },
 	{
         "ADDRESS_1": "BLK 3 LORONG LEW LIAN ",
@@ -2968,9 +2943,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2849971e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.874Z",
-        "objectId": "qfzMVcmI4f",
-        "updatedAt": "2015-05-15T03:34:03.874Z"
+        "createdAt": "2015-05-15T03:35:50.150Z",
+        "objectId": "wGWL8lT1BW",
+        "updatedAt": "2015-05-15T03:35:50.150Z"
     },
 	{
         "ADDRESS_1": "BLK 151 SERANGOON NORTH AVENUE 2 ",
@@ -2989,9 +2964,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2889557e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.879Z",
-        "objectId": "OaR4rQ90XY",
-        "updatedAt": "2015-05-15T03:34:03.879Z"
+        "createdAt": "2015-05-15T03:35:50.156Z",
+        "objectId": "erfBBWz6Kk",
+        "updatedAt": "2015-05-15T03:35:50.156Z"
     },
 	{
         "ADDRESS_1": "BLK 214 SERANGOON AVENUE 4 ",
@@ -3010,9 +2985,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.2807271e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.883Z",
-        "objectId": "dkHTw2jfhx",
-        "updatedAt": "2015-05-15T03:34:03.883Z"
+        "createdAt": "2015-05-15T03:35:50.162Z",
+        "objectId": "ZvyUy8YiPj",
+        "updatedAt": "2015-05-15T03:35:50.162Z"
     },
 	{
         "ADDRESS_1": "84 SERANGOON GARDEN WAY ",
@@ -3020,6 +2995,11 @@
         "CLINIC": "SG CLINIC PTE LTD",
         "ESTATE": "SERANGOON",
         "FAX_NO": 6.2881474e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.364132,
+            "longitude": 103.864907
+        },
         "LATITUDE": 1.364132,
         "LONGITUDE": 103.864907,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.30PM-4.30PM\n6.30PM-8.30PM",
@@ -3030,9 +3010,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.3821988e+07,
         "ZONE": "NORTH-EAST",
-        "createdAt": "2015-05-15T03:34:03.887Z",
-        "objectId": "knvqlpO9fl",
-        "updatedAt": "2015-05-15T03:34:03.887Z"
+        "createdAt": "2015-05-15T03:35:50.167Z",
+        "objectId": "m8WAaUIhI9",
+        "updatedAt": "2015-05-28T03:30:03.098Z"
     },
 	{
         "ADDRESS_1": "BLK 103 GANGSA ROAD ",
@@ -3041,6 +3021,11 @@
         "CLINIC": "CHONG \u0026 LIM FAMILY CLINIC",
         "ESTATE": "BUKIT PANJANG",
         "FAX_NO": 6.8937584e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.378629,
+            "longitude": 103.768434
+        },
         "LATITUDE": 1.378629,
         "LONGITUDE": 103.768434,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.00PM\n6.30PM-9.00PM",
@@ -3052,9 +3037,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7626881e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.890Z",
-        "objectId": "OwnYgwt2vm",
-        "updatedAt": "2015-05-15T03:34:03.890Z"
+        "createdAt": "2015-05-15T03:35:50.173Z",
+        "objectId": "hJZXJeiqhB",
+        "updatedAt": "2015-05-28T03:29:52.954Z"
     },
 	{
         "ADDRESS_1": "BLK 103 GANGSA ROAD ",
@@ -3073,9 +3058,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7605788e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.899Z",
-        "objectId": "2z1pexJeBv",
-        "updatedAt": "2015-05-15T03:34:03.899Z"
+        "createdAt": "2015-05-15T03:35:50.179Z",
+        "objectId": "HJcU2yMZll",
+        "updatedAt": "2015-05-15T03:35:50.179Z"
     },
 	{
         "ADDRESS_1": "BLK 445 FAJAR ROAD ",
@@ -3095,9 +3080,9 @@
         "SUNDAY": "8.00AM-12.00PM",
         "TELEPHONE": 6.7634255e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.903Z",
-        "objectId": "UMYm7v0cwV",
-        "updatedAt": "2015-05-15T03:34:03.903Z"
+        "createdAt": "2015-05-15T03:35:50.185Z",
+        "objectId": "TKac3VpQ2S",
+        "updatedAt": "2015-05-15T03:35:50.185Z"
     },
 	{
         "ADDRESS_1": "BLK 445 FAJAR ROAD ",
@@ -3106,6 +3091,11 @@
         "CLINIC": "HEALTHWAY MEDICAL CLINIC",
         "ESTATE": "BUKIT PANJANG",
         "FAX_NO": 6.76909e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.383802,
+            "longitude": 103.770558
+        },
         "LATITUDE": 1.383802,
         "LONGITUDE": 103.770558,
         "MONDAY_FRIDAY": "8.30AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM",
@@ -3117,9 +3107,9 @@
         "SUNDAY": "9.30AM-12.30PM",
         "TELEPHONE": 6.76906e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.907Z",
-        "objectId": "yMPfZDcDLv",
-        "updatedAt": "2015-05-15T03:34:03.907Z"
+        "createdAt": "2015-05-15T03:35:50.191Z",
+        "objectId": "Fzb2bvHBrH",
+        "updatedAt": "2015-05-28T03:29:55.119Z"
     },
 	{
         "ADDRESS_1": "BLK 137 TECK WHYE LANE ",
@@ -3139,9 +3129,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.762418e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.910Z",
-        "objectId": "PzXQPcI31J",
-        "updatedAt": "2015-05-15T03:34:03.910Z"
+        "createdAt": "2015-05-15T03:35:50.196Z",
+        "objectId": "URwCRQrSx4",
+        "updatedAt": "2015-05-15T03:35:50.196Z"
     },
 	{
         "ADDRESS_1": "BLK 225 CHOA CHU KANG CENTRAL ",
@@ -3150,6 +3140,11 @@
         "CLINIC": "HEALTHWERKZ MEDICAL CENTRE (CCK) PTE LTD",
         "ESTATE": "CHOA CHU KANG",
         "FAX_NO": 6.7660568e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.380997,
+            "longitude": 103.744841
+        },
         "LATITUDE": 1.380997,
         "LONGITUDE": 103.744841,
         "MONDAY_FRIDAY": "8.30AM-2.00PM,\n7.00PM-9.00PM",
@@ -3160,9 +3155,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7662827e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.914Z",
-        "objectId": "ksXBqdCUmm",
-        "updatedAt": "2015-05-15T03:34:03.914Z"
+        "createdAt": "2015-05-15T03:35:50.202Z",
+        "objectId": "wAYvuSQHIh",
+        "updatedAt": "2015-05-28T03:30:00.873Z"
     },
 	{
         "ADDRESS_1": "BLK 235 CHOA CHU KANG CENTRAL ",
@@ -3171,6 +3166,11 @@
         "CLINIC": "HARMONY FAMILY CLINIC",
         "ESTATE": "CHOA CHU KANG",
         "FAX_NO": 6.7621293e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.379759,
+            "longitude": 103.748745
+        },
         "LATITUDE": 1.379759,
         "LONGITUDE": 103.748745,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-4.30PM\n7.00PM-9.00PM (CLOSED ON THU/FRI EVENINGS)",
@@ -3181,9 +3181,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7623979e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.918Z",
-        "objectId": "gcFmTHYERc",
-        "updatedAt": "2015-05-15T03:34:03.918Z"
+        "createdAt": "2015-05-15T03:35:50.208Z",
+        "objectId": "eyNpJ5Mvyd",
+        "updatedAt": "2015-05-28T03:30:03.838Z"
     },
 	{
         "ADDRESS_1": "BLK 304  CHOA CHU KANG AVENUE 4 ",
@@ -3202,9 +3202,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.7600643e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.922Z",
-        "objectId": "3rTZ19E1Co",
-        "updatedAt": "2015-05-15T03:34:03.922Z"
+        "createdAt": "2015-05-15T03:35:50.214Z",
+        "objectId": "mS0dhPptpf",
+        "updatedAt": "2015-05-15T03:35:50.214Z"
     },
 	{
         "ADDRESS_1": "BLK 475 CHOA CHU KANG AVENUE 3 ",
@@ -3224,9 +3224,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.7666465e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.934Z",
-        "objectId": "OzU9hkUIhk",
-        "updatedAt": "2015-05-15T03:34:03.934Z"
+        "createdAt": "2015-05-15T03:35:50.220Z",
+        "objectId": "lpkC4mY5Cz",
+        "updatedAt": "2015-05-15T03:35:50.220Z"
     },
 	{
         "ADDRESS_1": "BLK 475 CHOA CHU KANG AVENUE 3 ",
@@ -3245,9 +3245,9 @@
         "SUNDAY": "9.00AM-1.00PM",
         "TELEPHONE": 6.892633e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.938Z",
-        "objectId": "FBKYJ68ICu",
-        "updatedAt": "2015-05-15T03:34:03.938Z"
+        "createdAt": "2015-05-15T03:35:50.225Z",
+        "objectId": "hCmsvpKQIe",
+        "updatedAt": "2015-05-15T03:35:50.225Z"
     },
 	{
         "ADDRESS_1": "BLK 534 CHOA CHU KANG STREET 51 ",
@@ -3266,9 +3266,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.7622555e+07,
         "ZONE": "NORTH-WEST",
-        "createdAt": "2015-05-15T03:34:03.942Z",
-        "objectId": "5oVvdoqanL",
-        "updatedAt": "2015-05-15T03:34:03.942Z"
+        "createdAt": "2015-05-15T03:35:50.232Z",
+        "objectId": "9B5kRZOHn3",
+        "updatedAt": "2015-05-15T03:35:50.232Z"
     },
 	{
         "ADDRESS_1": "438A ALEXANDRA ROAD ",
@@ -3287,9 +3287,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2788088e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.945Z",
-        "objectId": "rz6BcvVn08",
-        "updatedAt": "2015-05-15T03:34:03.945Z"
+        "createdAt": "2015-05-15T03:35:50.238Z",
+        "objectId": "ud9CfShckM",
+        "updatedAt": "2015-05-15T03:35:50.238Z"
     },
 	{
         "ADDRESS_1": "BLK 57 DAWSON ROAD ",
@@ -3308,9 +3308,9 @@
         "SUNDAY": "8.00AM-12.00PM",
         "TELEPHONE": 6.4797022e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.949Z",
-        "objectId": "9kWGESaMY3",
-        "updatedAt": "2015-05-15T03:34:03.949Z"
+        "createdAt": "2015-05-15T03:35:50.244Z",
+        "objectId": "7T7XplBQFD",
+        "updatedAt": "2015-05-15T03:35:50.244Z"
     },
 	{
         "ADDRESS_1": "BLK 108 DEPOT ROAD ",
@@ -3330,9 +3330,9 @@
         "SUNDAY": "9.00AM-11.30AM",
         "TELEPHONE": 6.27862e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.953Z",
-        "objectId": "Wb2lzWHFqg",
-        "updatedAt": "2015-05-15T03:34:03.953Z"
+        "createdAt": "2015-05-15T03:35:50.250Z",
+        "objectId": "LCmMJd2dpZ",
+        "updatedAt": "2015-05-15T03:35:50.250Z"
     },
 	{
         "ADDRESS_1": "3 TEMASEK BOULEVARD ",
@@ -3352,9 +3352,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3378933e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.956Z",
-        "objectId": "MB6WIJyHyV",
-        "updatedAt": "2015-05-15T03:34:03.956Z"
+        "createdAt": "2015-05-15T03:35:50.256Z",
+        "objectId": "hVO1BTKKiy",
+        "updatedAt": "2015-05-15T03:35:50.256Z"
     },
 	{
         "ADDRESS_1": "63 CHULIA STREET ",
@@ -3373,9 +3373,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5355151e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.960Z",
-        "objectId": "ThVFLLEsn4",
-        "updatedAt": "2015-05-15T03:34:03.960Z"
+        "createdAt": "2015-05-15T03:35:50.262Z",
+        "objectId": "RJh5uauqK8",
+        "updatedAt": "2015-05-15T03:35:50.262Z"
     },
 	{
         "ADDRESS_1": "1 HARBOURFRONT PLACE ",
@@ -3394,9 +3394,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2729372e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.964Z",
-        "objectId": "BxMB4C8lsu",
-        "updatedAt": "2015-05-15T03:34:03.964Z"
+        "createdAt": "2015-05-15T03:35:50.267Z",
+        "objectId": "QZu7K4lrXl",
+        "updatedAt": "2015-05-15T03:35:50.267Z"
     },
 	{
         "ADDRESS_1": "3 HARBOURFRONT PLACE ",
@@ -3415,9 +3415,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3760788e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.967Z",
-        "objectId": "FWZRr7j8q8",
-        "updatedAt": "2015-05-15T03:34:03.967Z"
+        "createdAt": "2015-05-15T03:35:50.273Z",
+        "objectId": "VuvvjWAPgC",
+        "updatedAt": "2015-05-15T03:35:50.273Z"
     },
 	{
         "ADDRESS_1": "18 CROSS STREET ",
@@ -3436,9 +3436,9 @@
         "SUNDAY": "10.00AM-9.00PM",
         "TELEPHONE": 6.2200622e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.971Z",
-        "objectId": "s6x4fUhjdT",
-        "updatedAt": "2015-05-15T03:34:03.971Z"
+        "createdAt": "2015-05-15T03:35:50.279Z",
+        "objectId": "mK4whnWlbY",
+        "updatedAt": "2015-05-15T03:35:50.279Z"
     },
 	{
         "ADDRESS_1": "290 ORCHARD ROAD ",
@@ -3457,9 +3457,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7341433e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.975Z",
-        "objectId": "al5Y91uW66",
-        "updatedAt": "2015-05-15T03:34:03.975Z"
+        "createdAt": "2015-05-15T03:35:50.285Z",
+        "objectId": "dHuHvPi5Be",
+        "updatedAt": "2015-05-15T03:35:50.285Z"
     },
 	{
         "ADDRESS_1": "541 ORCHARD ROAD ",
@@ -3478,9 +3478,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.734526e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.979Z",
-        "objectId": "ImTgEwHedD",
-        "updatedAt": "2015-05-15T03:34:03.979Z"
+        "createdAt": "2015-05-15T03:35:50.291Z",
+        "objectId": "1vxgz7PGAc",
+        "updatedAt": "2015-05-15T03:35:50.291Z"
     },
 	{
         "ADDRESS_1": "541 ORCHARD ROAD ",
@@ -3499,9 +3499,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7362322e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.982Z",
-        "objectId": "JkMoXUHZ15",
-        "updatedAt": "2015-05-15T03:34:03.982Z"
+        "createdAt": "2015-05-15T03:35:50.297Z",
+        "objectId": "O4wqytD9Yd",
+        "updatedAt": "2015-05-15T03:35:50.297Z"
     },
 	{
         "ADDRESS_1": "16 RAFFLES QUAY ",
@@ -3520,9 +3520,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2207585e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.986Z",
-        "objectId": "eSipLnsP65",
-        "updatedAt": "2015-05-15T03:34:03.986Z"
+        "createdAt": "2015-05-15T03:35:50.303Z",
+        "objectId": "AkltaOB9a0",
+        "updatedAt": "2015-05-15T03:35:50.303Z"
     },
 	{
         "ADDRESS_1": "24 RAFFLES PLACE ",
@@ -3542,9 +3542,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5325376e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.995Z",
-        "objectId": "BV9y8qWec2",
-        "updatedAt": "2015-05-15T03:34:03.995Z"
+        "createdAt": "2015-05-15T03:35:50.309Z",
+        "objectId": "KwXbS3iR4c",
+        "updatedAt": "2015-05-15T03:35:50.309Z"
     },
 	{
         "ADDRESS_1": "1 GEORGE STREET ",
@@ -3563,9 +3563,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4385322e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:03.999Z",
-        "objectId": "WJoKY0NxiS",
-        "updatedAt": "2015-05-15T03:34:03.999Z"
+        "createdAt": "2015-05-15T03:35:50.315Z",
+        "objectId": "Xbu7rspAOF",
+        "updatedAt": "2015-05-15T03:35:50.315Z"
     },
 	{
         "ADDRESS_1": "77 ROBINSON ROAD ",
@@ -3585,9 +3585,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2223181e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.003Z",
-        "objectId": "b8d2YqY7EL",
-        "updatedAt": "2015-05-15T03:34:04.003Z"
+        "createdAt": "2015-05-15T03:35:50.321Z",
+        "objectId": "7I03koCxgY",
+        "updatedAt": "2015-05-15T03:35:50.321Z"
     },
 	{
         "ADDRESS_1": "6 SHENTON WAY ",
@@ -3606,9 +3606,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2202383e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.007Z",
-        "objectId": "sLu0bmXIoo",
-        "updatedAt": "2015-05-15T03:34:04.007Z"
+        "createdAt": "2015-05-15T03:35:50.327Z",
+        "objectId": "oBgx1UiQxw",
+        "updatedAt": "2015-05-15T03:35:50.327Z"
     },
 	{
         "ADDRESS_1": "100 CECIL STREET ",
@@ -3627,9 +3627,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2255036e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.011Z",
-        "objectId": "cIRavsOT78",
-        "updatedAt": "2015-05-15T03:34:04.011Z"
+        "createdAt": "2015-05-15T03:35:50.333Z",
+        "objectId": "MpiWxTx3hs",
+        "updatedAt": "2015-05-15T03:35:50.333Z"
     },
 	{
         "ADDRESS_1": "31 OCEAN WAY ",
@@ -3648,9 +3648,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2684082e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.014Z",
-        "objectId": "l4GA0gNE2B",
-        "updatedAt": "2015-05-15T03:34:04.014Z"
+        "createdAt": "2015-05-15T03:35:50.339Z",
+        "objectId": "miGAaHM9Vx",
+        "updatedAt": "2015-05-15T03:35:50.339Z"
     },
 	{
         "ADDRESS_1": "100 TRAS STREET ",
@@ -3670,9 +3670,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.225522e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.018Z",
-        "objectId": "hbj5qVde0P",
-        "updatedAt": "2015-05-15T03:34:04.018Z"
+        "createdAt": "2015-05-15T03:35:50.345Z",
+        "objectId": "qyxl716pmE",
+        "updatedAt": "2015-05-15T03:35:50.345Z"
     },
 	{
         "ADDRESS_1": "BLK 18 JALAN MEMBINA ",
@@ -3692,9 +3692,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2719004e+07,
         "ZONE": "SOUTH",
-        "createdAt": "2015-05-15T03:34:04.021Z",
-        "objectId": "CNCR5IrnjH",
-        "updatedAt": "2015-05-15T03:34:04.021Z"
+        "createdAt": "2015-05-15T03:35:50.350Z",
+        "objectId": "XZ2d7QGxIL",
+        "updatedAt": "2015-05-15T03:35:50.350Z"
     },
 	{
         "ADDRESS_1": "BLK 101 TOWNER ROAD ",
@@ -3714,9 +3714,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.2992292e+07,
         "ZONE": "SOUTH-EAST",
-        "createdAt": "2015-05-15T03:34:04.025Z",
-        "objectId": "vEtLBUWfPu",
-        "updatedAt": "2015-05-15T03:34:04.025Z"
+        "createdAt": "2015-05-15T03:35:50.356Z",
+        "objectId": "x3fFBfmg8X",
+        "updatedAt": "2015-05-15T03:35:50.356Z"
     },
 	{
         "ADDRESS_1": "BLK 668 CHANDER ROAD ",
@@ -3735,9 +3735,9 @@
         "SUNDAY": "10.00AM-1.00PM\n2.00PM-5.00PM\n6.30PM-9.30PM",
         "TELEPHONE": 6.2962777e+07,
         "ZONE": "SOUTH-EAST",
-        "createdAt": "2015-05-15T03:34:04.029Z",
-        "objectId": "MPNZ3NY6tv",
-        "updatedAt": "2015-05-15T03:34:04.029Z"
+        "createdAt": "2015-05-15T03:35:50.362Z",
+        "objectId": "0OeooJ3bl6",
+        "updatedAt": "2015-05-15T03:35:50.362Z"
     },
 	{
         "ADDRESS_1": "20 MALACCA STREET ",
@@ -3757,9 +3757,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.557277e+07,
         "ZONE": "SOUTH-EAST",
-        "createdAt": "2015-05-15T03:34:04.033Z",
-        "objectId": "Uws6wwXCkd",
-        "updatedAt": "2015-05-15T03:34:04.033Z"
+        "createdAt": "2015-05-15T03:35:50.368Z",
+        "objectId": "PTUrd1YwZO",
+        "updatedAt": "2015-05-15T03:35:50.368Z"
     },
 	{
         "ADDRESS_1": "1 FUSIONOPOLIS WAY ",
@@ -3778,9 +3778,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.4660602e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.036Z",
-        "objectId": "yffir4Enqj",
-        "updatedAt": "2015-05-15T03:34:04.036Z"
+        "createdAt": "2015-05-15T03:35:50.384Z",
+        "objectId": "KsZ20I80fy",
+        "updatedAt": "2015-05-15T03:35:50.384Z"
     },
 	{
         "ADDRESS_1": "BLK 450 CLEMENTI AVENUE 3 ",
@@ -3799,9 +3799,9 @@
         "SUNDAY": "24 HOURS",
         "TELEPHONE": 6.7732925e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.043Z",
-        "objectId": "dEcHTig08l",
-        "updatedAt": "2015-05-15T03:34:04.043Z"
+        "createdAt": "2015-05-15T03:35:50.390Z",
+        "objectId": "tyg4acnXmP",
+        "updatedAt": "2015-05-15T03:35:50.390Z"
     },
 	{
         "ADDRESS_1": "BLK 722 CLEMENTI WEST STREET 2 ",
@@ -3820,9 +3820,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.7770783e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.047Z",
-        "objectId": "GF5UjNAQP6",
-        "updatedAt": "2015-05-15T03:34:04.047Z"
+        "createdAt": "2015-05-15T03:35:50.395Z",
+        "objectId": "VG4HaueUtn",
+        "updatedAt": "2015-05-15T03:35:50.395Z"
     },
 	{
         "ADDRESS_1": "BLK 28 DOVER CRESCENT ",
@@ -3841,9 +3841,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.775741e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.050Z",
-        "objectId": "Xz3OrKNTGd",
-        "updatedAt": "2015-05-15T03:34:04.050Z"
+        "createdAt": "2015-05-15T03:35:50.401Z",
+        "objectId": "ZPlsZNq5uQ",
+        "updatedAt": "2015-05-15T03:35:50.401Z"
     },
 	{
         "ADDRESS_1": "BLK 19A DOVER CRESCENT ",
@@ -3862,9 +3862,9 @@
         "SUNDAY": "9.00AM-11.30AM",
         "TELEPHONE": 6.7788868e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.054Z",
-        "objectId": "ow5zYxmeqr",
-        "updatedAt": "2015-05-15T03:34:04.054Z"
+        "createdAt": "2015-05-15T03:35:50.407Z",
+        "objectId": "SJssDRSwC3",
+        "updatedAt": "2015-05-15T03:35:50.407Z"
     },
 	{
         "ADDRESS_1": "BLK 69 AYER RAJAH CRESCENT ",
@@ -3883,9 +3883,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7756266e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.058Z",
-        "objectId": "iutRWSASiv",
-        "updatedAt": "2015-05-15T03:34:04.058Z"
+        "createdAt": "2015-05-15T03:35:50.412Z",
+        "objectId": "s0LlLTEvcr",
+        "updatedAt": "2015-05-15T03:35:50.412Z"
     },
 	{
         "ADDRESS_1": "BLK 31 HOLLAND CLOSE ",
@@ -3903,9 +3903,9 @@
         "SUNDAY": "6.00PM-9.00PM",
         "TELEPHONE": 6.7792921e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.061Z",
-        "objectId": "DNR7pT4OHI",
-        "updatedAt": "2015-05-15T03:34:04.061Z"
+        "createdAt": "2015-05-15T03:35:50.418Z",
+        "objectId": "3TEhbS5hPv",
+        "updatedAt": "2015-05-15T03:35:50.418Z"
     },
 	{
         "ADDRESS_1": "BLK 41 HOLLAND DRIVE ",
@@ -3925,9 +3925,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7743318e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.065Z",
-        "objectId": "vslF7VnJDf",
-        "updatedAt": "2015-05-15T03:34:04.065Z"
+        "createdAt": "2015-05-15T03:35:50.423Z",
+        "objectId": "Faxy0XakQf",
+        "updatedAt": "2015-05-15T03:35:50.423Z"
     },
 	{
         "ADDRESS_1": "2 PANDAN VALLEY ",
@@ -3946,9 +3946,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.4695122e+07,
         "ZONE": "SOUTH-WEST",
-        "createdAt": "2015-05-15T03:34:04.069Z",
-        "objectId": "IrlWgYl1Rm",
-        "updatedAt": "2015-05-15T03:34:04.069Z"
+        "createdAt": "2015-05-15T03:35:50.429Z",
+        "objectId": "boAujsosVZ",
+        "updatedAt": "2015-05-15T03:35:50.429Z"
     },
 	{
         "ADDRESS_1": "460 ALEXANDRA ROAD ",
@@ -3967,9 +3967,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.376163e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.072Z",
-        "objectId": "G0dTMFbZdH",
-        "updatedAt": "2015-05-15T03:34:04.072Z"
+        "createdAt": "2015-05-15T03:35:50.435Z",
+        "objectId": "NRNN6TOgFP",
+        "updatedAt": "2015-05-15T03:35:50.435Z"
     },
 	{
         "ADDRESS_1": "3 SOON LEE STREET ",
@@ -3988,9 +3988,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.3397422e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.077Z",
-        "objectId": "9ubSkDhtmu",
-        "updatedAt": "2015-05-15T03:34:04.077Z"
+        "createdAt": "2015-05-15T03:35:50.441Z",
+        "objectId": "IIugzWfba9",
+        "updatedAt": "2015-05-15T03:35:50.441Z"
     },
 	{
         "ADDRESS_1": "BLK 221 BOON LAY PLACE ",
@@ -4009,9 +4009,9 @@
         "SUNDAY": "9.00AM-1.00PM",
         "TELEPHONE": 6.2655247e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.080Z",
-        "objectId": "uZFU7mHibE",
-        "updatedAt": "2015-05-15T03:34:04.080Z"
+        "createdAt": "2015-05-15T03:35:50.446Z",
+        "objectId": "4XnNE8K9mQ",
+        "updatedAt": "2015-05-15T03:35:50.446Z"
     },
 	{
         "ADDRESS_1": "BLK 221 BOON LAY PLACE ",
@@ -4030,9 +4030,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.2610672e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.084Z",
-        "objectId": "56AqrJoXCe",
-        "updatedAt": "2015-05-15T03:34:04.084Z"
+        "createdAt": "2015-05-15T03:35:50.452Z",
+        "objectId": "7sKlc3yZ5I",
+        "updatedAt": "2015-05-15T03:35:50.452Z"
     },
 	{
         "ADDRESS_1": "221 BOON LAY PLACE ",
@@ -4051,15 +4051,15 @@
         "SUNDAY": "8.00AM-4.00PM,\n5.00PM-11.00PM",
         "TELEPHONE": 6.261158e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.088Z",
-        "objectId": "4VNfew77VS",
-        "updatedAt": "2015-05-15T03:34:04.088Z"
+        "createdAt": "2015-05-15T03:35:50.458Z",
+        "objectId": "yoSB3bikke",
+        "updatedAt": "2015-05-15T03:35:50.458Z"
     },
 	{
         "ADDRESS_1": "1 JURONG WEST CENTRAL 2 ",
         "ADDRESS_2": "#B1A-19B JURONG POINT SHOPPING CENTRE",
         "AVIVA_CODE": 10113,
-        "CLINIC": "FULLERTON HEALTHCARE GROUP DRS TRYTHALL HOY DAVIES, JURONG POINT",
+        "CLINIC": "FULLERTON HEALTHCARE GROUP @\nDRS TRYTHALL HOY DAVIES, JURONG POINT",
         "ESTATE": "BOON LAY",
         "FAX_NO": 6.7931393e+07,
         "LATITUDE": 1.339341,
@@ -4073,9 +4073,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7930611e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.097Z",
-        "objectId": "zVK1xqaQas",
-        "updatedAt": "2015-05-15T03:34:04.097Z"
+        "createdAt": "2015-05-15T03:35:50.464Z",
+        "objectId": "Gu8XuIqbSK",
+        "updatedAt": "2015-05-15T03:35:50.464Z"
     },
 	{
         "ADDRESS_1": "201 BOON LAY WAY ",
@@ -4094,9 +4094,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.265727e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.111Z",
-        "objectId": "3wx140A7Hg",
-        "updatedAt": "2015-05-15T03:34:04.111Z"
+        "createdAt": "2015-05-15T03:35:50.470Z",
+        "objectId": "Oc0ZyBkBDM",
+        "updatedAt": "2015-05-15T03:35:50.470Z"
     },
 	{
         "ADDRESS_1": "BLK 153 BUKIT BATOK STREET 11 ",
@@ -4115,9 +4115,9 @@
         "SUNDAY": "8.00AM-1.00PM\n2.00PM-5.00PM\n6.00PM-12.00AM",
         "TELEPHONE": 6.5679881e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.115Z",
-        "objectId": "dPIhdU1o25",
-        "updatedAt": "2015-05-15T03:34:04.115Z"
+        "createdAt": "2015-05-15T03:35:50.475Z",
+        "objectId": "D6XqVwJMgn",
+        "updatedAt": "2015-05-15T03:35:50.475Z"
     },
 	{
         "ADDRESS_1": "BLK 207 BUKIT BATOK STREET 21 ",
@@ -4137,9 +4137,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.5603311e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.119Z",
-        "objectId": "bwTMp8hzHY",
-        "updatedAt": "2015-05-15T03:34:04.119Z"
+        "createdAt": "2015-05-15T03:35:50.481Z",
+        "objectId": "YB8nwzPEtb",
+        "updatedAt": "2015-05-15T03:35:50.481Z"
     },
 	{
         "ADDRESS_1": "BLK 213 BUKIT BATOK STREET 21 ",
@@ -4159,9 +4159,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5632935e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.123Z",
-        "objectId": "2kMHxsuzI0",
-        "updatedAt": "2015-05-15T03:34:04.123Z"
+        "createdAt": "2015-05-15T03:35:50.487Z",
+        "objectId": "3aAJplbezr",
+        "updatedAt": "2015-05-15T03:35:50.487Z"
     },
 	{
         "ADDRESS_1": "BLK 280 BUKIT BATOK EAST AVENUE 3 ",
@@ -4181,9 +4181,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.5678316e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.127Z",
-        "objectId": "vGTqvpzCrP",
-        "updatedAt": "2015-05-15T03:34:04.127Z"
+        "createdAt": "2015-05-15T03:35:50.493Z",
+        "objectId": "D2qFNtXkAt",
+        "updatedAt": "2015-05-15T03:35:50.493Z"
     },
 	{
         "ADDRESS_1": "4 HILLVIEW RISE ",
@@ -4202,9 +4202,9 @@
         "SUNDAY": "9.00AM - 9.00PM",
         "TELEPHONE": 6.7107157e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.131Z",
-        "objectId": "53dUYGzcV3",
-        "updatedAt": "2015-05-15T03:34:04.131Z"
+        "createdAt": "2015-05-15T03:35:50.498Z",
+        "objectId": "T3yW22RE6Q",
+        "updatedAt": "2015-05-15T03:35:50.498Z"
     },
 	{
         "ADDRESS_1": "1 JALAN BUKIT MERAH ",
@@ -4224,9 +4224,9 @@
         "SUNDAY": "9.00AM - 12.30PM",
         "TELEPHONE": 6.2712554e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.134Z",
-        "objectId": "3iWAh9RhLv",
-        "updatedAt": "2015-05-15T03:34:04.134Z"
+        "createdAt": "2015-05-15T03:35:50.504Z",
+        "objectId": "h9SjqGBVio",
+        "updatedAt": "2015-05-15T03:35:50.504Z"
     },
 	{
         "ADDRESS_1": "blk 163 Bukit Merah Central ",
@@ -4246,9 +4246,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2712395e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.138Z",
-        "objectId": "6AvuwnMKoK",
-        "updatedAt": "2015-05-15T03:34:04.138Z"
+        "createdAt": "2015-05-15T03:35:50.510Z",
+        "objectId": "Y4k9vqDtyQ",
+        "updatedAt": "2015-05-15T03:35:50.510Z"
     },
 	{
         "ADDRESS_1": "blk 165 Bukit Merah Central ",
@@ -4267,9 +4267,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.2735455e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.141Z",
-        "objectId": "Vx9J1pbnI8",
-        "updatedAt": "2015-05-15T03:34:04.141Z"
+        "createdAt": "2015-05-15T03:35:50.522Z",
+        "objectId": "ZjQGQr0c6J",
+        "updatedAt": "2015-05-15T03:35:50.522Z"
     },
 	{
         "ADDRESS_1": "118 UPPER BUKIT TIMAH ROAD ",
@@ -4289,9 +4289,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.4662255e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.145Z",
-        "objectId": "R1VWZM7lOY",
-        "updatedAt": "2015-05-15T03:34:04.145Z"
+        "createdAt": "2015-05-15T03:35:50.529Z",
+        "objectId": "Z8wUZPOrBL",
+        "updatedAt": "2015-05-15T03:35:50.529Z"
     },
 	{
         "ADDRESS_1": "1 JALAN ANAK BUKIT ",
@@ -4310,9 +4310,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.4663811e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.149Z",
-        "objectId": "imExjNytq1",
-        "updatedAt": "2015-05-15T03:34:04.149Z"
+        "createdAt": "2015-05-15T03:35:50.535Z",
+        "objectId": "0uVPUTvzGO",
+        "updatedAt": "2015-05-15T03:35:50.535Z"
     },
 	{
         "ADDRESS_1": "66 JALAN JURONG KECHIL ",
@@ -4332,9 +4332,9 @@
         "SUNDAY": "8.30AM-12.00PM",
         "TELEPHONE": 6.4667822e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.152Z",
-        "objectId": "jxVsI3sq89",
-        "updatedAt": "2015-05-15T03:34:04.152Z"
+        "createdAt": "2015-05-15T03:35:50.541Z",
+        "objectId": "AkOl1rrkAN",
+        "updatedAt": "2015-05-15T03:35:50.541Z"
     },
 	{
         "ADDRESS_1": "BLK 492 JURONG WEST STREET 41 ",
@@ -4354,9 +4354,9 @@
         "SUNDAY": "8.30AM-12.30PM\n7.00PM-9.30PM",
         "TELEPHONE": 6.5626676e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.156Z",
-        "objectId": "nv3A9req2c",
-        "updatedAt": "2015-05-15T03:34:04.156Z"
+        "createdAt": "2015-05-15T03:35:50.546Z",
+        "objectId": "kxTSJ6txf9",
+        "updatedAt": "2015-05-15T03:35:50.546Z"
     },
 	{
         "ADDRESS_1": "BLK 959 JURONG WEST STREET 92 ",
@@ -4375,9 +4375,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.7913988e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.159Z",
-        "objectId": "KYEM1kqWM5",
-        "updatedAt": "2015-05-15T03:34:04.159Z"
+        "createdAt": "2015-05-15T03:35:50.552Z",
+        "objectId": "J5X3mqeSMn",
+        "updatedAt": "2015-05-15T03:35:50.552Z"
     },
 	{
         "ADDRESS_1": "BLK 960 JURONG WEST STREET 92 ",
@@ -4397,9 +4397,9 @@
         "SUNDAY": "8.30AM-12.30PM",
         "TELEPHONE": 6.791568e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.163Z",
-        "objectId": "AkkMFSgqvT",
-        "updatedAt": "2015-05-15T03:34:04.163Z"
+        "createdAt": "2015-05-15T03:35:50.557Z",
+        "objectId": "Xez9nWnFRf",
+        "updatedAt": "2015-05-15T03:35:50.557Z"
     },
 	{
         "ADDRESS_1": "BLK 130 JURONG GATEWAY ROAD ",
@@ -4418,9 +4418,9 @@
         "SUNDAY": "9.00AM-12.30PM",
         "TELEPHONE": 6.5607088e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.166Z",
-        "objectId": "I8Y5BooD9E",
-        "updatedAt": "2015-05-15T03:34:04.166Z"
+        "createdAt": "2015-05-15T03:35:50.563Z",
+        "objectId": "KtGvgA0JuM",
+        "updatedAt": "2015-05-15T03:35:50.563Z"
     },
 	{
         "ADDRESS_1": "BLK 134 JURONG GATEWAY ROAD ",
@@ -4439,9 +4439,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5673003e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.170Z",
-        "objectId": "cUJukAMKH1",
-        "updatedAt": "2015-05-15T03:34:04.170Z"
+        "createdAt": "2015-05-15T03:35:50.569Z",
+        "objectId": "vaw8qPl0gH",
+        "updatedAt": "2015-05-15T03:35:50.569Z"
     },
 	{
         "ADDRESS_1": "28 TOH GUAN ROAD EAST ",
@@ -4460,9 +4460,9 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5656338e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.174Z",
-        "objectId": "hG9DLZ279z",
-        "updatedAt": "2015-05-15T03:34:04.174Z"
+        "createdAt": "2015-05-15T03:35:50.574Z",
+        "objectId": "SUM7xjtQgi",
+        "updatedAt": "2015-05-15T03:35:50.574Z"
     },
 	{
         "ADDRESS_1": "BLK 690 JURONG WEST CENTRAL 1 ",
@@ -4481,9 +4481,9 @@
         "SUNDAY": "8.30AM-12.30PM\n7.00PM-11.00PM",
         "TELEPHONE": 6.7921812e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.177Z",
-        "objectId": "wdaUa9OeSL",
-        "updatedAt": "2015-05-15T03:34:04.177Z"
+        "createdAt": "2015-05-15T03:35:50.580Z",
+        "objectId": "LMmGf3jnyT",
+        "updatedAt": "2015-05-15T03:35:50.580Z"
     },
 	{
         "ADDRESS_1": "1 JURONG WEST CENTRAL 2 ",
@@ -4503,9 +4503,9 @@
         "SUNDAY": "2.00PM - 6.00PM",
         "TELEPHONE": 6.7958685e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.181Z",
-        "objectId": "8aWM3q1Dnf",
-        "updatedAt": "2015-05-15T03:34:04.181Z"
+        "createdAt": "2015-05-15T03:35:50.585Z",
+        "objectId": "lWaUsKE9cj",
+        "updatedAt": "2015-05-15T03:35:50.585Z"
     },
 	{
         "ADDRESS_1": "BLK 61 TEBAN GARDENS ROAD ",
@@ -4516,7 +4516,7 @@
         "FAX_NO": 6.5668941e+07,
         "LATITUDE": 1.322072,
         "LONGITUDE": 103.738573,
-        "MONDAY_FRIDAY": "MON-FRI:\n9.00AM-12.00PM\n2.30PM-4.30PM\n7.00PM-9.00PM (CLOSE ON FRI AFTERNOON \u0026 NIGHT)",
+        "MONDAY_FRIDAY": "\n9.00AM-12.00PM\n2.30PM-4.30PM\n7.00PM-9.00PM (CLOSE ON FRI AFTERNOON \u0026 NIGHT)",
         "POSTAL": 600061,
         "PUBLIC_HOLIDAY": "CLOSED",
         "REMARKS": "HOLIDAY EVE:\n9.00AM-12.00PM",
@@ -4525,9 +4525,9 @@
         "SUNDAY": "9.00AM-12.00PM",
         "TELEPHONE": 6.566377e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.184Z",
-        "objectId": "W3EdUK1qP6",
-        "updatedAt": "2015-05-15T03:34:04.184Z"
+        "createdAt": "2015-05-15T03:35:50.591Z",
+        "objectId": "KJpXj1SrSy",
+        "updatedAt": "2015-05-22T04:35:46.816Z"
     },
 	{
         "ADDRESS_1": "BLK 61 TEBAN GARDENS ROAD ",
@@ -4536,6 +4536,11 @@
         "CLINIC": "TEBAN GARDEN CLINIC",
         "ESTATE": "TEBAN",
         "FAX_NO": 6.5623906e+07,
+        "GEOPOINT": {
+            "__type": "GeoPoint",
+            "latitude": 1.322072,
+            "longitude": 103.738753
+        },
         "LATITUDE": 1.322072,
         "LONGITUDE": 103.738573,
         "MONDAY_FRIDAY": "9.00AM-12.30PM\n2.00PM-5.00PM\n6.30PM-8.30PM",
@@ -4546,8 +4551,40 @@
         "SUNDAY": "CLOSED",
         "TELEPHONE": 6.5619052e+07,
         "ZONE": "WEST",
-        "createdAt": "2015-05-15T03:34:04.188Z",
-        "objectId": "6TOE0qDmkQ",
-        "updatedAt": "2015-05-15T03:34:04.188Z"
+        "createdAt": "2015-05-15T03:35:50.598Z",
+        "objectId": "KgenwjQ6lH",
+        "updatedAt": "2015-05-22T07:08:11.827Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            },
+            "FlUhCpTVA0": {
+                "read": true,
+                "write": true
+            }
+        },
+        "Address": "81 Victoria Street, 188065",
+        "Name": "SMU",
+        "createdAt": "2015-06-04T03:48:09.746Z",
+        "objectId": "4aj9YCGUWn",
+        "updatedAt": "2015-06-04T03:48:09.746Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            },
+            "FlUhCpTVA0": {
+                "read": true,
+                "write": true
+            }
+        },
+        "Address": "81 Victoria Street, 188065",
+        "Name": "SMU",
+        "createdAt": "2015-06-04T03:50:59.958Z",
+        "objectId": "DrbYj8sX0V",
+        "updatedAt": "2015-06-04T03:50:59.958Z"
     }
 ] }

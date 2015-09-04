@@ -1,0 +1,1805 @@
+{ "results": [
+	{
+        "AVIVA_CODE": 10082,
+        "CLINIC": "ASPEN CLINIC",
+        "ESTATE": "BISHAN",
+        "FRI_AM": "0900-1230",
+        "FRI_PM": "1400-1630",
+        "MON_AM": "0900-1230",
+        "MON_EV": "1900-2100",
+        "MON_PM": "1400-1630",
+        "SAT_AM": "0900-1230",
+        "THU_AM": "0900-1230",
+        "THU_EV": "1900-2100",
+        "THU_PM": "1400-1630",
+        "TUE_AM": "0900-1230",
+        "TUE_PM": "1400-1630",
+        "WED_AM": "0900-1230",
+        "WED_EV": "1900-2100",
+        "WED_PM": "1400-1630",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.154Z",
+        "objectId": "2qZKGyf3dR",
+        "updatedAt": "2015-05-22T08:09:11.154Z"
+    },
+	{
+        "AVIVA_CODE": 10043,
+        "CLINIC": "LIFELINE BISHAN MEDICAL CLINIC",
+        "ESTATE": "BISHAN",
+        "FRI_AM": "0830-1230",
+        "FRI_EV": "1900-2100",
+        "FRI_PM": "1400-1630",
+        "MON_AM": "0830-1230",
+        "MON_EV": "1900-2100",
+        "MON_PM": "1400-1630",
+        "PH_AM": "0900-1200",
+        "SAT_AM": "0900-1200",
+        "SUN_AM": "0900-1200",
+        "THU_AM": "0830-1230",
+        "THU_EV": "1900-2100",
+        "THU_PM": "1400-1630",
+        "TUE_AM": "0830-1230",
+        "TUE_EVE": "1900-2100",
+        "TUE_PM": "1400-1630",
+        "WED_AM": "0830-1230",
+        "WED_EV": "1900-2100",
+        "WED_PM": "1400-1630",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.162Z",
+        "objectId": "JgUpbqvn5t",
+        "updatedAt": "2015-05-22T08:09:11.162Z"
+    },
+	{
+        "AVIVA_CODE": 10181,
+        "CLINIC": "CITYHEALTH CLINIC \u0026 SURGERY",
+        "ESTATE": "BUGIS",
+        "FRI_AM": "0830-1230",
+        "FRI_PM": "1400-1700",
+        "MON_AM": "0830-1230",
+        "MON_PM": "1400-1700",
+        "THU_AM": "0830-1230",
+        "THU_PM": "1400-1700",
+        "TUE_AM": "0830-1230",
+        "TUE_PM": "1400-1700",
+        "WED_AM": "0830-1230",
+        "WED_PM": "1400-1700",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.169Z",
+        "objectId": "tcl0uVFDHU",
+        "updatedAt": "2015-05-22T08:09:11.169Z"
+    },
+	{
+        "AVIVA_CODE": 10121,
+        "CLINIC": "HALE MEDICAL CLINIC (CONCOURSE) PTE LTD",
+        "ESTATE": "BUGIS",
+        "FRI_AM": "0830-1300",
+        "FRI_PM": "1430-1730",
+        "MON_AM": "0830-1300",
+        "MON_PM": "1430-1730",
+        "SAT_AM": "0830-1300",
+        "THU_AM": "0830-1300",
+        "THU_PM": "1430-1730",
+        "TUE_AM": "0830-1300",
+        "TUE_PM": "1430-1730",
+        "WED_AM": "0830-1300",
+        "WED_PM": "1430-1730",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.176Z",
+        "objectId": "8M34IgnMqQ",
+        "updatedAt": "2015-05-22T08:09:11.176Z"
+    },
+	{
+        "AVIVA_CODE": 10191,
+        "CLINIC": "RIDGEWOOD MEDICAL CLINIC",
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.183Z",
+        "objectId": "fO6NK5fVE9",
+        "updatedAt": "2015-05-22T08:09:11.183Z"
+    },
+	{
+        "AVIVA_CODE": 10075,
+        "CLINIC": "YAP MEDICARE CLINIC PTE LTD",
+        "ESTATE": "FARRER",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.190Z",
+        "objectId": "TikK3iH3Fh",
+        "updatedAt": "2015-05-22T08:09:11.190Z"
+    },
+	{
+        "AVIVA_CODE": 10093,
+        "CLINIC": "CHONG'S MEDICAL CENTRE",
+        "ESTATE": "ORCHARD",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.197Z",
+        "objectId": "Eor3EfrIWZ",
+        "updatedAt": "2015-05-22T08:09:11.197Z"
+    },
+	{
+        "AVIVA_CODE": 10124,
+        "CLINIC": "HEALTHCARE FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "SIN MING",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.204Z",
+        "objectId": "CUOn0j6A5L",
+        "updatedAt": "2015-05-22T08:09:11.204Z"
+    },
+	{
+        "AVIVA_CODE": 10212,
+        "CLINIC": "BENESSERE CLINIC PTE LTD",
+        "ESTATE": "THOMSON",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.210Z",
+        "objectId": "pgChm7DDAt",
+        "updatedAt": "2015-05-22T08:09:11.210Z"
+    },
+	{
+        "AVIVA_CODE": 10017,
+        "CLINIC": "CHONG'S CLINIC",
+        "ESTATE": "THOMSON",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.217Z",
+        "objectId": "RNoUyYtJBj",
+        "updatedAt": "2015-05-22T08:09:11.217Z"
+    },
+	{
+        "AVIVA_CODE": 10182,
+        "CLINIC": "MHC MEDICAL CENTRE (NOVENA)",
+        "ESTATE": "THOMSON",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.224Z",
+        "objectId": "YxOuEB68jc",
+        "updatedAt": "2015-05-22T08:09:11.224Z"
+    },
+	{
+        "AVIVA_CODE": 10188,
+        "CLINIC": "FIRSTHEALTH CLINIC \u0026 SURGERY",
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.235Z",
+        "objectId": "G7e4YK44nU",
+        "updatedAt": "2015-05-22T08:09:11.235Z"
+    },
+	{
+        "AVIVA_CODE": 10227,
+        "CLINIC": "ICARE MEDICAL AND WELLNESS CLINIC",
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.242Z",
+        "objectId": "S00Jl0mhpz",
+        "updatedAt": "2015-05-22T08:09:11.242Z"
+    },
+	{
+        "AVIVA_CODE": 10243,
+        "CLINIC": "TIONG BAHRU MEDICAL CENTRE PTE LTD",
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-22T08:09:11.249Z",
+        "objectId": "DQjy0QUZqh",
+        "updatedAt": "2015-05-22T08:09:11.249Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "CLINIC": "CAMRY MEDICAL CENTRE",
+        "ESTATE": "TOA PAYOH",
+        "ZONE": "CENTRAL-EAST",
+        "createdAt": "2015-05-22T08:09:11.255Z",
+        "objectId": "nZJRNvE5lh",
+        "updatedAt": "2015-05-22T08:09:11.255Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "CLINIC": "DRS CHAN \u0026 TANG FAMILY CLINIC",
+        "ESTATE": "TOA PAYOH",
+        "ZONE": "CENTRAL-EAST",
+        "createdAt": "2015-05-22T08:09:11.262Z",
+        "objectId": "xJbDPZ4zI5",
+        "updatedAt": "2015-05-22T08:09:11.262Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "CLINIC": "MAKE-WELL FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "TOA PAYOH",
+        "ZONE": "CENTRAL-EAST",
+        "createdAt": "2015-05-22T08:09:11.269Z",
+        "objectId": "vg17mHX8EN",
+        "updatedAt": "2015-05-22T08:09:11.269Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "CLINIC": "MEDIVIEW CLINIC AND SURGERY",
+        "ESTATE": "TOA PAYOH",
+        "ZONE": "CENTRAL-EAST",
+        "createdAt": "2015-05-22T08:09:11.276Z",
+        "objectId": "bmThYbbETo",
+        "updatedAt": "2015-05-22T08:09:11.276Z"
+    },
+	{
+        "AVIVA_CODE": 10084,
+        "CLINIC": "BEDOK CLINIC \u0026 SURGERY",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.283Z",
+        "objectId": "PpiSrD7yeS",
+        "updatedAt": "2015-05-22T08:09:11.283Z"
+    },
+	{
+        "AVIVA_CODE": 10128,
+        "CLINIC": "HONG WHYE CLINIC",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.290Z",
+        "objectId": "EVJmIKkTql",
+        "updatedAt": "2015-05-22T08:09:11.290Z"
+    },
+	{
+        "AVIVA_CODE": 10132,
+        "CLINIC": "ISLAND GROUP CLINIC BEDOK",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.297Z",
+        "objectId": "EdM3yNPZ4p",
+        "updatedAt": "2015-05-22T08:09:11.297Z"
+    },
+	{
+        "AVIVA_CODE": 10040,
+        "CLINIC": "KCS MEDICAL CENTRE PTE LTD",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.306Z",
+        "objectId": "sJLNeCj50m",
+        "updatedAt": "2015-05-22T08:09:11.306Z"
+    },
+	{
+        "AVIVA_CODE": 10133,
+        "CLINIC": "KHO CLINIC",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.313Z",
+        "objectId": "gmFTMRFu7L",
+        "updatedAt": "2015-05-22T08:09:11.313Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "CLINIC": "LEE CLINIC",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.321Z",
+        "objectId": "yWXCd1Izp3",
+        "updatedAt": "2015-05-22T08:09:11.321Z"
+    },
+	{
+        "AVIVA_CODE": 10150,
+        "CLINIC": "PHOON CLINIC \u0026 SURGERY",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.329Z",
+        "objectId": "lP2bAfzh0M",
+        "updatedAt": "2015-05-22T08:09:11.329Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "CLINIC": "S T MEDICAL CLINIC",
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.336Z",
+        "objectId": "3H8h0WFMW8",
+        "updatedAt": "2015-05-22T08:09:11.336Z"
+    },
+	{
+        "AVIVA_CODE": 10089,
+        "CLINIC": "CHAI CHEE CLINIC \u0026 SURGERY",
+        "ESTATE": "CHAI CHEE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.343Z",
+        "objectId": "xiteEVFo75",
+        "updatedAt": "2015-05-22T08:09:11.343Z"
+    },
+	{
+        "AVIVA_CODE": 10125,
+        "CLINIC": "HEALTHLINE FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "CHAI CHEE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.350Z",
+        "objectId": "CwsO1c8XXN",
+        "updatedAt": "2015-05-22T08:09:11.350Z"
+    },
+	{
+        "AVIVA_CODE": 10139,
+        "CLINIC": "LIM CLINIC \u0026 SURGERY",
+        "ESTATE": "CHAI CHEE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.356Z",
+        "objectId": "CwDMH7Mwma",
+        "updatedAt": "2015-05-22T08:09:11.356Z"
+    },
+	{
+        "AVIVA_CODE": 10225,
+        "CLINIC": "SHENTON MEDICAL GROUP (UE BIZHUB EAST)",
+        "ESTATE": "CHANGI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.363Z",
+        "objectId": "TIosAhUCKz",
+        "updatedAt": "2015-05-22T08:09:11.363Z"
+    },
+	{
+        "AVIVA_CODE": 10090,
+        "CLINIC": "CHAN FAMILY CLINIC",
+        "ESTATE": "EAST COAST",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.370Z",
+        "objectId": "W7cX11ZAGn",
+        "updatedAt": "2015-05-22T08:09:11.370Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "CLINIC": "LIANG CLINIC",
+        "ESTATE": "EAST COAST",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.381Z",
+        "objectId": "FquzWbf6nP",
+        "updatedAt": "2015-05-22T08:09:11.381Z"
+    },
+	{
+        "AVIVA_CODE": 10222,
+        "CLINIC": "SHENTON MEDICAL GROUP (EUNOS)",
+        "ESTATE": "EUNOS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.389Z",
+        "objectId": "HJ2mpTNoNn",
+        "updatedAt": "2015-05-22T08:09:11.389Z"
+    },
+	{
+        "AVIVA_CODE": 10154,
+        "CLINIC": "SIMS DRIVE MEDICAL CLINIC",
+        "ESTATE": "GEYLANG",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.396Z",
+        "objectId": "NQ8OFeOZlK",
+        "updatedAt": "2015-05-22T08:09:11.396Z"
+    },
+	{
+        "AVIVA_CODE": 10232,
+        "CLINIC": "THE CLINIC @ APERIA",
+        "ESTATE": "KALLANG",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.403Z",
+        "objectId": "2QyDoJsxWZ",
+        "updatedAt": "2015-05-22T08:09:11.403Z"
+    },
+	{
+        "AVIVA_CODE": 10028,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "KEMBANGAN",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.409Z",
+        "objectId": "Gd9B77vgD9",
+        "updatedAt": "2015-05-22T08:09:11.409Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "CLINIC": "KING GEORGE'S MEDICAL CENTRE PTE LTD",
+        "ESTATE": "LAVENDER",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.416Z",
+        "objectId": "eMFJF5OzL9",
+        "updatedAt": "2015-05-22T08:09:11.416Z"
+    },
+	{
+        "AVIVA_CODE": 10157,
+        "CLINIC": "TEXTILE CENTRE CLINIC",
+        "ESTATE": "LAVENDER",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.423Z",
+        "objectId": "WoOp4vKfQB",
+        "updatedAt": "2015-05-22T08:09:11.423Z"
+    },
+	{
+        "AVIVA_CODE": 10118,
+        "CLINIC": "FAMILY MEDICINE CLINIC",
+        "ESTATE": "MARINE PARADE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.430Z",
+        "objectId": "zzRv7c0bRn",
+        "updatedAt": "2015-05-22T08:09:11.430Z"
+    },
+	{
+        "AVIVA_CODE": 10144,
+        "CLINIC": "MARINE PARADE CLINIC",
+        "ESTATE": "MARINE PARADE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.437Z",
+        "objectId": "0YFQSyD6lN",
+        "updatedAt": "2015-05-22T08:09:11.437Z"
+    },
+	{
+        "AVIVA_CODE": 10047,
+        "CLINIC": "MEDILINE WEI MIN CLINIC (MARINE PARADE)",
+        "ESTATE": "MARINE PARADE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.444Z",
+        "objectId": "Mclfn41JN9",
+        "updatedAt": "2015-05-22T08:09:11.444Z"
+    },
+	{
+        "AVIVA_CODE": 10023,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.453Z",
+        "objectId": "wxcX6778Cm",
+        "updatedAt": "2015-05-22T08:09:11.453Z"
+    },
+	{
+        "AVIVA_CODE": 10044,
+        "CLINIC": "LILY AW PASIR RIS FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.460Z",
+        "objectId": "LjoBxNVFxl",
+        "updatedAt": "2015-05-22T08:09:11.460Z"
+    },
+	{
+        "AVIVA_CODE": 10142,
+        "CLINIC": "LOYANG MEDICAL CENTRE",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.467Z",
+        "objectId": "bEa9DgAvkW",
+        "updatedAt": "2015-05-22T08:09:11.467Z"
+    },
+	{
+        "AVIVA_CODE": 10058,
+        "CLINIC": "OEI FAMILY CLINIC",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.474Z",
+        "objectId": "cxoEMXkCFY",
+        "updatedAt": "2015-05-22T08:09:11.474Z"
+    },
+	{
+        "AVIVA_CODE": 10148,
+        "CLINIC": "OXFORD MEDICAL CENTRE",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.481Z",
+        "objectId": "rM5vsfFNL1",
+        "updatedAt": "2015-05-22T08:09:11.481Z"
+    },
+	{
+        "AVIVA_CODE": 10149,
+        "CLINIC": "PARAGON MEDICAL CENTRE PTE LTD",
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.488Z",
+        "objectId": "4OwENysZGs",
+        "updatedAt": "2015-05-22T08:09:11.488Z"
+    },
+	{
+        "AVIVA_CODE": 10100,
+        "CLINIC": "DAYSPRING MEDICAL SERVICES PTE LTD",
+        "ESTATE": "PAYA LEBAR",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.495Z",
+        "objectId": "7qdcRMmTqb",
+        "updatedAt": "2015-05-22T08:09:11.495Z"
+    },
+	{
+        "AVIVA_CODE": 10221,
+        "CLINIC": "PHOENIX MEDICAL GROUP (PAYA LEBAR)",
+        "ESTATE": "PAYA LEBAR",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.501Z",
+        "objectId": "M1wCXnmeHs",
+        "updatedAt": "2015-05-22T08:09:11.501Z"
+    },
+	{
+        "AVIVA_CODE": 10095,
+        "CLINIC": "CHUA MEDICAL CENTRE PTE LTD",
+        "ESTATE": "SIMEI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.508Z",
+        "objectId": "ncbFM8RSFl",
+        "updatedAt": "2015-05-22T08:09:11.508Z"
+    },
+	{
+        "AVIVA_CODE": 10236,
+        "CLINIC": "NORTHEAST (SIMEI) MEDICAL CENTRE PTE LTD",
+        "ESTATE": "SIMEI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.515Z",
+        "objectId": "zgq2oh4WPR",
+        "updatedAt": "2015-05-22T08:09:11.515Z"
+    },
+	{
+        "AVIVA_CODE": 10019,
+        "CLINIC": "CHOONG'S CLINIC",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.525Z",
+        "objectId": "MiNlGhN69a",
+        "updatedAt": "2015-05-22T08:09:11.525Z"
+    },
+	{
+        "AVIVA_CODE": 10180,
+        "CLINIC": "FAITH MEDICAL CLINIC \u0026 SURGERY",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.532Z",
+        "objectId": "cTHXlGKzhd",
+        "updatedAt": "2015-05-22T08:09:11.532Z"
+    },
+	{
+        "AVIVA_CODE": 10033,
+        "CLINIC": "HEALTHWAY TAMPINES CLINIC",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.539Z",
+        "objectId": "sKhBs7hlIv",
+        "updatedAt": "2015-05-22T08:09:11.539Z"
+    },
+	{
+        "AVIVA_CODE": 10130,
+        "CLINIC": "HWANG \u0026 LIANG FAMILY CLINIC",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.546Z",
+        "objectId": "BoDRljtZQ6",
+        "updatedAt": "2015-05-22T08:09:11.546Z"
+    },
+	{
+        "AVIVA_CODE": 10039,
+        "CLINIC": "KARRI FAMILY CLINIC",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.553Z",
+        "objectId": "lsOntbnRMM",
+        "updatedAt": "2015-05-22T08:09:11.553Z"
+    },
+	{
+        "AVIVA_CODE": 10134,
+        "CLINIC": "KOH CLINIC \u0026 SURGERY PTE LTD",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.559Z",
+        "objectId": "pZmFa85JoU",
+        "updatedAt": "2015-05-22T08:09:11.559Z"
+    },
+	{
+        "AVIVA_CODE": 10140,
+        "CLINIC": "LITTLE CROSS FAMILY CLINIC PTE LTD",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.566Z",
+        "objectId": "Hi7MvwwMQC",
+        "updatedAt": "2015-05-22T08:09:11.566Z"
+    },
+	{
+        "AVIVA_CODE": 10145,
+        "CLINIC": "MEDICARE ASSOCIATES PTE LTD",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.573Z",
+        "objectId": "BYgwPXhvg3",
+        "updatedAt": "2015-05-22T08:09:11.573Z"
+    },
+	{
+        "AVIVA_CODE": 10151,
+        "CLINIC": "RUBY MEDICAL CENTRE PTE LTD",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.580Z",
+        "objectId": "gfkR7RSZPU",
+        "updatedAt": "2015-05-22T08:09:11.580Z"
+    },
+	{
+        "AVIVA_CODE": 10070,
+        "CLINIC": "TAMPINES MEDILIFE CLINIC",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.587Z",
+        "objectId": "NIJsYWnxtD",
+        "updatedAt": "2015-05-22T08:09:11.587Z"
+    },
+	{
+        "AVIVA_CODE": 10074,
+        "CLINIC": "THE FAMILY MEDICAL CENTRE",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.594Z",
+        "objectId": "xP77HAkXQa",
+        "updatedAt": "2015-05-22T08:09:11.594Z"
+    },
+	{
+        "AVIVA_CODE": 10164,
+        "CLINIC": "UNITED MEDICAL PRACTITIONERS PTE LTD",
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.605Z",
+        "objectId": "NYg0p5Tr8G",
+        "updatedAt": "2015-05-22T08:09:11.605Z"
+    },
+	{
+        "AVIVA_CODE": 10078,
+        "CLINIC": "ADVANCE CLINIC \u0026 SURGERY PTE LTD",
+        "ESTATE": "UBI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.612Z",
+        "objectId": "7YSHearDFF",
+        "updatedAt": "2015-05-22T08:09:11.612Z"
+    },
+	{
+        "AVIVA_CODE": 10087,
+        "CLINIC": "CARITAS CLINIC",
+        "ESTATE": "UBI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-22T08:09:11.619Z",
+        "objectId": "rjg8Z457aH",
+        "updatedAt": "2015-05-22T08:09:11.619Z"
+    },
+	{
+        "AVIVA_CODE": 10240,
+        "CLINIC": "KLINIK LEE DAN SURGERI",
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-22T08:09:11.628Z",
+        "objectId": "TquDjmuPlb",
+        "updatedAt": "2015-05-22T08:09:11.628Z"
+    },
+	{
+        "AVIVA_CODE": 10238,
+        "CLINIC": "KLINIK MEDIVIRON BUKIT INDAH",
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-22T08:09:11.637Z",
+        "objectId": "LJvxQbVnMV",
+        "updatedAt": "2015-05-22T08:09:11.637Z"
+    },
+	{
+        "AVIVA_CODE": 10239,
+        "CLINIC": "KLINIK PERLING",
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-22T08:09:11.644Z",
+        "objectId": "YOS2J54QND",
+        "updatedAt": "2015-05-22T08:09:11.644Z"
+    },
+	{
+        "AVIVA_CODE": 10237,
+        "CLINIC": "KLINIK TEOH",
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-22T08:09:11.650Z",
+        "objectId": "XBhrY7yjdA",
+        "updatedAt": "2015-05-22T08:09:11.650Z"
+    },
+	{
+        "AVIVA_CODE": 10216,
+        "CLINIC": "POLIKLINIK CHU SDN BHD",
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-22T08:09:11.657Z",
+        "objectId": "dPkcKNTfp8",
+        "updatedAt": "2015-05-22T08:09:11.657Z"
+    },
+	{
+        "AVIVA_CODE": 10200,
+        "CLINIC": "ATRIO FAMILY CLINIC (AMK) PTE LTD",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.664Z",
+        "objectId": "nVascAhpCf",
+        "updatedAt": "2015-05-22T08:09:11.664Z"
+    },
+	{
+        "AVIVA_CODE": 10198,
+        "CLINIC": "BEWELL CLINIC",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.676Z",
+        "objectId": "NPm9twFhSo",
+        "updatedAt": "2015-05-22T08:09:11.676Z"
+    },
+	{
+        "AVIVA_CODE": 10126,
+        "CLINIC": "HEALTHLINK (AMK) MEDICAL CENTRE PTE LTD",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.683Z",
+        "objectId": "uuxjHjga3w",
+        "updatedAt": "2015-05-22T08:09:11.683Z"
+    },
+	{
+        "AVIVA_CODE": 10203,
+        "CLINIC": "HEALTHPATH MEDICAL CLINIC AND SURGERY",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.689Z",
+        "objectId": "nUQgTM4gfA",
+        "updatedAt": "2015-05-22T08:09:11.689Z"
+    },
+	{
+        "AVIVA_CODE": 10049,
+        "CLINIC": "MHC FAMILY CLINIC (AMK)",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.696Z",
+        "objectId": "nv8Pfuh4CV",
+        "updatedAt": "2015-05-22T08:09:11.696Z"
+    },
+	{
+        "AVIVA_CODE": 10169,
+        "CLINIC": "MY FAMILY DOCTOR",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.703Z",
+        "objectId": "B3wfXIHiWl",
+        "updatedAt": "2015-05-22T08:09:11.703Z"
+    },
+	{
+        "AVIVA_CODE": 10069,
+        "CLINIC": "SUMMIT MEDICAL CLINIC",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.710Z",
+        "objectId": "GmhizKA6eJ",
+        "updatedAt": "2015-05-22T08:09:11.710Z"
+    },
+	{
+        "AVIVA_CODE": 10071,
+        "CLINIC": "TAN-TEOH CLINIC \u0026 SURGERY (AMK)",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.717Z",
+        "objectId": "QPQneVDqrL",
+        "updatedAt": "2015-05-22T08:09:11.717Z"
+    },
+	{
+        "AVIVA_CODE": 10072,
+        "CLINIC": "THE CHUNGKIAW FAMILY PRACTICE PTE LTD",
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.724Z",
+        "objectId": "4ERLNwAkvU",
+        "updatedAt": "2015-05-22T08:09:11.724Z"
+    },
+	{
+        "AVIVA_CODE": 10207,
+        "CLINIC": "CENTRAL 24-HR CLINIC (WOODLANDS)",
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.737Z",
+        "objectId": "NrD7iKEOph",
+        "updatedAt": "2015-05-22T08:09:11.737Z"
+    },
+	{
+        "AVIVA_CODE": 10035,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC (WOODLANDS)",
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.744Z",
+        "objectId": "KNLCryLXbS",
+        "updatedAt": "2015-05-22T08:09:11.744Z"
+    },
+	{
+        "AVIVA_CODE": 10229,
+        "CLINIC": "PROCROSS MEDICAL CENTRE (WOODLANDS)",
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.751Z",
+        "objectId": "e66ecw7DS2",
+        "updatedAt": "2015-05-22T08:09:11.751Z"
+    },
+	{
+        "AVIVA_CODE": 10061,
+        "CLINIC": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.758Z",
+        "objectId": "ASwtmExAlS",
+        "updatedAt": "2015-05-22T08:09:11.758Z"
+    },
+	{
+        "AVIVA_CODE": 10223,
+        "CLINIC": "SHENTON MEDICAL GROUP (WOODLANDS)",
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.765Z",
+        "objectId": "znsVkigyVR",
+        "updatedAt": "2015-05-22T08:09:11.765Z"
+    },
+	{
+        "AVIVA_CODE": 10209,
+        "CLINIC": "CENTRAL CLINIC \u0026 SURGERY (YISHUN)",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.772Z",
+        "objectId": "bsJeFkEFcm",
+        "updatedAt": "2015-05-22T08:09:11.772Z"
+    },
+	{
+        "AVIVA_CODE": 10016,
+        "CLINIC": "CHANLAI HEALTHCARE CLINIC",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.779Z",
+        "objectId": "MhHZ576Ivg",
+        "updatedAt": "2015-05-22T08:09:11.779Z"
+    },
+	{
+        "AVIVA_CODE": 10174,
+        "CLINIC": "GREENLINK MEDICAL CLINIC PTE LTD",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.786Z",
+        "objectId": "B6OMS7OvYb",
+        "updatedAt": "2015-05-22T08:09:11.786Z"
+    },
+	{
+        "AVIVA_CODE": 10027,
+        "CLINIC": "HEALTHWAY MEDICAL CENTRE",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.793Z",
+        "objectId": "4hGjVGorjD",
+        "updatedAt": "2015-05-22T08:09:11.793Z"
+    },
+	{
+        "AVIVA_CODE": 10233,
+        "CLINIC": "ONECARE CLINIC YISHUN PTE LTD",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.800Z",
+        "objectId": "akDuDUJ8XO",
+        "updatedAt": "2015-05-22T08:09:11.800Z"
+    },
+	{
+        "AVIVA_CODE": 10062,
+        "CLINIC": "REGIONAL PATIENTCARE MEDICAL GROUP PTE LTD",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.807Z",
+        "objectId": "ym6nis08B8",
+        "updatedAt": "2015-05-22T08:09:11.807Z"
+    },
+	{
+        "AVIVA_CODE": 10163,
+        "CLINIC": "UNITED HEALTH FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.814Z",
+        "objectId": "HyORpr706s",
+        "updatedAt": "2015-05-22T08:09:11.814Z"
+    },
+	{
+        "AVIVA_CODE": 10166,
+        "CLINIC": "YISHUN CENTRAL MEDICAL CLINIC",
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-22T08:09:11.824Z",
+        "objectId": "qwxeIMjuio",
+        "updatedAt": "2015-05-22T08:09:11.824Z"
+    },
+	{
+        "AVIVA_CODE": 10230,
+        "CLINIC": "ACCESS MEDICAL (CIRCUIT ROAD)",
+        "ESTATE": "ALJUNIED",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.831Z",
+        "objectId": "xWGYlIiQWk",
+        "updatedAt": "2015-05-22T08:09:11.831Z"
+    },
+	{
+        "AVIVA_CODE": 10080,
+        "CLINIC": "ANTEH DISPENSARY PTE LTD",
+        "ESTATE": "ALJUNIED",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.838Z",
+        "objectId": "2zSmV6JtST",
+        "updatedAt": "2015-05-22T08:09:11.838Z"
+    },
+	{
+        "AVIVA_CODE": 10063,
+        "CLINIC": "S T MEDICAL CENTRE",
+        "ESTATE": "ALJUNIED",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.845Z",
+        "objectId": "1gXCB1AzMt",
+        "updatedAt": "2015-05-22T08:09:11.845Z"
+    },
+	{
+        "AVIVA_CODE": 10228,
+        "CLINIC": "SHENTON MEDICAL GROUP (BUANGKOK)",
+        "ESTATE": "BUANGKOK",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.852Z",
+        "objectId": "h1ddZ4gv8y",
+        "updatedAt": "2015-05-22T08:09:11.852Z"
+    },
+	{
+        "AVIVA_CODE": 10107,
+        "CLINIC": "DRS LIM \u0026 CHAN CLINIC (HOUGANG)",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.859Z",
+        "objectId": "L8yzWO9Non",
+        "updatedAt": "2015-05-22T08:09:11.859Z"
+    },
+	{
+        "AVIVA_CODE": 10024,
+        "CLINIC": "HEALTHWAY HOUGANG CENTRAL CLINIC",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.866Z",
+        "objectId": "MU12jLsWOW",
+        "updatedAt": "2015-05-22T08:09:11.866Z"
+    },
+	{
+        "AVIVA_CODE": 10041,
+        "CLINIC": "KING GEORGE'S MEDICAL CENTRE (HG) PTE LTD",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.873Z",
+        "objectId": "ExymS0BTVn",
+        "updatedAt": "2015-05-22T08:09:11.873Z"
+    },
+	{
+        "AVIVA_CODE": 10234,
+        "CLINIC": "ONECARE CLINIC HOUGANG PTE LTD",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.879Z",
+        "objectId": "COqkvfxv6M",
+        "updatedAt": "2015-05-22T08:09:11.879Z"
+    },
+	{
+        "AVIVA_CODE": 10060,
+        "CLINIC": "PRIMECARE MEDICAL CLINIC",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.886Z",
+        "objectId": "PLSOQ1UwNd",
+        "updatedAt": "2015-05-22T08:09:11.886Z"
+    },
+	{
+        "AVIVA_CODE": 10231,
+        "CLINIC": "PROCROSS MEDICAL CENTRE (HOUGANG)",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.893Z",
+        "objectId": "mssc4KNARh",
+        "updatedAt": "2015-05-22T08:09:11.893Z"
+    },
+	{
+        "AVIVA_CODE": 10192,
+        "CLINIC": "S. LEE CLINIC",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.900Z",
+        "objectId": "RwSz0ZrwPU",
+        "updatedAt": "2015-05-22T08:09:11.900Z"
+    },
+	{
+        "AVIVA_CODE": 10152,
+        "CLINIC": "SEAH CLINIC",
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.911Z",
+        "objectId": "KkZpQDuAcz",
+        "updatedAt": "2015-05-22T08:09:11.911Z"
+    },
+	{
+        "AVIVA_CODE": 10018,
+        "CLINIC": "CHOONG'S CLINIC (21)",
+        "ESTATE": "KALLANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.918Z",
+        "objectId": "4IOfb17hiS",
+        "updatedAt": "2015-05-22T08:09:11.918Z"
+    },
+	{
+        "AVIVA_CODE": 10141,
+        "CLINIC": "LOW MEDICAL CLINIC",
+        "ESTATE": "KALLANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.925Z",
+        "objectId": "T2xe6ny29w",
+        "updatedAt": "2015-05-22T08:09:11.925Z"
+    },
+	{
+        "AVIVA_CODE": 10119,
+        "CLINIC": "GOH MEDICAL CLINIC",
+        "ESTATE": "POTONG PASIR",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.932Z",
+        "objectId": "FNXi2cZco1",
+        "updatedAt": "2015-05-22T08:09:11.932Z"
+    },
+	{
+        "AVIVA_CODE": 10214,
+        "CLINIC": "AVENUE K CLINIC @ PUNGGOL",
+        "ESTATE": "PUNGGOL",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.939Z",
+        "objectId": "i2G1CgTnOP",
+        "updatedAt": "2015-05-22T08:09:11.939Z"
+    },
+	{
+        "AVIVA_CODE": 10187,
+        "CLINIC": "ETERN MEDICAL CLINIC @ PUNGGOL MRT",
+        "ESTATE": "PUNGGOL",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.946Z",
+        "objectId": "XSuoQngNor",
+        "updatedAt": "2015-05-22T08:09:11.946Z"
+    },
+	{
+        "AVIVA_CODE": 10196,
+        "CLINIC": "FERNVALE FAMILY CLINIC",
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.953Z",
+        "objectId": "3GfMV4LAEz",
+        "updatedAt": "2015-05-22T08:09:11.953Z"
+    },
+	{
+        "AVIVA_CODE": 10022,
+        "CLINIC": "HEALTHWAY COMPASSVALE CLINIC",
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.960Z",
+        "objectId": "3VQg6X5Iov",
+        "updatedAt": "2015-05-22T08:09:11.960Z"
+    },
+	{
+        "AVIVA_CODE": 10031,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.966Z",
+        "objectId": "paW4eoWiqh",
+        "updatedAt": "2015-05-22T08:09:11.966Z"
+    },
+	{
+        "AVIVA_CODE": 10185,
+        "CLINIC": "MUTUAL HEALTHCARE PTE LTD",
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.973Z",
+        "objectId": "RGsocFZ6QE",
+        "updatedAt": "2015-05-22T08:09:11.973Z"
+    },
+	{
+        "AVIVA_CODE": 10160,
+        "CLINIC": "THE OLIVE TREE FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.980Z",
+        "objectId": "uFK9wUN8FV",
+        "updatedAt": "2015-05-22T08:09:11.980Z"
+    },
+	{
+        "AVIVA_CODE": 10098,
+        "CLINIC": "COMFORT CLINIC \u0026 SURGERY",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.989Z",
+        "objectId": "Uh7aseCmVQ",
+        "updatedAt": "2015-05-22T08:09:11.989Z"
+    },
+	{
+        "AVIVA_CODE": 10108,
+        "CLINIC": "DRS LIM \u0026 CHAN CLINIC",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:11.996Z",
+        "objectId": "7sNr7joOdn",
+        "updatedAt": "2015-05-22T08:09:11.996Z"
+    },
+	{
+        "AVIVA_CODE": 10117,
+        "CLINIC": "FAMILY HEALTHCARE CLINIC \u0026 SURGERY",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.003Z",
+        "objectId": "jhNL3J0wgb",
+        "updatedAt": "2015-05-22T08:09:12.003Z"
+    },
+	{
+        "AVIVA_CODE": 10064,
+        "CLINIC": "SG CLINIC PTE LTD",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.010Z",
+        "objectId": "CC6D80AVz2",
+        "updatedAt": "2015-05-22T08:09:12.010Z"
+    },
+	{
+        "AVIVA_CODE": 10067,
+        "CLINIC": "STERLING CLINIC \u0026 SURGERY",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.017Z",
+        "objectId": "AsPK7eH9zq",
+        "updatedAt": "2015-05-22T08:09:12.017Z"
+    },
+	{
+        "AVIVA_CODE": 10219,
+        "CLINIC": "THE FAMILY PHYSICIAN CLINIC",
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.024Z",
+        "objectId": "PYcDhNQrLr",
+        "updatedAt": "2015-05-22T08:09:12.024Z"
+    },
+	{
+        "AVIVA_CODE": 10088,
+        "CLINIC": "CASHEW MEDICAL \u0026 SURGERY",
+        "ESTATE": "BUKIT PANJANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.031Z",
+        "objectId": "wR2Ipx7zDi",
+        "updatedAt": "2015-05-22T08:09:12.031Z"
+    },
+	{
+        "AVIVA_CODE": 10092,
+        "CLINIC": "CHONG \u0026 LIM FAMILY CLINIC",
+        "ESTATE": "BUKIT PANJANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.038Z",
+        "objectId": "MHEdCe3ZGy",
+        "updatedAt": "2015-05-22T08:09:12.038Z"
+    },
+	{
+        "AVIVA_CODE": 10029,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "BUKIT PANJANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.044Z",
+        "objectId": "wiUsPReAQm",
+        "updatedAt": "2015-05-22T08:09:12.044Z"
+    },
+	{
+        "AVIVA_CODE": 10137,
+        "CLINIC": "LIFELINE BUKIT PANJANG MEDICAL CLINIC",
+        "ESTATE": "BUKIT PANJANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.051Z",
+        "objectId": "lmrvpx5RCS",
+        "updatedAt": "2015-05-22T08:09:12.051Z"
+    },
+	{
+        "AVIVA_CODE": 10097,
+        "CLINIC": "CLINICAL ASSOCIATES MEDICAL CENTRE",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.058Z",
+        "objectId": "lsn4nxxATy",
+        "updatedAt": "2015-05-22T08:09:12.058Z"
+    },
+	{
+        "AVIVA_CODE": 10114,
+        "CLINIC": "EVERCARE MEDICAL CLINIC (475) PTE LTD",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.065Z",
+        "objectId": "VBPAsySBeW",
+        "updatedAt": "2015-05-22T08:09:12.065Z"
+    },
+	{
+        "AVIVA_CODE": 10122,
+        "CLINIC": "HARMONY FAMILY CLINIC",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.072Z",
+        "objectId": "m2xUtzj4OQ",
+        "updatedAt": "2015-05-22T08:09:12.072Z"
+    },
+	{
+        "AVIVA_CODE": 10021,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.079Z",
+        "objectId": "SMMAXvxDGC",
+        "updatedAt": "2015-05-22T08:09:12.079Z"
+    },
+	{
+        "AVIVA_CODE": 10032,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.086Z",
+        "objectId": "ok6e66EPbU",
+        "updatedAt": "2015-05-22T08:09:12.086Z"
+    },
+	{
+        "AVIVA_CODE": 10202,
+        "CLINIC": "HEALTHWERKZ MEDICAL CENTRE (CCK) PTE LTD",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.097Z",
+        "objectId": "REfeFTX2DC",
+        "updatedAt": "2015-05-22T08:09:12.097Z"
+    },
+	{
+        "AVIVA_CODE": 10197,
+        "CLINIC": "THE PREMIER MEDICAL CLINIC",
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.104Z",
+        "objectId": "zqxuqcl2ps",
+        "updatedAt": "2015-05-22T08:09:12.104Z"
+    },
+	{
+        "AVIVA_CODE": 10014,
+        "CLINIC": "ALEXANDRA FAMILY CLINIC \u0026 SURGERY",
+        "ESTATE": "ALEXANDRA",
+        "FRI_AM": "0800-1500",
+        "FRI_EV": "1800-2100",
+        "MON_AM": "0800-1500",
+        "MON_EV": "1800-2100",
+        "SAT_AM": "0800-1200",
+        "SUN_AM": "0800-1200",
+        "THU_AM": "0800-1500",
+        "TUE_AM": "0800-1500",
+        "TUE_EVE": "1800-2100",
+        "WED_AM": "0800-1500",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.111Z",
+        "objectId": "Tc0cWgiNEk",
+        "updatedAt": "2015-05-22T08:55:52.449Z"
+    },
+	{
+        "AVIVA_CODE": 10224,
+        "CLINIC": "SHENTON WELLNESS CENTRE (PSA BUILDING)",
+        "ESTATE": "ALEXANDRA",
+        "FRI_AM": "0830-1300",
+        "FRI_PM": "1400-1730",
+        "MON_AM": "0830-1300",
+        "MON_PM": "1400-1730",
+        "THU_AM": "0830-1300",
+        "THU_PM": "1400-1730",
+        "TUE_AM": "0830-1300",
+        "TUE_PM": "1400-1730",
+        "WED_AM": "0830-1300",
+        "WED_PM": "1400-1730",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.118Z",
+        "objectId": "eCen9gqpHV",
+        "updatedAt": "2015-05-22T08:09:12.118Z"
+    },
+	{
+        "AVIVA_CODE": 10161,
+        "CLINIC": "TOWN HALL CLINIC (ALEXANDRA)",
+        "ESTATE": "ALEXANDRA",
+        "FRI_AM": "0830-1200",
+        "FRI_PM": "1400-1615",
+        "MON_AM": "0830-1200",
+        "MON_PM": "1400-1615",
+        "SAT_AM": "0830-1015",
+        "THU_AM": "0830-1200",
+        "THU_PM": "1400-1615",
+        "TUE_AM": "0830-1200",
+        "TUE_PM": "1400-1615",
+        "WED_AM": "0830-1200",
+        "WED_PM": "1400-1615",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.125Z",
+        "objectId": "bEEMMQCdXF",
+        "updatedAt": "2015-05-22T08:09:12.125Z"
+    },
+	{
+        "AVIVA_CODE": 10050,
+        "CLINIC": "NEW HEALTH FAMILY CLINIC PTE LTD",
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.132Z",
+        "objectId": "j6Ca7LsOBS",
+        "updatedAt": "2015-05-22T08:09:12.132Z"
+    },
+	{
+        "AVIVA_CODE": 10076,
+        "CLINIC": "BETHESDA MEDICAL CENTRE PTE LTD",
+        "ESTATE": "CITY HALL",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.139Z",
+        "objectId": "2R73LU9ffA",
+        "updatedAt": "2015-05-22T08:09:12.139Z"
+    },
+	{
+        "AVIVA_CODE": 10211,
+        "CLINIC": "THE MEDICAL CLINIC PTE LTD",
+        "ESTATE": "CITY HALL",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.146Z",
+        "objectId": "S9ZAN0VreR",
+        "updatedAt": "2015-05-22T08:09:12.146Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "CLINIC": "CLIFFORD DISPENSARY PTE LTD",
+        "ESTATE": "HARBOURFRONT",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.152Z",
+        "objectId": "H27sRTPLAM",
+        "updatedAt": "2015-05-22T08:09:12.152Z"
+    },
+	{
+        "AVIVA_CODE": 10183,
+        "CLINIC": "MINT MEDICAL CENTRE",
+        "ESTATE": "HARBOURFRONT",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.159Z",
+        "objectId": "VrgTpcG7RD",
+        "updatedAt": "2015-05-22T08:09:12.159Z"
+    },
+	{
+        "AVIVA_CODE": 10194,
+        "CLINIC": "MW MEDICAL CENTRE",
+        "ESTATE": "MARINA BAY",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.166Z",
+        "objectId": "S1ChON8PVr",
+        "updatedAt": "2015-05-22T08:09:12.166Z"
+    },
+	{
+        "AVIVA_CODE": 10083,
+        "CLINIC": "ATRIA MEDICAL CLINIC",
+        "ESTATE": "ORCHARD",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.176Z",
+        "objectId": "2XcZjZh4xn",
+        "updatedAt": "2015-05-22T08:09:12.176Z"
+    },
+	{
+        "AVIVA_CODE": 10103,
+        "CLINIC": "DR RICHARD CHOO \u0026 PARTNERS PTE LTD",
+        "ESTATE": "ORCHARD",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.183Z",
+        "objectId": "yVhv27Sv9z",
+        "updatedAt": "2015-05-22T08:09:12.183Z"
+    },
+	{
+        "AVIVA_CODE": 10146,
+        "CLINIC": "NEWCASTLE CLINIC PTE LTD",
+        "ESTATE": "ORCHARD",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.190Z",
+        "objectId": "qXc2Tthx2L",
+        "updatedAt": "2015-05-22T08:09:12.190Z"
+    },
+	{
+        "AVIVA_CODE": 10077,
+        "CLINIC": "CLIFFORD DISPENSARY PTE LTD",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.197Z",
+        "objectId": "8oPHFYssWg",
+        "updatedAt": "2015-05-22T08:09:12.197Z"
+    },
+	{
+        "AVIVA_CODE": 10110,
+        "CLINIC": "DRS THOMPSON \u0026 THOMSON (RADLINK MEDICARE) PTE LTD",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.204Z",
+        "objectId": "fohGYSk8h7",
+        "updatedAt": "2015-05-22T08:09:12.204Z"
+    },
+	{
+        "AVIVA_CODE": 10123,
+        "CLINIC": "HEALTH PARTNERS MEDICAL CLINIC",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.212Z",
+        "objectId": "Z5a5XPXJjf",
+        "updatedAt": "2015-05-22T08:09:12.212Z"
+    },
+	{
+        "AVIVA_CODE": 10104,
+        "CLINIC": "HEALTHWAY MEDICAL CENTRE (SHENTON WAY)",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.220Z",
+        "objectId": "YsnLvvKHJt",
+        "updatedAt": "2015-05-22T08:09:12.220Z"
+    },
+	{
+        "AVIVA_CODE": 10226,
+        "CLINIC": "NORTHEAST (TMA) MEDICAL ASSOCIATES PTE LTD",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.227Z",
+        "objectId": "1to9dPKhFB",
+        "updatedAt": "2015-05-22T08:09:12.227Z"
+    },
+	{
+        "AVIVA_CODE": 10173,
+        "CLINIC": "THE CLINIC @ ONE GEORGE STREET",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.234Z",
+        "objectId": "IoPYXLHCox",
+        "updatedAt": "2015-05-22T08:09:12.234Z"
+    },
+	{
+        "AVIVA_CODE": 10159,
+        "CLINIC": "THE MEDICAL CENTRE CLINIC (HONG LEONG)",
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.242Z",
+        "objectId": "h9h5gF4d4a",
+        "updatedAt": "2015-05-22T08:09:12.242Z"
+    },
+	{
+        "AVIVA_CODE": 10205,
+        "CLINIC": "HEALTHCARE MEDICAL @ SENTOSA",
+        "ESTATE": "SENTOSA",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.252Z",
+        "objectId": "LXDajTrVTI",
+        "updatedAt": "2015-05-22T08:09:12.252Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "CLINIC": "MHC MEDICAL CENTRE (AMARA)",
+        "ESTATE": "TANJONG PAGAR",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.262Z",
+        "objectId": "xP7ggknCSV",
+        "updatedAt": "2015-05-22T08:09:12.262Z"
+    },
+	{
+        "AVIVA_CODE": 10186,
+        "CLINIC": "CHUA \u0026 PARTNERS FAMILY CLINIC",
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-22T08:09:12.270Z",
+        "objectId": "Er85WWMQlp",
+        "updatedAt": "2015-05-22T08:09:12.270Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "CLINIC": "TAN-TEOH CLINIC \u0026 SURGERY",
+        "ESTATE": "BOON KENG",
+        "ZONE": "SOUTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.277Z",
+        "objectId": "opsvJi5jZ2",
+        "updatedAt": "2015-05-22T08:09:12.277Z"
+    },
+	{
+        "AVIVA_CODE": 10081,
+        "CLINIC": "APOLLO MEDICAL CENTRE",
+        "ESTATE": "LITTLE INDIA",
+        "ZONE": "SOUTH-EAST",
+        "createdAt": "2015-05-22T08:09:12.285Z",
+        "objectId": "gzNr6sjMBk",
+        "updatedAt": "2015-05-22T08:09:12.285Z"
+    },
+	{
+        "AVIVA_CODE": 10199,
+        "CLINIC": "THE CLINIC @ FUSIONOPOLIS PTE LTD",
+        "ESTATE": "BUONA VISTA",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.292Z",
+        "objectId": "57sNJHweVH",
+        "updatedAt": "2015-05-22T08:09:12.292Z"
+    },
+	{
+        "AVIVA_CODE": 10208,
+        "CLINIC": "CENTRAL CLINIC \u0026 SURGERY 24HR (CLEMENTI)",
+        "ESTATE": "CLEMENTI",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.299Z",
+        "objectId": "TYMYXcBeSm",
+        "updatedAt": "2015-05-22T08:09:12.299Z"
+    },
+	{
+        "AVIVA_CODE": 10162,
+        "CLINIC": "UNION CLINIC AND SURGERY",
+        "ESTATE": "CLEMENTI",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.310Z",
+        "objectId": "rngz4JF0Xd",
+        "updatedAt": "2015-05-22T08:09:12.310Z"
+    },
+	{
+        "AVIVA_CODE": 10101,
+        "CLINIC": "DOVER CLINIC AND SURGERY PTE LTD",
+        "ESTATE": "DOVER",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.317Z",
+        "objectId": "Sy19ZCWqBH",
+        "updatedAt": "2015-05-22T08:09:12.317Z"
+    },
+	{
+        "AVIVA_CODE": 10102,
+        "CLINIC": "DOVER MEDICAL CENTRE",
+        "ESTATE": "DOVER",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.326Z",
+        "objectId": "0m8FmYACUH",
+        "updatedAt": "2015-05-22T08:09:12.326Z"
+    },
+	{
+        "AVIVA_CODE": 10189,
+        "CLINIC": "TRINITY MEDICAL CLINIC",
+        "ESTATE": "DOVER",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.333Z",
+        "objectId": "z0YyZAmrql",
+        "updatedAt": "2015-05-22T08:09:12.333Z"
+    },
+	{
+        "AVIVA_CODE": 10201,
+        "CLINIC": "HOLLAND CLOSE CLINIC PTE. LTD.",
+        "ESTATE": "HOLLAND",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.340Z",
+        "objectId": "SCv4sdeh1L",
+        "updatedAt": "2015-05-22T08:09:12.340Z"
+    },
+	{
+        "AVIVA_CODE": 10178,
+        "CLINIC": "MAY MEDICAL CLINIC \u0026 SURGERY",
+        "ESTATE": "HOLLAND",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.346Z",
+        "objectId": "RuqGiNbtgR",
+        "updatedAt": "2015-05-22T08:09:12.346Z"
+    },
+	{
+        "AVIVA_CODE": 10158,
+        "CLINIC": "THE ARCADIA CLINIC",
+        "ESTATE": "HOLLAND",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-22T08:09:12.353Z",
+        "objectId": "C3oawFko8J",
+        "updatedAt": "2015-05-22T08:09:12.353Z"
+    },
+	{
+        "AVIVA_CODE": 10085,
+        "CLINIC": "BOON LAY CLINIC \u0026 SURGERY",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.360Z",
+        "objectId": "HTkZtaSKpr",
+        "updatedAt": "2015-05-22T08:09:12.360Z"
+    },
+	{
+        "AVIVA_CODE": 10099,
+        "CLINIC": "COMMUNITY MEDICAL CLINIC",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.367Z",
+        "objectId": "QBBTynA843",
+        "updatedAt": "2015-05-22T08:09:12.367Z"
+    },
+	{
+        "AVIVA_CODE": 10113,
+        "CLINIC": "FULLERTON HEALTHCARE GROUP @\nDRS TRYTHALL HOY DAVIES, JURONG POINT",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.373Z",
+        "objectId": "9NRfUzEkpT",
+        "updatedAt": "2015-05-22T08:09:12.373Z"
+    },
+	{
+        "AVIVA_CODE": 10215,
+        "CLINIC": "MY DOCTOR @ LAKESIDE",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.380Z",
+        "objectId": "VNtR0pPqQN",
+        "updatedAt": "2015-05-22T08:09:12.380Z"
+    },
+	{
+        "AVIVA_CODE": 10235,
+        "CLINIC": "ONECARE CLINIC BOON LAY",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.387Z",
+        "objectId": "VYti8W8PNc",
+        "updatedAt": "2015-05-22T08:09:12.387Z"
+    },
+	{
+        "AVIVA_CODE": 10220,
+        "CLINIC": "PIONEER MEDICARE",
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.397Z",
+        "objectId": "JNKvAqkNYl",
+        "updatedAt": "2015-05-22T08:09:12.397Z"
+    },
+	{
+        "AVIVA_CODE": 10015,
+        "CLINIC": "BUKIT BATOK MEDICAL CLINIC",
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.404Z",
+        "objectId": "7MDIPi5zH6",
+        "updatedAt": "2015-05-22T08:09:12.404Z"
+    },
+	{
+        "AVIVA_CODE": 10042,
+        "CLINIC": "LAI MEDICAL CLINIC PTE LTD",
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.411Z",
+        "objectId": "zT1aXu2eS7",
+        "updatedAt": "2015-05-22T08:09:12.411Z"
+    },
+	{
+        "AVIVA_CODE": 10138,
+        "CLINIC": "LIFELINE NEIGHBOURHOOD MEDICAL CLINIC PTE LTD",
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.418Z",
+        "objectId": "2kmMcrcFjf",
+        "updatedAt": "2015-05-22T08:09:12.418Z"
+    },
+	{
+        "AVIVA_CODE": 10213,
+        "CLINIC": "PHOENIX MEDICAL  GROUP (HILLVIEW)",
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.425Z",
+        "objectId": "VjIMn2dPZk",
+        "updatedAt": "2015-05-22T08:09:12.425Z"
+    },
+	{
+        "AVIVA_CODE": 10066,
+        "CLINIC": "SINGAPORE FAMILY CLINIC \u0026 SURGERY (BUKIT BATOK)",
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.432Z",
+        "objectId": "G3dDpSVWWG",
+        "updatedAt": "2015-05-22T08:09:12.432Z"
+    },
+	{
+        "AVIVA_CODE": 10242,
+        "CLINIC": "BUKIT MERAH CENTRAL MEDICAL CENTRE",
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.439Z",
+        "objectId": "iVDaByEU4i",
+        "updatedAt": "2015-05-22T08:09:12.439Z"
+    },
+	{
+        "AVIVA_CODE": 10241,
+        "CLINIC": "DOCTORS KOO, KOH \u0026 ASSOCIATES PTE LTD",
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.445Z",
+        "objectId": "RkEuOjhqNH",
+        "updatedAt": "2015-05-22T08:09:12.445Z"
+    },
+	{
+        "AVIVA_CODE": 10218,
+        "CLINIC": "KL NG MEDICAL CLINIC PTE LTD",
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.453Z",
+        "objectId": "NVKAjJ9Ljo",
+        "updatedAt": "2015-05-22T08:09:12.453Z"
+    },
+	{
+        "AVIVA_CODE": 10091,
+        "CLINIC": "CHANG CLINIC",
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.460Z",
+        "objectId": "oSxVBx8HA0",
+        "updatedAt": "2015-05-22T08:09:12.460Z"
+    },
+	{
+        "AVIVA_CODE": 10020,
+        "CLINIC": "CHUNGKIAW CLINIC",
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.467Z",
+        "objectId": "cQXcpwjzKN",
+        "updatedAt": "2015-05-22T08:09:12.467Z"
+    },
+	{
+        "AVIVA_CODE": 10143,
+        "CLINIC": "MANDARIN MEDICAL CENTRE",
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.474Z",
+        "objectId": "jr22H3L40V",
+        "updatedAt": "2015-05-22T08:09:12.474Z"
+    },
+	{
+        "AVIVA_CODE": 10109,
+        "CLINIC": "DRS OH, LIM, WONG AND PARTNERS",
+        "ESTATE": "JURONG",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.480Z",
+        "objectId": "ReqcYfyGYM",
+        "updatedAt": "2015-05-22T08:09:12.480Z"
+    },
+	{
+        "AVIVA_CODE": 10034,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "JURONG",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.490Z",
+        "objectId": "P4pXVYb4Pg",
+        "updatedAt": "2015-05-22T08:09:12.490Z"
+    },
+	{
+        "AVIVA_CODE": 10045,
+        "CLINIC": "LOI + WONG CLINIC \u0026 SURGERY",
+        "ESTATE": "JURONG",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.497Z",
+        "objectId": "wynVnr97oT",
+        "updatedAt": "2015-05-22T08:09:12.497Z"
+    },
+	{
+        "AVIVA_CODE": 10217,
+        "CLINIC": "BEWELL CLINIC @ DORM PTE LTD",
+        "ESTATE": "JURONG EAST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.504Z",
+        "objectId": "y5Hl4GffZT",
+        "updatedAt": "2015-05-22T08:09:12.504Z"
+    },
+	{
+        "AVIVA_CODE": 10068,
+        "CLINIC": "SUMMIT MEDICAL CLINIC",
+        "ESTATE": "JURONG EAST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.511Z",
+        "objectId": "V9ygWLwJ4B",
+        "updatedAt": "2015-05-22T08:09:12.511Z"
+    },
+	{
+        "AVIVA_CODE": 10193,
+        "CLINIC": "TRINITY MEDICAL CLINIC",
+        "ESTATE": "JURONG EAST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.518Z",
+        "objectId": "PU6IMcpyRW",
+        "updatedAt": "2015-05-22T08:09:12.518Z"
+    },
+	{
+        "AVIVA_CODE": 10206,
+        "CLINIC": "GJ MEDICAL CLINIC (JURONG POINT)",
+        "ESTATE": "JURONG WEST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.525Z",
+        "objectId": "mb7JVDfFdW",
+        "updatedAt": "2015-05-22T08:09:12.525Z"
+    },
+	{
+        "AVIVA_CODE": 10025,
+        "CLINIC": "HEALTHWAY MEDICAL CLINIC",
+        "ESTATE": "JURONG WEST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.532Z",
+        "objectId": "QdEf51uFl8",
+        "updatedAt": "2015-05-22T08:09:12.532Z"
+    },
+	{
+        "AVIVA_CODE": 10051,
+        "CLINIC": "NEWLIFE FAMILY CLINIC \u0026 SURGERY PTE LTD",
+        "ESTATE": "TEBAN",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.539Z",
+        "objectId": "mYFl7roXhe",
+        "updatedAt": "2015-05-22T08:09:12.539Z"
+    },
+	{
+        "AVIVA_CODE": 10156,
+        "CLINIC": "TEBAN GARDEN CLINIC",
+        "ESTATE": "TEBAN",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-22T08:09:12.545Z",
+        "objectId": "vKzqVRAUUG",
+        "updatedAt": "2015-05-22T08:09:12.545Z"
+    }
+] }

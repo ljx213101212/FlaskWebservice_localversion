@@ -1,0 +1,13 @@
+Doctor
+
+INSERT INTO `res`.`doctors` (`id`, `name`, `current_queue_num`, `clinic_id`) VALUES ('1', 'asdas', NULL, '1'), ('2', 'sadas', NULL, '2');
+
+
+
+INSERT INTO `res`.`queue` (`id`, `key`, `uuid`, `queue_number`, `doctor_id`, `clinic_id`) VALUES ('1', '12321', '123123', NULL, '2', '88');
+
+
+INSERT INTO `res`.`patient` (`patient_id`, `name`) VALUES (NULL, 'asdasd'), (NULL, 'asdasdasda');
+
+
+INSERT INTO `res`.`patient_detail` (`id`, `patient_id`, `clinic_id`, `ic_num`, `phone_num`) VALUES (NULL, '1', '191', 'sadasd', '1231231231');

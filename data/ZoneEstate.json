@@ -1,0 +1,457 @@
+{ "results": [
+	{
+        "ESTATE": "BISHAN",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.468Z",
+        "objectId": "stkSbUwvRj",
+        "updatedAt": "2015-05-15T02:41:13.468Z"
+    },
+	{
+        "ESTATE": "BUGIS",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.486Z",
+        "objectId": "hdsYnyJvNH",
+        "updatedAt": "2015-05-15T02:41:13.486Z"
+    },
+	{
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.509Z",
+        "objectId": "obRuAQEaaP",
+        "updatedAt": "2015-05-15T02:41:13.509Z"
+    },
+	{
+        "ESTATE": "FARRER",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.518Z",
+        "objectId": "IFg7qhpUsH",
+        "updatedAt": "2015-05-15T02:41:13.518Z"
+    },
+	{
+        "ESTATE": "ORCHARD",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.527Z",
+        "objectId": "4cRzfG8UET",
+        "updatedAt": "2015-05-15T02:41:13.527Z"
+    },
+	{
+        "ESTATE": "SIN MING",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.540Z",
+        "objectId": "xMTmwt9tpM",
+        "updatedAt": "2015-05-15T02:41:13.540Z"
+    },
+	{
+        "ESTATE": "THOMSON",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.549Z",
+        "objectId": "ZhBUhQ1cNr",
+        "updatedAt": "2015-05-15T02:41:13.549Z"
+    },
+	{
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "CENTRAL",
+        "createdAt": "2015-05-15T02:41:13.557Z",
+        "objectId": "8wZnikxIOR",
+        "updatedAt": "2015-05-15T02:41:13.557Z"
+    },
+	{
+        "ESTATE": "TOA PAYOH",
+        "ZONE": "CENTRAL-EAST",
+        "createdAt": "2015-05-15T02:41:13.566Z",
+        "objectId": "GnS476uJFQ",
+        "updatedAt": "2015-05-15T02:41:13.566Z"
+    },
+	{
+        "ESTATE": "ALJUNIED",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.575Z",
+        "objectId": "dYoS5xkRZj",
+        "updatedAt": "2015-05-15T02:41:13.575Z"
+    },
+	{
+        "ESTATE": "BEDOK",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.584Z",
+        "objectId": "aerlPIaNzi",
+        "updatedAt": "2015-05-15T02:41:13.584Z"
+    },
+	{
+        "ESTATE": "CHAI CHEE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.592Z",
+        "objectId": "awAtLiSjhc",
+        "updatedAt": "2015-05-15T02:41:13.592Z"
+    },
+	{
+        "ESTATE": "CHANGI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.601Z",
+        "objectId": "hw2WHXx8DV",
+        "updatedAt": "2015-05-15T02:41:13.601Z"
+    },
+	{
+        "ESTATE": "EAST COAST",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.636Z",
+        "objectId": "bIMcrJ4lUt",
+        "updatedAt": "2015-05-15T02:41:13.636Z"
+    },
+	{
+        "ESTATE": "EUNOS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.644Z",
+        "objectId": "P3bjnSBQ4u",
+        "updatedAt": "2015-05-15T02:41:13.644Z"
+    },
+	{
+        "ESTATE": "GEYLANG",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.653Z",
+        "objectId": "RCrWDzFJ5T",
+        "updatedAt": "2015-05-15T02:41:13.653Z"
+    },
+	{
+        "ESTATE": "KALLANG",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.662Z",
+        "objectId": "zlfj7ACub7",
+        "updatedAt": "2015-05-15T02:41:13.662Z"
+    },
+	{
+        "ESTATE": "KEMBANGAN",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.670Z",
+        "objectId": "7Jw6nYzG7o",
+        "updatedAt": "2015-05-15T02:41:13.670Z"
+    },
+	{
+        "ESTATE": "LAVENDER",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.681Z",
+        "objectId": "g8rkk2Y6p1",
+        "updatedAt": "2015-05-15T02:41:13.681Z"
+    },
+	{
+        "ESTATE": "MARINE PARADE",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.690Z",
+        "objectId": "giPp3VM0Ct",
+        "updatedAt": "2015-05-15T02:41:13.690Z"
+    },
+	{
+        "ESTATE": "PASIR RIS",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.699Z",
+        "objectId": "b3KePyuBSn",
+        "updatedAt": "2015-05-15T02:41:13.699Z"
+    },
+	{
+        "ESTATE": "PAYA LEBAR",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.708Z",
+        "objectId": "mZBB1GWKAg",
+        "updatedAt": "2015-05-15T02:41:13.708Z"
+    },
+	{
+        "ESTATE": "SIMEI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.717Z",
+        "objectId": "owMWaHY5sq",
+        "updatedAt": "2015-05-15T02:41:13.717Z"
+    },
+	{
+        "ESTATE": "TAMPINES",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.726Z",
+        "objectId": "KRGlJQqAi7",
+        "updatedAt": "2015-05-15T02:41:13.726Z"
+    },
+	{
+        "ESTATE": "UBI",
+        "ZONE": "EAST",
+        "createdAt": "2015-05-15T02:41:13.734Z",
+        "objectId": "ieR3zHWrH4",
+        "updatedAt": "2015-05-15T02:41:13.734Z"
+    },
+	{
+        "ESTATE": "JOHOR BAHRU",
+        "ZONE": "JOHOR BAHRU",
+        "createdAt": "2015-05-15T02:41:13.743Z",
+        "objectId": "erGqqNF6Uq",
+        "updatedAt": "2015-05-15T02:41:13.743Z"
+    },
+	{
+        "ESTATE": "ANG MO KIO",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-15T02:41:13.752Z",
+        "objectId": "iolkAcES9g",
+        "updatedAt": "2015-05-15T02:41:13.752Z"
+    },
+	{
+        "ESTATE": "WOODLANDS",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-15T02:41:13.764Z",
+        "objectId": "O1GzgduNiX",
+        "updatedAt": "2015-05-15T02:41:13.764Z"
+    },
+	{
+        "ESTATE": "YISHUN",
+        "ZONE": "NORTH",
+        "createdAt": "2015-05-15T02:41:13.773Z",
+        "objectId": "WobnTefdTT",
+        "updatedAt": "2015-05-15T02:41:13.773Z"
+    },
+	{
+        "ESTATE": "ALJUNIED",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.782Z",
+        "objectId": "lQIv1hLiii",
+        "updatedAt": "2015-05-15T02:41:13.782Z"
+    },
+	{
+        "ESTATE": "BUANGKOK",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.791Z",
+        "objectId": "yyMlKUL90O",
+        "updatedAt": "2015-05-15T02:41:13.791Z"
+    },
+	{
+        "ESTATE": "HOUGANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.800Z",
+        "objectId": "CNXRNLrQaj",
+        "updatedAt": "2015-05-15T02:41:13.800Z"
+    },
+	{
+        "ESTATE": "KALLANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.808Z",
+        "objectId": "XYPDrmwMeO",
+        "updatedAt": "2015-05-15T02:41:13.808Z"
+    },
+	{
+        "ESTATE": "POTONG PASIR",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.817Z",
+        "objectId": "o1V3DqOBgz",
+        "updatedAt": "2015-05-15T02:41:13.817Z"
+    },
+	{
+        "ESTATE": "PUNGGOL",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.825Z",
+        "objectId": "frh2r0v6EH",
+        "updatedAt": "2015-05-15T02:41:13.825Z"
+    },
+	{
+        "ESTATE": "SENGKANG",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.834Z",
+        "objectId": "FboAg4viFV",
+        "updatedAt": "2015-05-15T02:41:13.834Z"
+    },
+	{
+        "ESTATE": "SERANGOON",
+        "ZONE": "NORTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.843Z",
+        "objectId": "hklgLryGnz",
+        "updatedAt": "2015-05-15T02:41:13.843Z"
+    },
+	{
+        "ESTATE": "BUKIT PANJANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-15T02:41:13.851Z",
+        "objectId": "ng3abswROA",
+        "updatedAt": "2015-05-15T02:41:13.851Z"
+    },
+	{
+        "ESTATE": "CHOA CHU KANG",
+        "ZONE": "NORTH-WEST",
+        "createdAt": "2015-05-15T02:41:13.860Z",
+        "objectId": "cI1xi0pW4p",
+        "updatedAt": "2015-05-15T02:41:13.860Z"
+    },
+	{
+        "ESTATE": "ALEXANDRA",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.869Z",
+        "objectId": "cd9BYmEYid",
+        "updatedAt": "2015-05-15T02:41:13.869Z"
+    },
+	{
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.877Z",
+        "objectId": "JfLQSjUvgv",
+        "updatedAt": "2015-05-15T02:41:13.877Z"
+    },
+	{
+        "ESTATE": "CITY HALL",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.886Z",
+        "objectId": "Qzayklg7ix",
+        "updatedAt": "2015-05-15T02:41:13.886Z"
+    },
+	{
+        "ESTATE": "HARBOURFRONT",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.895Z",
+        "objectId": "5dJsK35QLp",
+        "updatedAt": "2015-05-15T02:41:13.895Z"
+    },
+	{
+        "ESTATE": "MARINA BAY",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.904Z",
+        "objectId": "PCStjPo1HZ",
+        "updatedAt": "2015-05-15T02:41:13.904Z"
+    },
+	{
+        "ESTATE": "ORCHARD",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.912Z",
+        "objectId": "5FzsOpVn7b",
+        "updatedAt": "2015-05-15T02:41:13.912Z"
+    },
+	{
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.921Z",
+        "objectId": "x35IKpVUnH",
+        "updatedAt": "2015-05-15T02:41:13.921Z"
+    },
+	{
+        "ESTATE": "SENTOSA",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.930Z",
+        "objectId": "ydYFA6Zk8x",
+        "updatedAt": "2015-05-15T02:41:13.930Z"
+    },
+	{
+        "ESTATE": "TANJONG PAGAR",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.938Z",
+        "objectId": "VWDjcuNXFr",
+        "updatedAt": "2015-05-15T02:41:13.938Z"
+    },
+	{
+        "ESTATE": "TIONG BAHRU",
+        "ZONE": "SOUTH",
+        "createdAt": "2015-05-15T02:41:13.947Z",
+        "objectId": "urzuJl2UTN",
+        "updatedAt": "2015-05-15T02:41:13.947Z"
+    },
+	{
+        "ESTATE": "BOON KENG",
+        "ZONE": "SOUTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.955Z",
+        "objectId": "lJOcznSXtf",
+        "updatedAt": "2015-05-15T02:41:13.955Z"
+    },
+	{
+        "ESTATE": "LITTLE INDIA",
+        "ZONE": "SOUTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.964Z",
+        "objectId": "tBpVsfjZFq",
+        "updatedAt": "2015-05-15T02:41:13.964Z"
+    },
+	{
+        "ESTATE": "RAFFLES PLACE",
+        "ZONE": "SOUTH-EAST",
+        "createdAt": "2015-05-15T02:41:13.976Z",
+        "objectId": "X0gsJuQ6oe",
+        "updatedAt": "2015-05-15T02:41:13.976Z"
+    },
+	{
+        "ESTATE": "BUONA VISTA",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-15T02:41:13.986Z",
+        "objectId": "WPUQO2Fyqh",
+        "updatedAt": "2015-05-15T02:41:13.986Z"
+    },
+	{
+        "ESTATE": "CLEMENTI",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-15T02:41:13.994Z",
+        "objectId": "dZbcWe3fMl",
+        "updatedAt": "2015-05-15T02:41:13.994Z"
+    },
+	{
+        "ESTATE": "DOVER",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-15T02:41:14.003Z",
+        "objectId": "1p2l60AznX",
+        "updatedAt": "2015-05-15T02:41:14.003Z"
+    },
+	{
+        "ESTATE": "HOLLAND",
+        "ZONE": "SOUTH-WEST",
+        "createdAt": "2015-05-15T02:41:14.012Z",
+        "objectId": "8PtUI5mWDc",
+        "updatedAt": "2015-05-15T02:41:14.012Z"
+    },
+	{
+        "ESTATE": "ALEXANDRA",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.023Z",
+        "objectId": "4VCiMrpdgs",
+        "updatedAt": "2015-05-15T02:41:14.023Z"
+    },
+	{
+        "ESTATE": "BOON LAY",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.032Z",
+        "objectId": "ZscIFEBhSI",
+        "updatedAt": "2015-05-15T02:41:14.032Z"
+    },
+	{
+        "ESTATE": "BUKIT BATOK",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.041Z",
+        "objectId": "JCWvJUQ73b",
+        "updatedAt": "2015-05-15T02:41:14.041Z"
+    },
+	{
+        "ESTATE": "BUKIT MERAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.050Z",
+        "objectId": "o3g6Sx85Xz",
+        "updatedAt": "2015-05-15T02:41:14.050Z"
+    },
+	{
+        "ESTATE": "BUKIT TIMAH",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.059Z",
+        "objectId": "iegewMNg5e",
+        "updatedAt": "2015-05-15T02:41:14.059Z"
+    },
+	{
+        "ESTATE": "JURONG",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.068Z",
+        "objectId": "SnZgH5Y6ck",
+        "updatedAt": "2015-05-15T02:41:14.068Z"
+    },
+	{
+        "ESTATE": "JURONG EAST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.077Z",
+        "objectId": "uWVNmcmPkk",
+        "updatedAt": "2015-05-15T02:41:14.077Z"
+    },
+	{
+        "ESTATE": "JURONG WEST",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.086Z",
+        "objectId": "jNy9e01GBK",
+        "updatedAt": "2015-05-15T02:41:14.086Z"
+    },
+	{
+        "ESTATE": "TEBAN",
+        "ZONE": "WEST",
+        "createdAt": "2015-05-15T02:41:14.095Z",
+        "objectId": "jCERNr3BH4",
+        "updatedAt": "2015-05-15T02:41:14.095Z"
+    }
+] }

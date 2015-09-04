@@ -6,8 +6,11 @@ from database import *
 print "Start Initiation of Database Schema"
 print "Adding cases into the database"
 
-from database import *
-c = session.query(Clinic).filter_by(id=1).first()
+
+Base.metadata.create_all(bind=engine)
+
+# from database import *
+# c = session.query(Clinic).filter_by(id=1).first()
 
 '''
 # already done

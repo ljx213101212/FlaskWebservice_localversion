@@ -87,7 +87,7 @@ for i in data.items()[0][1][1] :
 
 for i in data.items()[0][1]:
     print i['SN']
-    clinic = Clinic(id = i['SN'], name=i['CLINIC'])
+    clinic = Clinic(name=i['CLINIC'])
     clinic.aviva_code = i['AVIVA_CODE']
     clinic.zone = i['ZONE']
     clinic.estate = i['ESTATE']

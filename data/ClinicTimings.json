@@ -1,0 +1,1271 @@
+{ "results": [
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.186Z",
+        "objectId": "gWLXyfzMQj",
+        "updatedAt": "2015-06-05T04:33:53.186Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.165Z",
+        "objectId": "aCHCUiuutj",
+        "updatedAt": "2015-06-05T04:33:53.165Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.160Z",
+        "objectId": "8O4HaV2xSX",
+        "updatedAt": "2015-06-05T04:33:53.160Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.213Z",
+        "objectId": "M81Mu4IB7H",
+        "updatedAt": "2015-06-05T04:33:53.213Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.181Z",
+        "objectId": "AFMXBvX7jj",
+        "updatedAt": "2015-06-05T04:33:53.181Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.217Z",
+        "objectId": "wGqZRTkvDP",
+        "updatedAt": "2015-06-05T04:33:53.217Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.208Z",
+        "objectId": "3SEnwKiY2o",
+        "updatedAt": "2015-06-05T04:33:53.208Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.234Z",
+        "objectId": "VdI27DgROH",
+        "updatedAt": "2015-06-05T04:33:53.234Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.263Z",
+        "objectId": "MFVDi9fZzq",
+        "updatedAt": "2015-06-05T04:33:53.263Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.169Z",
+        "objectId": "jgMPeesNQd",
+        "updatedAt": "2015-06-05T04:33:53.169Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.173Z",
+        "objectId": "v0tzpOvtjA",
+        "updatedAt": "2015-06-05T04:33:53.173Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.267Z",
+        "objectId": "EjIwe59rYl",
+        "updatedAt": "2015-06-05T04:33:53.267Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.200Z",
+        "objectId": "F8rWuMZBek",
+        "updatedAt": "2015-06-05T04:33:53.200Z"
+    },
+	{
+        "AVIVA_CODE": 10004,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.177Z",
+        "objectId": "EkaWRXal2f",
+        "updatedAt": "2015-06-05T04:33:53.177Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "SUN",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "9:30",
+        "createdAt": "2015-06-05T04:33:53.255Z",
+        "objectId": "XvkOSzZm1z",
+        "updatedAt": "2015-06-05T04:33:53.255Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "PH",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.312Z",
+        "objectId": "D4WmzauPZy",
+        "updatedAt": "2015-06-05T04:33:53.312Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.409Z",
+        "objectId": "whPau8XRLG",
+        "updatedAt": "2015-06-05T04:33:53.409Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.225Z",
+        "objectId": "hADDq57iWM",
+        "updatedAt": "2015-06-05T04:33:53.225Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.438Z",
+        "objectId": "HwOYQLNmHa",
+        "updatedAt": "2015-06-05T04:33:53.438Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.450Z",
+        "objectId": "ZCqzxqzWSm",
+        "updatedAt": "2015-06-05T04:33:53.450Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.238Z",
+        "objectId": "5yX2pqqfpL",
+        "updatedAt": "2015-06-05T04:33:53.238Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.230Z",
+        "objectId": "AvkObdviEK",
+        "updatedAt": "2015-06-05T04:33:53.230Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.242Z",
+        "objectId": "hHd9rttt8o",
+        "updatedAt": "2015-06-05T04:33:53.242Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.321Z",
+        "objectId": "7jWF6BmVP0",
+        "updatedAt": "2015-06-05T04:33:53.321Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.338Z",
+        "objectId": "c2TfqT4CmE",
+        "updatedAt": "2015-06-05T04:33:53.338Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.346Z",
+        "objectId": "z0hdJQ61Au",
+        "updatedAt": "2015-06-05T04:33:53.346Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.463Z",
+        "objectId": "eV2mTsDViz",
+        "updatedAt": "2015-06-05T04:33:53.463Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.196Z",
+        "objectId": "oXG8YKzGJu",
+        "updatedAt": "2015-06-05T04:33:53.196Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.325Z",
+        "objectId": "ZEUIYbAQSD",
+        "updatedAt": "2015-06-05T04:33:53.325Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.488Z",
+        "objectId": "yGHdI6RuxV",
+        "updatedAt": "2015-06-05T04:33:53.488Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.459Z",
+        "objectId": "suVe36AAwB",
+        "updatedAt": "2015-06-05T04:33:53.459Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.221Z",
+        "objectId": "Tf0Q2BKlNa",
+        "updatedAt": "2015-06-05T04:33:53.221Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.376Z",
+        "objectId": "73sjA87Qhg",
+        "updatedAt": "2015-06-05T04:33:53.376Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "11:30",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.283Z",
+        "objectId": "IWbGBZXKlO",
+        "updatedAt": "2015-06-05T04:33:53.283Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.204Z",
+        "objectId": "0tlUdDOc0x",
+        "updatedAt": "2015-06-05T04:33:53.204Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "21:00",
+        "createdAt": "2015-06-05T04:33:53.288Z",
+        "objectId": "yF7EpSFMYD",
+        "updatedAt": "2015-06-05T04:33:53.288Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "PH",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.500Z",
+        "objectId": "yhlwZNjd8T",
+        "updatedAt": "2015-06-05T04:33:53.500Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.397Z",
+        "objectId": "QeM7RvKXWK",
+        "updatedAt": "2015-06-05T04:33:53.397Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.533Z",
+        "objectId": "e2xsjgUMFB",
+        "updatedAt": "2015-06-05T04:33:53.533Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.421Z",
+        "objectId": "imIQdUARBs",
+        "updatedAt": "2015-06-05T04:33:53.421Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "1:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.296Z",
+        "objectId": "Jll3xSLMnp",
+        "updatedAt": "2015-06-05T04:33:53.296Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.384Z",
+        "objectId": "0AdtFVgxz0",
+        "updatedAt": "2015-06-05T04:33:53.384Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.508Z",
+        "objectId": "D0HFoCxUZA",
+        "updatedAt": "2015-06-05T04:33:53.508Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "20:00",
+        "OPERATING_HOURS_START": "18:00",
+        "createdAt": "2015-06-05T04:33:53.401Z",
+        "objectId": "wkEVLwx5Ld",
+        "updatedAt": "2015-06-05T04:33:53.401Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.246Z",
+        "objectId": "3vwbUw0hgX",
+        "updatedAt": "2015-06-05T04:33:53.246Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "5:30",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.300Z",
+        "objectId": "BlFpIVUFRH",
+        "updatedAt": "2015-06-05T04:33:53.300Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.430Z",
+        "objectId": "v2Bdt5iwrN",
+        "updatedAt": "2015-06-05T04:33:53.430Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.512Z",
+        "objectId": "Z6hQ2UnoZg",
+        "updatedAt": "2015-06-05T04:33:53.512Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.484Z",
+        "objectId": "ncs9xQ6aAc",
+        "updatedAt": "2015-06-05T04:33:53.484Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "20:00",
+        "OPERATING_HOURS_START": "18:00",
+        "createdAt": "2015-06-05T04:33:53.413Z",
+        "objectId": "D6fSS8pbDz",
+        "updatedAt": "2015-06-05T04:33:53.413Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.250Z",
+        "objectId": "Vp7HZag7Pj",
+        "updatedAt": "2015-06-05T04:33:53.250Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.591Z",
+        "objectId": "iGqFwJEHUC",
+        "updatedAt": "2015-06-05T04:33:53.591Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.417Z",
+        "objectId": "0K2eJwLrmj",
+        "updatedAt": "2015-06-05T04:33:53.417Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "SUN",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.308Z",
+        "objectId": "XQdNR9VyaW",
+        "updatedAt": "2015-06-05T04:33:53.308Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.578Z",
+        "objectId": "5r0pGIbHXm",
+        "updatedAt": "2015-06-05T04:33:53.578Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.600Z",
+        "objectId": "diDIIIrVHc",
+        "updatedAt": "2015-06-05T04:33:53.600Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.471Z",
+        "objectId": "CMTHr7qBN1",
+        "updatedAt": "2015-06-05T04:33:53.471Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.355Z",
+        "objectId": "tx5iAQDM4c",
+        "updatedAt": "2015-06-05T04:33:53.355Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.643Z",
+        "objectId": "VgerkbrumE",
+        "updatedAt": "2015-06-05T04:33:53.643Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.558Z",
+        "objectId": "pkmiCdZH02",
+        "updatedAt": "2015-06-05T04:33:53.558Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "22:00",
+        "OPERATING_HOURS_START": "21:00",
+        "createdAt": "2015-06-05T04:33:53.271Z",
+        "objectId": "kOHFlh8ZBp",
+        "updatedAt": "2015-06-05T04:33:53.271Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.359Z",
+        "objectId": "w8DLTKajOE",
+        "updatedAt": "2015-06-05T04:33:53.359Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.363Z",
+        "objectId": "pxqS5icoQa",
+        "updatedAt": "2015-06-05T04:33:53.363Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "20:00",
+        "OPERATING_HOURS_START": "18:00",
+        "createdAt": "2015-06-05T04:33:53.367Z",
+        "objectId": "PLOADQJJap",
+        "updatedAt": "2015-06-05T04:33:53.367Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "7:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.279Z",
+        "objectId": "R87WRpj6Jd",
+        "updatedAt": "2015-06-05T04:33:53.279Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "16:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.388Z",
+        "objectId": "IRIyrUWJGQ",
+        "updatedAt": "2015-06-05T04:33:53.388Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.475Z",
+        "objectId": "ZH4XH4SbHF",
+        "updatedAt": "2015-06-05T04:33:53.475Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.715Z",
+        "objectId": "7gSDI5XHIl",
+        "updatedAt": "2015-06-05T04:33:53.715Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.393Z",
+        "objectId": "n1urWUl1kh",
+        "updatedAt": "2015-06-05T04:33:53.393Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.372Z",
+        "objectId": "QrlwoyEFJe",
+        "updatedAt": "2015-06-05T04:33:53.372Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.517Z",
+        "objectId": "yTdmsBmhHx",
+        "updatedAt": "2015-06-05T04:33:53.517Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "9:00",
+        "createdAt": "2015-06-05T04:33:53.304Z",
+        "objectId": "9IhetJpLmX",
+        "updatedAt": "2015-06-05T04:33:53.304Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.608Z",
+        "objectId": "MG4ggy5NR8",
+        "updatedAt": "2015-06-05T04:33:53.608Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.537Z",
+        "objectId": "m3gMugAKJr",
+        "updatedAt": "2015-06-05T04:33:53.537Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "2:30",
+        "OPERATING_HOURS_START": "3:00",
+        "createdAt": "2015-06-05T04:33:53.275Z",
+        "objectId": "HYJba9FhAU",
+        "updatedAt": "2015-06-05T04:33:53.275Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.546Z",
+        "objectId": "MppwPHnaeh",
+        "updatedAt": "2015-06-05T04:33:53.546Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.405Z",
+        "objectId": "gDb7PzZCWw",
+        "updatedAt": "2015-06-05T04:33:53.405Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.679Z",
+        "objectId": "zPe1zxpJqv",
+        "updatedAt": "2015-06-05T04:33:53.679Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.701Z",
+        "objectId": "vDY2f6VCSg",
+        "updatedAt": "2015-06-05T04:33:53.701Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.529Z",
+        "objectId": "cDzvPrXqsJ",
+        "updatedAt": "2015-06-05T04:33:53.529Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.554Z",
+        "objectId": "zdWmPEmwgS",
+        "updatedAt": "2015-06-05T04:33:53.554Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.434Z",
+        "objectId": "GTerB46zKk",
+        "updatedAt": "2015-06-05T04:33:53.434Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.720Z",
+        "objectId": "kxWwdFc00d",
+        "updatedAt": "2015-06-05T04:33:53.720Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.425Z",
+        "objectId": "0V4WmdtGe4",
+        "updatedAt": "2015-06-05T04:33:53.425Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.442Z",
+        "objectId": "CjWRwJMm1N",
+        "updatedAt": "2015-06-05T04:33:53.442Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.583Z",
+        "objectId": "r5BUaIuPtf",
+        "updatedAt": "2015-06-05T04:33:53.583Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.317Z",
+        "objectId": "XRogaDuhEC",
+        "updatedAt": "2015-06-05T04:33:53.317Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.635Z",
+        "objectId": "vofwzir8Ps",
+        "updatedAt": "2015-06-05T04:33:53.635Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.329Z",
+        "objectId": "5BCDgfdfCX",
+        "updatedAt": "2015-06-05T04:33:53.329Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "13:00",
+        "createdAt": "2015-06-05T04:33:53.674Z",
+        "objectId": "YChOfpMFed",
+        "updatedAt": "2015-06-05T04:33:53.674Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.351Z",
+        "objectId": "e5ArkkJWc8",
+        "updatedAt": "2015-06-05T04:33:53.351Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.696Z",
+        "objectId": "fGf1Qzxc3O",
+        "updatedAt": "2015-06-05T04:33:53.696Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.739Z",
+        "objectId": "Io9koNohxW",
+        "updatedAt": "2015-06-05T04:33:53.739Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.525Z",
+        "objectId": "nXOBWE7pWX",
+        "updatedAt": "2015-06-05T04:33:53.525Z"
+    },
+	{
+        "AVIVA_CODE": 10009,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "20:00",
+        "OPERATING_HOURS_START": "18:00",
+        "createdAt": "2015-06-05T04:33:53.380Z",
+        "objectId": "RoiCKZ3eSI",
+        "updatedAt": "2015-06-05T04:33:53.380Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "13:00",
+        "createdAt": "2015-06-05T04:33:53.656Z",
+        "objectId": "InUUO1mQp2",
+        "updatedAt": "2015-06-05T04:33:53.656Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.492Z",
+        "objectId": "Iuv7uwePw7",
+        "updatedAt": "2015-06-05T04:33:53.492Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.596Z",
+        "objectId": "gYnKvggGl2",
+        "updatedAt": "2015-06-05T04:33:53.596Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.479Z",
+        "objectId": "Q53MSyd4bT",
+        "updatedAt": "2015-06-05T04:33:53.479Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.542Z",
+        "objectId": "9tNYDpGHBk",
+        "updatedAt": "2015-06-05T04:33:53.542Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.467Z",
+        "objectId": "wv01W1NVnR",
+        "updatedAt": "2015-06-05T04:33:53.467Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.617Z",
+        "objectId": "6XbzrZ1d9A",
+        "updatedAt": "2015-06-05T04:33:53.617Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.574Z",
+        "objectId": "cd7KzpEYfl",
+        "updatedAt": "2015-06-05T04:33:53.574Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.446Z",
+        "objectId": "313bTk0gmm",
+        "updatedAt": "2015-06-05T04:33:53.446Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.587Z",
+        "objectId": "orUERmt4eU",
+        "updatedAt": "2015-06-05T04:33:53.587Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.521Z",
+        "objectId": "XYrvyCmCNu",
+        "updatedAt": "2015-06-05T04:33:53.521Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.687Z",
+        "objectId": "LvnqMpBFUB",
+        "updatedAt": "2015-06-05T04:33:53.687Z"
+    },
+	{
+        "AVIVA_CODE": 10005,
+        "OPERATING_DAY": "PH",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "9:30",
+        "createdAt": "2015-06-05T04:33:53.259Z",
+        "objectId": "cE1emHuUqB",
+        "updatedAt": "2015-06-05T04:33:53.259Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.613Z",
+        "objectId": "WVLFJVlc8b",
+        "updatedAt": "2015-06-05T04:33:53.613Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.762Z",
+        "objectId": "3fnbakuYoq",
+        "updatedAt": "2015-06-05T04:33:53.762Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "13:00",
+        "createdAt": "2015-06-05T04:33:53.692Z",
+        "objectId": "a3Akzoo39J",
+        "updatedAt": "2015-06-05T04:33:53.692Z"
+    },
+	{
+        "AVIVA_CODE": 10006,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "20:30",
+        "OPERATING_HOURS_START": "3:00",
+        "createdAt": "2015-06-05T04:33:53.292Z",
+        "objectId": "oIeq7O27C6",
+        "updatedAt": "2015-06-05T04:33:53.292Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "13:00",
+        "createdAt": "2015-06-05T04:33:53.665Z",
+        "objectId": "ChKzP9TcM1",
+        "updatedAt": "2015-06-05T04:33:53.665Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.639Z",
+        "objectId": "KilQ384o0n",
+        "updatedAt": "2015-06-05T04:33:53.639Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.661Z",
+        "objectId": "vlLuoo1KRF",
+        "updatedAt": "2015-06-05T04:33:53.661Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "SUN",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.496Z",
+        "objectId": "e70jRbHxfA",
+        "updatedAt": "2015-06-05T04:33:53.496Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.730Z",
+        "objectId": "YJxdpbFDRW",
+        "updatedAt": "2015-06-05T04:33:53.730Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.648Z",
+        "objectId": "LcHZb6c0gf",
+        "updatedAt": "2015-06-05T04:33:53.648Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.669Z",
+        "objectId": "8yegNCNAXg",
+        "updatedAt": "2015-06-05T04:33:53.669Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.504Z",
+        "objectId": "ewRsX8yHdw",
+        "updatedAt": "2015-06-05T04:33:53.504Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.333Z",
+        "objectId": "OgGR4AP1OQ",
+        "updatedAt": "2015-06-05T04:33:53.333Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "13:00",
+        "createdAt": "2015-06-05T04:33:53.683Z",
+        "objectId": "l2LiJL1Qae",
+        "updatedAt": "2015-06-05T04:33:53.683Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.724Z",
+        "objectId": "Zy8zvbRBSo",
+        "updatedAt": "2015-06-05T04:33:53.724Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.706Z",
+        "objectId": "vQNZEJhJck",
+        "updatedAt": "2015-06-05T04:33:53.706Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.735Z",
+        "objectId": "CCZzGXlav3",
+        "updatedAt": "2015-06-05T04:33:53.735Z"
+    },
+	{
+        "AVIVA_CODE": 10008,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.342Z",
+        "objectId": "XX1liVxHrr",
+        "updatedAt": "2015-06-05T04:33:53.342Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "12:30",
+        "createdAt": "2015-06-05T04:33:53.777Z",
+        "objectId": "3jzdJAf6CM",
+        "updatedAt": "2015-06-05T04:55:56.335Z"
+    },
+	{
+        "AVIVA_CODE": 10011,
+        "OPERATING_DAY": "FRI",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.550Z",
+        "objectId": "s81j70diUi",
+        "updatedAt": "2015-06-05T04:33:53.550Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "17:30",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.566Z",
+        "objectId": "R1lKZpl0kj",
+        "updatedAt": "2015-06-05T04:33:53.566Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "21:00",
+        "OPERATING_HOURS_START": "19:00",
+        "createdAt": "2015-06-05T04:33:53.710Z",
+        "objectId": "5W57MCPmcS",
+        "updatedAt": "2015-06-05T04:33:53.710Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "SAT",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.815Z",
+        "objectId": "59PNWGL55V",
+        "updatedAt": "2015-06-05T04:33:53.815Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.744Z",
+        "objectId": "1GtC2yKprj",
+        "updatedAt": "2015-06-05T04:33:53.744Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "17:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.753Z",
+        "objectId": "esBazaVLHc",
+        "updatedAt": "2015-06-05T04:33:53.753Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.621Z",
+        "objectId": "T10hJwqCKd",
+        "updatedAt": "2015-06-05T04:33:53.621Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "16:00",
+        "OPERATING_HOURS_START": "15:00",
+        "createdAt": "2015-06-05T04:33:53.626Z",
+        "objectId": "7GadzHV3RH",
+        "updatedAt": "2015-06-05T04:33:53.626Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "THU",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.630Z",
+        "objectId": "hcWtCRVZMF",
+        "updatedAt": "2015-06-05T04:33:53.630Z"
+    },
+	{
+        "AVIVA_CODE": 10010,
+        "OPERATING_DAY": "WED",
+        "OPERATING_HOURS_END": "18:00",
+        "OPERATING_HOURS_START": "14:00",
+        "createdAt": "2015-06-05T04:33:53.455Z",
+        "objectId": "oEgNm4u7cG",
+        "updatedAt": "2015-06-05T04:33:53.455Z"
+    },
+	{
+        "AVIVA_CODE": 10086,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.652Z",
+        "objectId": "FfrnTFzZku",
+        "updatedAt": "2015-06-05T04:33:53.652Z"
+    },
+	{
+        "AVIVA_CODE": 10013,
+        "OPERATING_DAY": "TUE",
+        "OPERATING_HOURS_END": "13:00",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.570Z",
+        "objectId": "6hmGk497JH",
+        "updatedAt": "2015-06-05T04:33:53.570Z"
+    },
+	{
+        "AVIVA_CODE": 10046,
+        "OPERATING_DAY": "MON",
+        "OPERATING_HOURS_END": "12:00",
+        "OPERATING_HOURS_START": "10:00",
+        "createdAt": "2015-06-05T04:33:53.604Z",
+        "objectId": "b7Qsy6vNZh",
+        "updatedAt": "2015-06-05T04:33:53.604Z"
+    },
+	{
+        "AVIVA_CODE": 10105,
+        "OPERATING_DAY": "SUN",
+        "OPERATING_HOURS_END": "12:30",
+        "OPERATING_HOURS_START": "8:30",
+        "createdAt": "2015-06-05T04:33:53.820Z",
+        "objectId": "wGorCjSHjC",
+        "updatedAt": "2015-06-05T04:33:53.820Z"
+    }
+] }

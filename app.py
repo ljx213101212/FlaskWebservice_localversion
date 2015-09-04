@@ -6,8 +6,13 @@ import flask
 import time
 import models.queue_api as qapi
 import models.registration as registration
+from models.registration import *
 import json
 from sqlalchemy import update
+
+import sys
+sys.path.insert(0, '/Users/jixiang/Documents/ISS/SEProject/www/DocHeroku2/controller')
+
 
 
 
@@ -27,58 +32,25 @@ def hello_world():
     # but I'm not sure whether it is the right way
     #return a
 
-@app.route('/refreshqueue/<iden>')
-def refresh_queue_by_id(iden):
-    # refresh queue by clinic id so that every night
-    # everything can be a fresh start
-    qapi.refresh_queue_by_clinic_id(1)
-    return "success"
-
-
-@app.route('/hostest')
-def hostest():
-    a = session.query(Clinic).filter_by(id=1).first()
-    result = {}
-    print a
-    for i in a.__dict__:
-        if i[0] == '_':
-            continue
-        result[i] = a.__dict__[i]
-    return flask.jsonify(**result)
-
-
 @app.route('/queryall')
 def queryall():
-    a = session.query(Clinic).all()
-    result = {}
-    print len(a)
+    clinics = session.query(Clinic).order_by(Clinic.id.desc())
     res = []
-
-    for j in a:
-        print j
-        for i in j.__dict__:
+    for clinic in clinics:
+        result = {}
+        #print clinic.__dict__
+        for i in clinic.__dict__:
+            print clinic.__dict__[i]
             if i[0] == '_':
                 continue
-            result[i] = j.__dict__[i]
+            else:
+                result[i] = clinic.__dict__[i]
         res.append(result)
+                
     r = {}
     r['result'] = res
 
     return flask.jsonify(**r)
-
-
-@app.route('/insert/<iden>')
-def testinsert(iden):
-    viewer = User(id=iden,name="andy",email=None)
-    db = session
-    try:
-        db.add(viewer)
-    except:
-        db.rollback()
-        return "failed"
-    db.commit()
-    
-    return "success!"
 
 
 
@@ -97,19 +69,14 @@ def createClinic():
     ## in the new version you don't have to care about the ID number anymore cause it
     ## can auto increment
     data = request.form
-    print data.getlist('name')
     if not data:
         return "No data!"
-    if 'id' not in data:
-        return "at least tell me the id!!!!"
-    a = session.query(Clinic).filter_by(id=data['id']).first()
-    if a:
-        return "ID Already Exist"
-    params = ['name', 'aviva_code',\
-                 'zone', 'estate','address1','address2',\
-                 'postal','telephone','fax','weekday',\
-                 'saturday','sunday','public_holiday','remarks','latitude','longitude']
-    clinic = Clinic(id = data['id'])
+ 
+    # params = ['name', 'aviva_code',\
+    #              'zone', 'estate','address1','address2',\
+    #              'postal','telephone','fax','weekday',\
+    #              'saturday','sunday','public_holiday','remarks','latitude','longitude']
+    clinic = Clinic()
     if 'name' in data:
         clinic.name = data['name']
     if 'address_1' in data:
@@ -137,17 +104,15 @@ def updateById():
         return "Specify ID!"
 
     a = session.query(Clinic).filter_by(id=data['id']).first()
-    if a is not None:
-        return "Invalid ID!"
 
     if 'name' in data:
         a.name = data['name']
-    if 'address1' in data:
-        a.address1 = data['address1']
-    if 'address2' in data:
-        a.address2 = data['address2']
-    ## if you want to add more simply add here
-    session.add(a)
+    if 'address_1' in data:
+        a.address_1 = data['address_1']
+    if 'address_2' in data:
+        a.address_2 = data['address_2']
+    # ## if you want to add more simply add here
+    # session.add(a)
 
     session.commit()
     return "SUCCESS"
@@ -204,6 +169,7 @@ def testQuery():
 
 @app.route('/queue',methods=["POST"])
 def queue():
+
     data = request.get_json()
     print data
     result = {}
@@ -212,6 +178,9 @@ def queue():
         return flask.jsonify(**result)
     if 'clinic_name' not in data:
         result["error"] = "give me clinic name!"
+        return flask.jsonify(**result)
+    if 'fin_no' not in data:
+        result["error"] = "give me fin number!"
         return flask.jsonify(**result)
     #print data
 
@@ -222,6 +191,7 @@ def queue():
         result["queue_num"] = q.queue_number
         d = session.query(Doctor).filter_by(id=q.doctor_id).first()
         result["doctor"] = d.name
+        print data['uuid']
         return flask.jsonify(**result)
         #return "uuid already exist!"
     c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
@@ -229,9 +199,13 @@ def queue():
         result["error"] =  "clinic name does not exsit!"
         return flask.jsonify(**result)
 
-    result = qapi.generate_queue(data['clinic_name'],data['uuid'])
+    result = qapi.generate_queue_li(data['clinic_name'],data['uuid'],data['fin_no'])
+    #result = qapi.generate_queue(data['clinic_name'],data['uuid'])
     print result
     return flask.jsonify(**result)
+    #return "tetett"
+
+    #curl --data "uuid=test&clinic_name=test&fin_no=test" http://10.10.2.223:5000/queue
 
 
 @app.route('/QNAuth',methods=["POST"])
@@ -251,20 +225,24 @@ def registration():
     # shit the fucking meeting made me forget about what
     # I want to write
     data = request.get_json()
-    result = {}
+    result = ""
     if "name" not in data:
-        result["error"] = "at least tell me your name!"
+        result = "at least tell me your name!"
         return flask.jsonify(**result)
     if "ic_num" not in data:
-        result["error"] = "at least tell me your IC number!"
+        result = "at least tell me your IC number!"
         return flask.jsonify(**result)
-    if "queue_num" not in data:
-        result["error"] = "at least tell me your queue number!"
+    if "clinic_name" not in data:
+        result = "at least tell me the clinic_name"
         return flask.jsonify(**result)
-    result["success"] = registration.register(**data)
+    if "patient_phone" not in data:
+        result = "at least tell me the patient_phone"
+        return flask.jsonify(**result)
+
+    result = register_li(data['name'],data['clinic_name'],data['ic_num'],data['patient_phone'])
 
 
-    return flask.jsonify(**result)
+    return result
 
 @app.route('/registerdata',methods = ['POST'])
 def registData():

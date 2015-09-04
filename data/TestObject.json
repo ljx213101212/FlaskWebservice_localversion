@@ -1,0 +1,90 @@
+{ "results": [
+	{
+        "Address": "71 Nanyang Drive, Singapore 638075",
+        "Insurance": {
+            "__type": "File",
+            "name": "tfss-f19a4db9-458a-4e75-9235-1ce8f3b482b1-zurich.png",
+            "url": "http://files.parsetfss.com/4e612ff9-69ef-4a44-b979-14ecc460a3c0/tfss-f19a4db9-458a-4e75-9235-1ce8f3b482b1-zurich.png"
+        },
+        "Name": "SIMTECH",
+        "createdAt": "2015-05-14T07:48:14.610Z",
+        "objectId": "Ga8uAORan0",
+        "updatedAt": "2015-05-28T06:09:47.984Z"
+    },
+	{
+        "Address": "50 Nanyang Ave, 639798",
+        "Insurance": {
+            "__type": "File",
+            "name": "tfss-c304cf1b-0ca3-4456-9821-950ccf9a6ef0-prudential.gif",
+            "url": "http://files.parsetfss.com/4e612ff9-69ef-4a44-b979-14ecc460a3c0/tfss-c304cf1b-0ca3-4456-9821-950ccf9a6ef0-prudential.gif"
+        },
+        "Name": "NTU",
+        "createdAt": "2015-05-14T08:30:27.559Z",
+        "objectId": "RIHjoEkBJ5",
+        "updatedAt": "2015-05-28T06:09:29.236Z"
+    },
+	{
+        "ACL": {
+            "shkqrsTwhi": {
+                "read": true,
+                "write": true
+            }
+        },
+        "Address": "151 Bencoolen St, 189656",
+        "Insurance": {
+            "__type": "File",
+            "name": "tfss-5a2ea131-1ec7-4153-926d-80cb83f03e71-aviva.jpg",
+            "url": "http://files.parsetfss.com/4e612ff9-69ef-4a44-b979-14ecc460a3c0/tfss-5a2ea131-1ec7-4153-926d-80cb83f03e71-aviva.jpg"
+        },
+        "Name": "NAFA",
+        "createdAt": "2015-05-14T09:31:17.218Z",
+        "objectId": "2tOO7wWnnv",
+        "updatedAt": "2015-05-28T06:09:03.920Z"
+    },
+	{
+        "ACL": {
+            "FlUhCpTVA0": {
+                "read": true,
+                "write": true
+            }
+        },
+        "Address": "1 McNally Street, Singapore 187940",
+        "COORDINATES": {
+            "__type": "GeoPoint",
+            "latitude": 1.379886,
+            "longitude": 103.973505
+        },
+        "Insurance": {
+            "__type": "File",
+            "name": "tfss-f8978de6-1b5b-4d15-aadb-cde56202d6c3-aig.gif",
+            "url": "http://files.parsetfss.com/4e612ff9-69ef-4a44-b979-14ecc460a3c0/tfss-f8978de6-1b5b-4d15-aadb-cde56202d6c3-aig.gif"
+        },
+        "Latitude": 1.379886,
+        "Longitude": 103.973505,
+        "Name": "LASALLE",
+        "createdAt": "2015-05-28T03:15:22.954Z",
+        "objectId": "xTMqCuSlhC",
+        "updatedAt": "2015-05-28T06:08:42.525Z"
+    },
+	{
+        "ACL": {
+            "*": {
+                "read": true
+            },
+            "FlUhCpTVA0": {
+                "read": true,
+                "write": true
+            }
+        },
+        "Address": "81 Victoria Street, 188065",
+        "Insurance": {
+            "__type": "File",
+            "name": "tfss-6d5a2c70-697f-4b37-8684-c445f7e95009-hsbc.gif",
+            "url": "http://files.parsetfss.com/4e612ff9-69ef-4a44-b979-14ecc460a3c0/tfss-6d5a2c70-697f-4b37-8684-c445f7e95009-hsbc.gif"
+        },
+        "Name": "SMU",
+        "createdAt": "2015-06-04T03:54:11.411Z",
+        "objectId": "imdFzZ0h5H",
+        "updatedAt": "2015-06-05T02:23:44.270Z"
+    }
+] }
