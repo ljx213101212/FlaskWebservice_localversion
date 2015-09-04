@@ -1,11 +1,13 @@
 from flask import Flask
 from flask import render_template
 from flask import request
+from flask import url_for, redirect
 from database import *
 import flask
 import time
 import models.queue_api as qapi
 import models.registration as registration
+import models.gcm_li as gcm_li
 from models.registration import *
 import json
 from sqlalchemy import update
@@ -173,6 +175,9 @@ def queue():
     data = request.get_json()
     print data
     result = {}
+    if 'reg_id' in data:
+        result["reg_id"] = data['reg_id']
+
     if 'uuid' not in data:
         result["error"] = "give me uuid!"
         return flask.jsonify(**result)
@@ -182,17 +187,28 @@ def queue():
     if 'fin_no' not in data:
         result["error"] = "give me fin number!"
         return flask.jsonify(**result)
+
     #print data
 
-    q = session.query(Queue).filter_by(uuid=data['uuid']).first()
-    if q is not None:
+    # q = session.query(Queue).filter_by(uuid=data['uuid']).first()
+    # if q is not None:
 
-        result["key"] = q.key
-        result["queue_num"] = q.queue_number
-        d = session.query(Doctor).filter_by(id=q.doctor_id).first()
-        result["doctor"] = d.name
-        print data['uuid']
-        return flask.jsonify(**result)
+    #     result["key"] = q.key
+    #     result["queue_num"] = q.queue_number
+    #     d = session.query(Doctor).filter_by(id=q.doctor_id).first()
+    #     result["doctor"] = d.name
+
+    #     #json = flask.jsonify(**result)
+    #     # if "reg_id" not in data:
+    #     #     result['error'] = "at least tell me the reg_id"
+        
+    #     print "**********"
+    #     if 'reg_id' in data:
+    #        gcm_li.gcm_li(data['reg_id'],result)
+    #     print "990090902930912093012"
+    #     return flask.jsonify(**result)
+        #return flask.jsonify(**result)
+
         #return "uuid already exist!"
     c = session.query(Clinic).filter_by(name=data['clinic_name']).first()
     if not c:
@@ -200,24 +216,19 @@ def queue():
         return flask.jsonify(**result)
 
     result = qapi.generate_queue_li(data['clinic_name'],data['uuid'],data['fin_no'])
-    #result = qapi.generate_queue(data['clinic_name'],data['uuid'])
-    print result
+    #result = qapi.generate_queue(data['clinic_name'],data['uuid'])  
+    # json = flask.jsonify(**result)
+    # if "reg_id" not in data:
+    #     result['error'] = "at least tell me the reg_id"
+        
+    print "------------"
+    if 'reg_id' in data:
+        gcm_li.gcm_li(data['reg_id'],result)
     return flask.jsonify(**result)
     #return "tetett"
 
     #curl --data "uuid=test&clinic_name=test&fin_no=test" http://10.10.2.223:5000/queue
 
-
-@app.route('/QNAuth',methods=["POST"])
-def qnauth():
-    data = request.form
-    a = session.query(Queue).filter_by(id=data['id']).first()
-    if not a:
-        return "ID Does Not Exist!"
-    elif a.key == data['key']:
-        return "success"
-
-    return "Auth Failed"
 
 @app.route('/registration',methods=['POST'])
 def registration():
@@ -239,19 +250,49 @@ def registration():
         result = "at least tell me the patient_phone"
         return flask.jsonify(**result)
 
-    result = register_li(data['name'],data['clinic_name'],data['ic_num'],data['patient_phone'])
-
+    #result = register_li(data['name'],data['clinic_name'],data['ic_num'],data['patient_phone'])
+    result = register_li_2(data)
 
     return result
 
-@app.route('/registerdata',methods = ['POST'])
-def registData():
-    # modification for registration
+
+@app.route('/queue_reg',methods=['POST'])
+def queue_reg():
+    
+    data = request.args['messages']
+    result = data
+
+    if "reg_id" not in data:
+        result['error'] = "at least tell me the reg_id"
+
+    print "**********"
+    gcm_li.gcm_li(data['reg_id'],result)
+    return flask.jsonify(**result)
+    
 
 
-    return "SUCCESS"
 
 
+
+# @app.route('/registerdata',methods = ['POST'])
+# def registData():
+#     # modification for registration
+
+
+#     return "SUCCESS"
+
+
+
+# @app.route('/QNAuth',methods=["POST"])
+# def qnauth():
+#     data = request.form
+#     a = session.query(Queue).filter_by(id=data['id']).first()
+#     if not a:
+#         return "ID Does Not Exist!"
+#     elif a.key == data['key']:
+#         return "success"
+
+#     return "Auth Failed"
     
 if __name__ == '__main__':
     app.run(host='0.0.0.0')

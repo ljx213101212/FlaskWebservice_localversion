@@ -86,7 +86,7 @@ class Clinic(Base):
 
 
     def __init__(self,name="None", aviva_code="None",\
-                 zone="None", estate="None",address1="None",address2="None",\
+                 zone="None", estate="None",address_1="None",address_2="None",\
                  postal="None",telephone="None",fax="None",weekday="None",\
                  saturday="None",sunday="None",public_holiday="None",remarks="None",\
                  latitude = "None", longitude="None"):
@@ -95,8 +95,8 @@ class Clinic(Base):
         self.aviva_code = aviva_code
         self.zone = zone
         self.estate = estate
-        self.address1 = address1
-        self.address2 = address2
+        self.address1 = address_1
+        self.address2 = address_2
         self.postal = postal
         self.telephone = telephone
         self.fax = fax
@@ -143,9 +143,10 @@ class Queue(Base):
     clinic_id = Column(Integer,ForeignKey('clinic.id'))
 
 
-    def __init__(self,key=None,uuid=None):
+    def __init__(self,key=None,uuid=None,clinic_id=None):
         self.key = key
         self.uuid = uuid
+        self.clinic_id = clinic_id
 
     def __repr__(self):
         return '<Queue Number %r>' % (self.id)
@@ -182,10 +183,15 @@ class PatientDetail(Base):
 
 
 
-    def __init__(self, patient_id, ic_num=None, phone_num=None):
+    def __init__(self, patient_id, clinic_id=None,ic_num=None, phone_num=None,address_1=None,address_2=None,\
+        blood_group=None):
         self.patient_id = patient_id
         self.ic_num = ic_num
         self.phone_num = phone_num
+        self.clinic_id = clinic_id
+        self.address_1 = address_1
+        self.address_2 = address_2
+        self.blood_group = blood_group
 
     def __repr__(self):
         return '<Patient Detail of %r>' % (self.patient_id)

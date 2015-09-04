@@ -75,6 +75,63 @@ def register_li(patient_name,clinic_name, ic_num, phone_num=None):
     return '1'
 
 
+def register_li_2(data):
+
+    
+    clinic_name = data['clinic_name']
+    patient_name = data['name']
+    ic_num = data['ic_num']
+    #patient_id = data['patient_id']
+    phone_num = data['patient_phone']
+    patient_address_1 = data['patient_address_1']
+    patient_address_2 = data['patient_address_2']
+    blood_group = data['blood_group']
+
+
+
+    # this part is dirty cause there is 2 and more database
+    # operations
+    # q = session.query(Queue).filter_by(queue_num=queue_num).first()
+    # doc = session.query(Doctor).filter_by(id=q.doctor_id).first()
+    clinic = session.query(Clinic).filter_by(name=clinic_name).first()
+    clinic_id = clinic.id 
+
+    # count = session.query(Patient).count()
+    # patient = Patient(patient_id=count+1, name = name)
+    # patient.queue.append(q)
+
+    ## about patient detail
+    # dcount = session.query(PatientDetail).count()
+
+    patient = Patient(name=patient_name)
+    session.add(patient)
+    session.commit()
+
+    #patient = session.query(Patient).filter_by(name=patient_name).first()
+    patient_id = patient.patient_id
+    print patient_id
+
+    if isIc_NumDuplicated(ic_num):
+        print "ic_num duplicated"
+        return '0'
+
+
+    patient_detail = PatientDetail(patient_id=patient_id,clinic_id=clinic_id,\
+        ic_num=ic_num,phone_num=phone_num,address_1=patient_address_1,address_2=patient_address_2,\
+        blood_group=blood_group)
+
+
+    if phone_num:
+        patient_detail.phone_num = phone_num
+
+    ## end of adding foreign key reference
+    session.add(patient_detail)
+    session.commit()
+
+    print "success"
+    return '1'
+
+
 def isIc_NumDuplicated(ic_num):
     patient_detail = session.query(PatientDetail).filter_by(ic_num=ic_num).first()
     if patient_detail:

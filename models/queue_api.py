@@ -83,7 +83,8 @@ def generate_queue_li(clinic_name, uuid, ic_no):
     print clinic_id
 
     queue_num = session.query(Queue).filter_by(clinic_id=clinic_id).count()
-    doctor = session.query(Doctor).filter_by(clinic_id=clinic_id,current_queue_num=None).first()
+    print queue_num
+    doctor = session.query(Doctor).filter_by(clinic_id=clinic_id).first()
 
     if not doctor:
         result['error'] = "j0"
@@ -93,7 +94,7 @@ def generate_queue_li(clinic_name, uuid, ic_no):
 
     if not patient_detail:
         result['error'] = "j1"
-        print result
+        print "Duplicated"
         return result
     patient = session.query(Patient).filter_by(patient_id=patient_detail.patient_id).first()
 
@@ -106,7 +107,7 @@ def generate_queue_li(clinic_name, uuid, ic_no):
     print doctor.name
     print patient.patient_id
 
-    queue = Queue(key=k, uuid=uuid)
+    queue = Queue(key=k, uuid=uuid,clinic_id=clinic_id)
     queue.queue_number = queue_num + 1
     queue.doctor_id = doctor.id
     queue.patient_id = patient.patient_id
