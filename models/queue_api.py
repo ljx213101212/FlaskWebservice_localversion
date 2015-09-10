@@ -82,20 +82,24 @@ def generate_queue_li(clinic_name, uuid, ic_no):
 
     print clinic_id
 
-    queue_num = session.query(Queue).filter_by(clinic_id=clinic_id).count()
-    print queue_num
+    # queue_num = session.query(Queue).filter_by(clinic_id=clinic_id).count()
+    # print queue_num
     doctor = session.query(Doctor).filter_by(clinic_id=clinic_id).first()
 
     if not doctor:
         result['error'] = "j0"
-        print "No doctor available!"
+        print "No doctor was set in this clinic!"
         return result
     else:
         doctor = session.query(Doctor).filter_by(clinic_id=clinic_id,flag=0).first()
         if not doctor:
             reset_flag()
             doctor = session.query(Doctor).filter_by(clinic_id=clinic_id,flag=0).first()
-
+    
+    queue_num = doctor.current_queue_num
+    if not queue_num:
+        queue_num = 0
+        
     patient_detail = session.query(PatientDetail).filter_by(ic_num=ic_no).first()
     patient = None
     if patient_detail:
