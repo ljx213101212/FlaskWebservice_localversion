@@ -223,6 +223,7 @@ def queue():
         
     print "------------"
     if 'reg_id' in data:
+        print "######reg_id###$$$--->"+data['reg_id']
         gcm_li.gcm_li(data['reg_id'],result)
     return flask.jsonify(**result)
     #return "tetett"
@@ -238,16 +239,16 @@ def registration():
     data = request.get_json()
     result = ""
     if "name" not in data:
-        result = "at least tell me your name!"
+        result['error'] = "at least tell me your name!"
         return flask.jsonify(**result)
     if "ic_num" not in data:
-        result = "at least tell me your IC number!"
+        result['error'] = "at least tell me your IC number!"
         return flask.jsonify(**result)
     if "clinic_name" not in data:
-        result = "at least tell me the clinic_name"
+        result['error'] = "at least tell me the clinic_name"
         return flask.jsonify(**result)
     if "patient_phone" not in data:
-        result = "at least tell me the patient_phone"
+        result['error'] = "at least tell me the patient_phone"
         return flask.jsonify(**result)
 
     #result = register_li(data['name'],data['clinic_name'],data['ic_num'],data['patient_phone'])

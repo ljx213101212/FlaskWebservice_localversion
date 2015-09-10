@@ -121,12 +121,14 @@ class Doctor(Base):
     # the doctor
     current_queue_num = Column(Integer)
     clinic_id = Column(Integer, ForeignKey('clinic.id'))   ## add some foreign key factor inside
+    flag = Column(Integer)
     queue_id = relationship('Queue', backref='queue')
 
-    def __init__(self, id, name=None,clinic_id=None):
+    def __init__(self, id, name=None,clinic_id=None,flag=0):
         self.id = id
         self.name = name
         self.clinic_id = clinic_id
+        self.flag = flag
 
     def __repr__(self):
         return '<Doctor %r>' % (self.name)

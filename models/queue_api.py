@@ -90,28 +90,39 @@ def generate_queue_li(clinic_name, uuid, ic_no):
         result['error'] = "j0"
         print "No doctor available!"
         return result
+    else:
+        doctor = session.query(Doctor).filter_by(clinic_id=clinic_id,flag=0).first()
+        if not doctor:
+            reset_flag()
+            doctor = session.query(Doctor).filter_by(clinic_id=clinic_id,flag=0).first()
+
     patient_detail = session.query(PatientDetail).filter_by(ic_num=ic_no).first()
+    patient = None
+    if patient_detail:
+        patient = session.query(Patient).filter_by(patient_id=patient_detail.patient_id).first()
 
-    if not patient_detail:
-        result['error'] = "j1"
-        print "Duplicated"
-        return result
-    patient = session.query(Patient).filter_by(patient_id=patient_detail.patient_id).first()
+    # if not patient_detail:
+    #     result['error'] = "j1"
+    #     print "You need register first"
+    #     return result
+    # patient = session.query(Patient).filter_by(patient_id=patient_detail.patient_id).first()
 
-    if not patient:
-        result['error'] = "j1"
-        print result
-        return result
+    # if not patient:
+    #     result['error'] = "j1"
+    #     print result
+    #     return result
 
     print queue_num
     print doctor.name
-    print patient.patient_id
+    #print patient.patient_id
 
     queue = Queue(key=k, uuid=uuid,clinic_id=clinic_id)
     queue.queue_number = queue_num + 1
     queue.doctor_id = doctor.id
-    queue.patient_id = patient.patient_id
+    if patient:
+        queue.patient_id = patient.patient_id
     doctor.current_queue_num = queue_num + 1
+    set_flag(doctor)
 
 
     session.add(queue)
@@ -145,3 +156,15 @@ def generate_queue_li(clinic_name, uuid, ic_no):
 # ic_no = "t"
 
 # print generate_queue(clinic_name,uuid,ic_no)
+
+
+def reset_flag():
+    doctors = session.query(Doctor).order_by(Doctor.id.desc())
+    for doctor in doctors:
+        doctor.flag = 0
+    session.commit()
+
+def set_flag(doctor):
+    doctor.flag = 1
+
+
