@@ -8,6 +8,7 @@ import time
 import models.queue_api as qapi
 import models.registration as registration
 import models.gcm_li as gcm_li
+import models.route_api as rapi
 from models.registration import *
 import json
 from sqlalchemy import update
@@ -54,6 +55,52 @@ def queryall():
 
     return flask.jsonify(**r)
 
+
+#
+@app.route('/querybykilo',methods=['GET'])
+def querybykilo():
+    print request.args.get('src_lat')
+    print request.args.get('src_lng')
+    print request.args.get('kilo')
+    src_lat = request.args.get('src_lat')
+    src_lng = request.args.get('src_lng')
+    kilo = request.args.get('kilo')
+
+    if 'src_lat' not in request.args:
+        result["error"] = "give me src_lat"
+        return flask.jsonify(**result)
+    if 'src_lng' not in request.args:
+        result["error"] = "give me src_lng"
+        return flask.jsonify(**result)
+    if 'kilo' not in request.args:
+        result["error"] = "give me kilo"
+        return flask.jsonify(**result)
+
+    clinics = session.query(Clinic).order_by(Clinic.id.desc())
+    res = []
+    counter = 0
+    for clinic in clinics:
+        result = {}
+        if clinic.latitude and clinic.longtitude:
+            if not rapi.isWithNKilometers(src_lat,src_lng,kilo,clinic.latitude,clinic.longtitude):
+                continue
+            else:
+                counter+=1
+                print clinic.name
+                for i in clinic.__dict__:
+                    #print clinic.__dict__[i]
+                    if i[0] == '_':
+                        continue
+                    else:
+                        result[i] = clinic.__dict__[i]
+                res.append(result)
+    
+    print counter        
+    r = {}
+    r['result'] = res
+
+    return flask.jsonify(**r)
+    
 
 
 @app.route('/testpost',methods=["POST"])
