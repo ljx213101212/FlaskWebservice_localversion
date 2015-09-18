@@ -32,3 +32,4 @@ In the newer versio  I will eradicate everything that contains id in the request
 
 **/queue** is a POST request, you send information as a JSON with the key "uuid" and "clinic\_name", you get return with a JSON that contains informatin about "ququq\_num", "key", and "doctor".
 # FlaskWebservice
+# FlaskWebservice_localversion
