@@ -43,7 +43,7 @@ def queryall():
         result = {}
         #print clinic.__dict__
         for i in clinic.__dict__:
-            print clinic.__dict__[i]
+            #print clinic.__dict__[i]
             if i[0] == '_':
                 continue
             else:
@@ -52,6 +52,7 @@ def queryall():
                 
     r = {}
     r['result'] = res
+    print "I got you queryall"
 
     return flask.jsonify(**r)
 
@@ -132,6 +133,10 @@ def createClinic():
         clinic.address_1 = data['address_1']
     if 'address_2' in data:
         clinic.address_2 = data['address_2']
+    # if 'latitude' in data:
+    #     clinic.latitude = data['latitude']
+    # if 'longtitude' in data:
+    #     clinic.longtitude = data['longtitude']
     print data
     print clinic
     session.add(clinic)
@@ -318,6 +323,46 @@ def queue_reg():
     return flask.jsonify(**result)
     
 
+@app.route('/insurance_url',methods=['POST'])
+def insurance_url():
+    
+    result = {}
+    data = request.form
+   
+    print data
+
+    if "name" not in data:
+        result['error'] = "c0"
+        return flask.jsonify(**result)
+
+     #a = session.query(Clinic).filter_by(id=data['id']).first()
+
+    clinic = session.query(Clinic).filter_by(name=data['name']).first()
+    print "clinic_id is: "
+    print clinic.id
+
+    clinicInsurances = session.query(ClinicInsurance).filter_by(clinic_id=clinic.id)
+
+    temp_result = []
+    for clinicInsurance in clinicInsurances:
+        
+        if not clinicInsurance.insurance_id:
+            result['error'] = "i0"
+            return flask.jsonify(**result)
+        else:
+            card = session.query(Insurance).filter_by(insurance_id=clinicInsurance.insurance_id).first()
+            if not card.insurance_id:
+                result['error'] = "i0"
+                return flask.jsonify(**result)
+            else:
+                temp_result.append(card.img_url)
+
+    for i in range(len(temp_result)):
+        index_name = "url_"+str(i)
+        result[index_name] = temp_result[i]
+
+    print result
+    return flask.jsonify(**result)
 
 
 

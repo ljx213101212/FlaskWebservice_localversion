@@ -83,6 +83,7 @@ class Clinic(Base):
     
     patient_detail = relationship('PatientDetail', backref='clinic')
     doctors = relationship('Doctor', backref='doctors')
+    clinic_insurance = relationship('ClinicInsurance',backref='clinic')
 
 
     def __init__(self,name="None", aviva_code="None",\
@@ -159,7 +160,7 @@ class Patient(Base):
     patient_id = Column(Integer, primary_key=True)
     name = Column(String(64))
     detail = relationship('PatientDetail', backref='patient')
-    insurance = relationship('Insurance', backref='insurance')
+    #insurance = relationship('Insurance', backref='insurance')
     queue = relationship('Queue', backref='patient')
 
     def __init__(self,name=None):
@@ -203,14 +204,32 @@ class PatientDetail(Base):
 class Insurance(Base):
     __tablename__ = 'insurance'
     insurance_id = Column(Integer, primary_key=True)
-    insurance_type = Column(String(64))
-    patien_name =Column(String(10))
-    patien_id = Column(Integer, ForeignKey('patient.patient_id'))
+    insurance_name = Column(String(256))
+    img_url = Column(String(256))
+    #clinic_id = Column(Integer, ForeignKey('clinic.id'))
+    insurance = relationship('ClinicInsurance',backref='insurance')
 
-    def __init__(self, insurance_id, insurance_type=None, patient_name=None):
-        self.insurance_id = insurance_id
-        self.insurance_type = insurance_type
-        self.patien_name = patient_name
+    def __init__(self,insurance_name=None, img_url=None):
+        self.insurance_name = insurance_name
+        self.img_url = img_url
+        #self.clinic_id = clinic_id
 
     def __repr__(self):
-        return '<Insurance of Patient %r>' % (self.patien_name)
+        return '<Insurance of Patient %r>' % (self.insurance_id)
+
+
+
+class ClinicInsurance(Base):
+    __tablename__ = 'clinic_insurance'
+    dummy_id = Column(Integer,primary_key=True,autoincrement=True)
+    insurance_id = Column(Integer, ForeignKey('insurance.insurance_id'))
+    clinic_id = Column(Integer, ForeignKey('clinic.id'))
+    #PrimaryKeyConstraint('insurance_id', 'clinic_id', name='mytable_1')
+
+    def __init__(self,insurance_id,clinic_id):
+        self.insurance_id = insurance_id
+        self.clinic_id = clinic_id
+
+    def __repr__(self):
+        return '<Collection of clinics which have Insurance card %r>' %(self.insurance_id)
+ 
